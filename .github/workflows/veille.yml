@@ -1,0 +1,36 @@
+name: Routine Veille Automatique Heptaleo
+
+on:
+  schedule:
+    # Le robot se lancera toutes les 6 heures
+    - cron: '0 */6 * * *'
+  workflow_dispatch: # Permet de lancer le robot manuellement en un clic pour tester
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: 📥 Récupérer le code du dépôt
+      uses: actions/checkout@v4
+
+    - name: 🐍 Installer Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'
+
+    - name: 📦 Installer les bibliothèques
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+
+    - name: 🚀 Lancer le script de veille
+      run: python veille_rss.py
+
+    - name: 💾 Enregistrer le flux XML sur GitHub
+      run: |
+        git config --global user.name "Heptaleo Bot"
+        git config --global user.email "bot@heptaleo.fr"
+        # On force l'ajout du flux.xml pour qu'il se mette à jour en ligne
+        git add -f flux.xml
+        git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 Mise à jour automatique du flux RSS" && git push)
