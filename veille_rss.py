@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 from datetime import datetime, timedelta, timezone
 import email.utils
 
-print("🌍 Initialisation de la veille mondiale Heptaleo (Syntaxe Google News Fixée) ...")
+print("🌍 Initialisation de la veille mondiale Heptaleo (Filtrage Python Natif) ...")
 
 # 1. Configuration du flux RSS de sortie
 fg = FeedGenerator()
@@ -14,26 +14,17 @@ fg.title('Veille Mondiale Heptathlon & Pentathlon')
 fg.description('Flux international automatisé (FR/EN/ES) pour Heptaleo.')
 fg.link(href='https://heptaleo.fr', rel='alternate')
 
-# 2. Liste des mots-clés par langue (Syntaxe à plat sans parenthèses pour Google News)
+# 2. Requêtes simplifiées au maximum pour Google News (Zéro bug possible côté Google)
 recherches = [
-    {
-        "query": "heptathlon -moderne -décathlon OR pentathlon -moderne -décathlon OR 'épreuves combinées' -moderne -décathlon OR 'Léonie Cambours' OR 'Heptaleo'", 
-        "lang": "fr", "ce": "FR", "code_lang": "FR"
-    },
-    {
-        "query": "heptathlon -modern -decathlon OR pentathlon -modern -decathlon OR 'combined events' -modern -decathlon OR 'Léonie Cambours' OR 'Heptaleo'", 
-        "lang": "en", "ce": "US", "code_lang": "EN"
-    },
-    {
-        "query": "heptatlón -moderno -decatlón OR pentatlón -moderno -decatlón OR 'pruebas combinadas' -moderno -decatlón OR 'Léonie Cambours' OR 'Heptaleo'", 
-        "lang": "es", "ce": "ES", "code_lang": "ES"
-    }
+    {"query": "heptathlon OR pentathlon OR 'épreuves combinées' OR 'Léonie Cambours' OR 'Heptaleo'", "lang": "fr", "ce": "FR", "code_lang": "FR"},
+    {"query": "heptathlon OR pentathlon OR 'combined events' OR 'Léonie Cambours' OR 'Heptaleo'", "lang": "en", "ce": "US", "code_lang": "EN"},
+    {"query": "heptatlón OR pentatlón OR 'pruebas combinadas' OR 'Léonie Cambours' OR 'Heptaleo'", "lang": "es", "ce": "ES", "code_lang": "ES"}
 ]
 
 urls_ajoutees = set()
 tous_les_articles = []
 
-# Date limite à 30 jours (tu peux la remettre à 30 maintenant que la recherche va remarcher)
+# Date limite à 30 jours
 limite_retroactive = datetime.now(timezone.utc) - timedelta(days=30)
 
 # 3. Récupération des articles depuis Google News
@@ -54,6 +45,15 @@ for r in recherches:
             lien = item.link.text
             date_brute = item.pubDate.text
             
+            titre_lower = titre.lower()
+            
+            # --- LE FILTRE PYTHON (On nettoie nous-mêmes) ---
+            # Si le titre contient décathlon ou moderne, on l'écarte SAUF si ça parle de Léonie ou Heptaleo !
+            if "léonie" in titre_lower or "cambours" in titre_lower or "heptaleo" in titre_lower:
+                pass # On le garde d'office !
+            elif "décathlon" in titre_lower or "decathlon" in titre_lower or "decatlón" in titre_lower or "moderne" in titre_lower or "modern" in titre_lower or "moderno" in titre_lower:
+                continue # On passe à l'article suivant, on l'exclut.
+            
             try:
                 date_parsed = email.utils.parsedate_to_datetime(date_brute)
                 date_parsed = date_parsed.astimezone(timezone.utc)
@@ -73,7 +73,7 @@ for r in recherches:
     except Exception as e:
         print(f"⚠️ Erreur lors de la récupération [{r['code_lang']}] : {e}")
 
-# --- 4. FILTRAGE ET LIMITES (15 max par langue) ---
+# --- 4. FILTRAGE PAR DATE ET LIMITES (15 max par langue) ---
 articles_recents = [a for a in tous_les_articles if a['date_objet'] >= limite_retroactive]
 
 articles_fr = [a for a in articles_recents if a['langue'] == 'FR']
@@ -89,7 +89,7 @@ top_fr = articles_fr[:15]
 top_en = articles_en[:15]
 top_es = articles_es[:15]
 
-# --- 5. ATTRIBUTION DES DATES FICTIVES ---
+# --- 5. ATTRIBUTION DES DATES FICTIVES POUR LE TRI START.ME ---
 maintenant = datetime.now(timezone.utc)
 
 for i, art in enumerate(top_fr):
@@ -118,6 +118,6 @@ for art in liste_ordonnee_finale:
 
 if len(liste_ordonnee_finale) > 0:
     fg.rss_file('flux.xml', pretty=True)
-    print(f"✨ Succès ! {len(liste_ordonnee_finale)} articles trouvés et triés sans parenthèses !")
+    print(f"✨ Succès ! {len(liste_ordonnee_finale)} articles trouvés et triés !")
 else:
     print("❌ Aucun article trouvé.")
