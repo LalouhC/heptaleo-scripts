@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 from datetime import datetime, timedelta, timezone
 import email.utils
 
-print("🌍 Initialisation de la veille mondiale Heptaleo (Standardisation des dates) ...")
+print("🌍 Initialisation de la veille mondiale Heptaleo (Syntaxe Google News Fixée) ...")
 
 # 1. Configuration du flux RSS de sortie
 fg = FeedGenerator()
@@ -14,18 +14,18 @@ fg.title('Veille Mondiale Heptathlon & Pentathlon')
 fg.description('Flux international automatisé (FR/EN/ES) pour Heptaleo.')
 fg.link(href='https://heptaleo.fr', rel='alternate')
 
-# 2. Liste des mots-clés par langue
+# 2. Liste des mots-clés par langue (Syntaxe à plat sans parenthèses pour Google News)
 recherches = [
     {
-        "query": "heptathlon OR pentathlon OR 'épreuves combinées' OR 'Léonie Cambours' OR 'Heptaleo' -moderne -décathlon", 
+        "query": "heptathlon -moderne -décathlon OR pentathlon -moderne -décathlon OR 'épreuves combinées' -moderne -décathlon OR 'Léonie Cambours' OR 'Heptaleo'", 
         "lang": "fr", "ce": "FR", "code_lang": "FR"
     },
     {
-        "query": "heptathlon OR pentathlon OR 'combined events' OR 'Léonie Cambours' OR 'Heptaleo' -modern -decathlon", 
+        "query": "heptathlon -modern -decathlon OR pentathlon -modern -decathlon OR 'combined events' -modern -decathlon OR 'Léonie Cambours' OR 'Heptaleo'", 
         "lang": "en", "ce": "US", "code_lang": "EN"
     },
     {
-        "query": "heptatlón OR pentatlón OR 'pruebas combinadas' OR 'Léonie Cambours' OR 'Heptaleo' -moderno -decatlón", 
+        "query": "heptatlón -moderno -decatlón OR pentatlón -moderno -decatlón OR 'pruebas combinadas' -moderno -decatlón OR 'Léonie Cambours' OR 'Heptaleo'", 
         "lang": "es", "ce": "ES", "code_lang": "ES"
     }
 ]
@@ -33,7 +33,7 @@ recherches = [
 urls_ajoutees = set()
 tous_les_articles = []
 
-# Date limite réelle : Il y a 30 jours
+# Date limite à 30 jours (tu peux la remettre à 30 maintenant que la recherche va remarcher)
 limite_retroactive = datetime.now(timezone.utc) - timedelta(days=30)
 
 # 3. Récupération des articles depuis Google News
@@ -80,7 +80,7 @@ articles_fr = [a for a in articles_recents if a['langue'] == 'FR']
 articles_en = [a for a in articles_recents if a['langue'] == 'EN']
 articles_es = [a for a in articles_recents if a['langue'] == 'ES']
 
-# Tri Chronologique RÉEL au sein de chaque langue
+# Tri Chronologique au sein de chaque langue
 articles_fr.sort(key=lambda x: x['date_objet'], reverse=True)
 articles_en.sort(key=lambda x: x['date_objet'], reverse=True)
 articles_es.sort(key=lambda x: x['date_objet'], reverse=True)
@@ -89,20 +89,17 @@ top_fr = articles_fr[:15]
 top_en = articles_en[:15]
 top_es = articles_es[:15]
 
-# --- 5. ATTRIBUTION DES DATES FICTIVES FORMATÉES POUR START.ME ---
+# --- 5. ATTRIBUTION DES DATES FICTIVES ---
 maintenant = datetime.now(timezone.utc)
 
-# Les FR auront la date de maintenant (ex: Aujourd'hui)
 for i, art in enumerate(top_fr):
     dt = maintenant - timedelta(minutes=i)
     art['date_rss'] = email.utils.format_datetime(dt)
 
-# Les EN auront la date d'hier (-1 jour)
 for i, art in enumerate(top_en):
     dt = maintenant - timedelta(days=1, minutes=i)
     art['date_rss'] = email.utils.format_datetime(dt)
 
-# Les ES auront la date d'avant-hier (-2 jours)
 for i, art in enumerate(top_es):
     dt = maintenant - timedelta(days=2, minutes=i)
     art['date_rss'] = email.utils.format_datetime(dt)
@@ -116,14 +113,11 @@ for art in liste_ordonnee_finale:
     fe.id(art['lien'])
     fe.title(f"[{art['langue']}] {art['titre']}")
     fe.link(href=art['lien'])
-    
-    # ASTUCE PROPRE : On force le pubDate avec le format texte standardisé
     fe.pubDate(art['date_rss'])
-    
     fe.description(f"Publié le : {art['date_texte']} - Source : Google News ({art['langue']})")
 
 if len(liste_ordonnee_finale) > 0:
     fg.rss_file('flux.xml', pretty=True)
-    print(f"✨ Succès ! {len(liste_ordonnee_finale)} articles injectés avec des dates standardisées !")
+    print(f"✨ Succès ! {len(liste_ordonnee_finale)} articles trouvés et triés sans parenthèses !")
 else:
     print("❌ Aucun article trouvé.")
