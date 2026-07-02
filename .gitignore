@@ -1,0 +1,6 @@
+.venv/
+venv/
+ENV/
+__pycache__/
+*.pyc
+flux.xml
