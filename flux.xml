@@ -6,47 +6,19 @@
     <description>Flux international automatisé (FR/EN/ES) pour Heptaleo.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 05 Jul 2026 09:47:56 +0000</lastBuildDate>
-    <item>
-      <title>[ES] El Autonómico de pruebas combinadas preludia las vacaciones - La Rioja</title>
-      <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxQVjlRSDI3SnloTk5oV0JhREEwNnNIeklGaHU5TUJZeU9zVlAyT1RJTmVKaUlHN3dvWHBzYWFhbDc0cE9jZnc5Zmd6YUVEN05IYXlGMWVRbUNXRDFkTmp1ZUt0X3VhMHdDc19xeEE3OVpaSzJmcGhDMXJxdW5lb2RsaEVTWFhZa1VlaVAzLWJkR3QtcnpXWHJxM1VNM0Z6dWloczBJSW5ZOXVJX0VETkJFZjBzMXVYQdIBuwFBVV95cUxNUHlfT2NvWXNjS0t5bktYRUVJQlpYMGlmNmdka0Npb1liSzV1QnNSX2xscUpvdGNaZjIxZXBfY3ZVNmtQNTdKa2tfLUZtSEw3OWpHOUlwQVBsdTR6dEtHeEF6WEdkOXJWTDZKWVp5WDdpREFiSHVSVnJWZ2hQdnA4clNNMG8xRVFraFVCUWYtUTVoSnEyajh2QjQ3eng2bTk3TVlucEw5bEdLTUs0WUlTMHF4SkhZOHBzMHlj?oc=5</link>
-      <description>Publié le : Sat, 13 Jun 2026 07:00:00 GMT - Source : Google News (ES)</description>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitgFBVV95cUxQVjlRSDI3SnloTk5oV0JhREEwNnNIeklGaHU5TUJZeU9zVlAyT1RJTmVKaUlHN3dvWHBzYWFhbDc0cE9jZnc5Zmd6YUVEN05IYXlGMWVRbUNXRDFkTmp1ZUt0X3VhMHdDc19xeEE3OVpaSzJmcGhDMXJxdW5lb2RsaEVTWFhZa1VlaVAzLWJkR3QtcnpXWHJxM1VNM0Z6dWloczBJSW5ZOXVJX0VETkJFZjBzMXVYQdIBuwFBVV95cUxNUHlfT2NvWXNjS0t5bktYRUVJQlpYMGlmNmdka0Npb1liSzV1QnNSX2xscUpvdGNaZjIxZXBfY3ZVNmtQNTdKa2tfLUZtSEw3OWpHOUlwQVBsdTR6dEtHeEF6WEdkOXJWTDZKWVp5WDdpREFiSHVSVnJWZ2hQdnA4clNNMG8xRVFraFVCUWYtUTVoSnEyajh2QjQ3eng2bTk3TVlucEw5bEdLTUs0WUlTMHF4SkhZOHBzMHlj?oc=5</guid>
-      <pubDate>Sat, 13 Jun 2026 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[EN] Arkansas wins the 2026 DI men's outdoor track and field championship - NCAA.com</title>
-      <link>https://news.google.com/rss/articles/CBMiwAFBVV95cUxOODBLSndUemhlcVRUV1VTZW1tRlFqUW5pY1hrVmZtaVd0enBELTJVdi1KbGtwdHlieXYwZkZvWW40N0NJcm90S0FYZHh6TkhUZFV1cFE1c2Fqd2xSelNrS3JXTzVDTnlRekhQOGxkb3hrTV8tMmRESkxUY1lHSlplZzVjS3c3TlVfdmpLUnozWnNLbXR1bnlDTVZrd1lZTEZ5MTlhR1FTLUxxS1B3cVRmSTZzNTdwWVlJYjdzdGZBeVE?oc=5</link>
-      <description>Publié le : Sat, 13 Jun 2026 07:00:00 GMT - Source : Google News (EN)</description>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwAFBVV95cUxOODBLSndUemhlcVRUV1VTZW1tRlFqUW5pY1hrVmZtaVd0enBELTJVdi1KbGtwdHlieXYwZkZvWW40N0NJcm90S0FYZHh6TkhUZFV1cFE1c2Fqd2xSelNrS3JXTzVDTnlRekhQOGxkb3hrTV8tMmRESkxUY1lHSlplZzVjS3c3TlVfdmpLUnozWnNLbXR1bnlDTVZrd1lZTEZ5MTlhR1FTLUxxS1B3cVRmSTZzNTdwWVlJYjdzdGZBeVE?oc=5</guid>
-      <pubDate>Sat, 13 Jun 2026 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[EN] 2026 NCAA outdoor track and field championships: Schedule, location, how to watch, results - NCAA.com</title>
-      <link>https://news.google.com/rss/articles/CBMi1gFBVV95cUxOczU3Q0NyOW0zQVpIRm1hX0xnVE1sQ3JvVXRxVHRqWWVhbUVKS0ZJTmJ0Q05xdV9KY3ZUOEVNaVYwTWU4TzEzZFYydVQ0aEdDbEtlOVhPTUpKWlR5UHl0blpVZ2pNejAxLVlBRm5LQmpnYkRQWTdYY2RCeXJER2JnUGxZdTEtYXJMYm5RZVRKR3A3LXRwNlZwcFU4ZkFlczRLYVJRc05aMjI5ZGNZLVpPcEFwOUtseEgxLUZHbGdGbHZWLXFSTWsweERKbWZSRkFLM1U0bDV30gHbAUFVX3lxTE5YMi02TFk1RjIybXlXYTJuSnR2dG5mNDFIQXlvQml2bWs0cmtDLXNubkZrX3k0Ym9ObU9hTUUwR1g5QU03RWUtZGcyVXZKbUlXQW1qc1J3UmVsYndBblY5X04wNnpiMlZSZV9xSnJPOVN2M3JTTnotV2lpVmpYQmxsbnB3cVVFMEZKN1VMdmVyQTRsVTJ6QVUxTWMzcVdzalNVTXc1OEFkUUNHb3hJX3hhNEJtZE1LbWhGRGUxTFppNDhKalBCeVdnMTJEZTMxQ0tUTzljUjh3VFV0aw?oc=5</link>
-      <description>Publié le : Sat, 13 Jun 2026 07:00:00 GMT - Source : Google News (EN)</description>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi1gFBVV95cUxOczU3Q0NyOW0zQVpIRm1hX0xnVE1sQ3JvVXRxVHRqWWVhbUVKS0ZJTmJ0Q05xdV9KY3ZUOEVNaVYwTWU4TzEzZFYydVQ0aEdDbEtlOVhPTUpKWlR5UHl0blpVZ2pNejAxLVlBRm5LQmpnYkRQWTdYY2RCeXJER2JnUGxZdTEtYXJMYm5RZVRKR3A3LXRwNlZwcFU4ZkFlczRLYVJRc05aMjI5ZGNZLVpPcEFwOUtseEgxLUZHbGdGbHZWLXFSTWsweERKbWZSRkFLM1U0bDV30gHbAUFVX3lxTE5YMi02TFk1RjIybXlXYTJuSnR2dG5mNDFIQXlvQml2bWs0cmtDLXNubkZrX3k0Ym9ObU9hTUUwR1g5QU03RWUtZGcyVXZKbUlXQW1qc1J3UmVsYndBblY5X04wNnpiMlZSZV9xSnJPOVN2M3JTTnotV2lpVmpYQmxsbnB3cVVFMEZKN1VMdmVyQTRsVTJ6QVUxTWMzcVdzalNVTXc1OEFkUUNHb3hJX3hhNEJtZE1LbWhGRGUxTFppNDhKalBCeVdnMTJEZTMxQ0tUTzljUjh3VFV0aw?oc=5</guid>
-      <pubDate>Sat, 13 Jun 2026 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[ES] Las Combinadas, casi sin atletas - La Rioja</title>
-      <link>https://news.google.com/rss/articles/CBMijAFBVV95cUxNdU1uUmdQUTRWNG9oSk9YcEd4WTA3VkxpSGpOc2kwbXR5bzI1Q1lLaGhiNXV6NVJzMXJmV1BnczhmNHZ0RWxxN1BqeWxQUzZBRTRGR2xqcjllcXVZT3hZUXRlck5CM3ppYVBYaXZmU2VxTWlNeFJnWU9lN2JmNnFXZlhleXhkOXItaUgxWdIBkgFBVV95cUxPcDIwdTZMVTc4bEEtWDl0TnFPLXl1ejdKRHVldVBHcTRTaTBPaUFpMFN4bnlTWkx6a2lubW9tMUV3OWxGcXVCVno3QTNVZmNkQjYxWWh6RnZpU0w5V1BKODlHVkw4NDRpbVdIMFJReHAxNkZVUjlCMmRNaGhnNjgxVWhySFRQLXJxbVVaRnVvRkpIUQ?oc=5</link>
-      <description>Publié le : Sun, 14 Jun 2026 07:00:00 GMT - Source : Google News (ES)</description>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMijAFBVV95cUxNdU1uUmdQUTRWNG9oSk9YcEd4WTA3VkxpSGpOc2kwbXR5bzI1Q1lLaGhiNXV6NVJzMXJmV1BnczhmNHZ0RWxxN1BqeWxQUzZBRTRGR2xqcjllcXVZT3hZUXRlck5CM3ppYVBYaXZmU2VxTWlNeFJnWU9lN2JmNnFXZlhleXhkOXItaUgxWdIBkgFBVV95cUxPcDIwdTZMVTc4bEEtWDl0TnFPLXl1ejdKRHVldVBHcTRTaTBPaUFpMFN4bnlTWkx6a2lubW9tMUV3OWxGcXVCVno3QTNVZmNkQjYxWWh6RnZpU0w5V1BKODlHVkw4NDRpbVdIMFJReHAxNkZVUjlCMmRNaGhnNjgxVWhySFRQLXJxbVVaRnVvRkpIUQ?oc=5</guid>
-      <pubDate>Sun, 14 Jun 2026 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[EN] Georgia wins the 2026 DI women's outdoor track and field championship - NCAA.com</title>
-      <link>https://news.google.com/rss/articles/CBMixAFBVV95cUxObGJ1RmU1c2Q1TVhCZVczdm1INnNwNW4wbnFWZEFTRkFDUzUzT1h4R0Mtc1BXbnpqV1FwZzd6ZmZ5U2JSX1hjYjRuR2ZtODRxRDFhX1p5SkdIU0Y4a24xZ2VjUmZQbEtMOFBSSFVHQllNN2JkRXVJbzJKWlNCZGE0UG0wb3VIMGM2SmdfNk9CU1NSTmhhdGZWWmN6STlFU0lYTnVPelRGYmd5MzdKVG5HcTJEeTJhRUowZUpoZXpJR3d4MjFl?oc=5</link>
-      <description>Publié le : Sun, 14 Jun 2026 07:00:00 GMT - Source : Google News (EN)</description>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMixAFBVV95cUxObGJ1RmU1c2Q1TVhCZVczdm1INnNwNW4wbnFWZEFTRkFDUzUzT1h4R0Mtc1BXbnpqV1FwZzd6ZmZ5U2JSX1hjYjRuR2ZtODRxRDFhX1p5SkdIU0Y4a24xZ2VjUmZQbEtMOFBSSFVHQllNN2JkRXVJbzJKWlNCZGE0UG0wb3VIMGM2SmdfNk9CU1NSTmhhdGZWWmN6STlFU0lYTnVPelRGYmd5MzdKVG5HcTJEeTJhRUowZUpoZXpJR3d4MjFl?oc=5</guid>
-      <pubDate>Sun, 14 Jun 2026 07:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 05 Jul 2026 15:56:07 +0000</lastBuildDate>
     <item>
       <title>[ES] Celia Hidalgo estrenará internacionalidad en Portugal - El Adelantado</title>
       <link>https://news.google.com/rss/articles/CBMioAFBVV95cUxPYUg1N0pxYWpSbXlzZUpGV0VnVUhuUHBrV3ZyX1BickYtdjYwSXBYckdtRjBESVVaM2w3M0twMUFMck5tT1FqYzBvZUt1a3hIOWVRaDU3YjJreVR0N0hoeEYwMklRUUVOLWJQMXBfYVdHbkNjRGVZSjZDUVRIQTJkUFdDeWNKRFhUVTJBS2VNVGx1Y1hBSjV1Sy1hQ2dYRGll?oc=5</link>
       <description>Publié le : Mon, 15 Jun 2026 07:00:00 GMT - Source : Google News (ES)</description>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMioAFBVV95cUxPYUg1N0pxYWpSbXlzZUpGV0VnVUhuUHBrV3ZyX1BickYtdjYwSXBYckdtRjBESVVaM2w3M0twMUFMck5tT1FqYzBvZUt1a3hIOWVRaDU3YjJreVR0N0hoeEYwMklRUUVOLWJQMXBfYVdHbkNjRGVZSjZDUVRIQTJkUFdDeWNKRFhUVTJBS2VNVGx1Y1hBSjV1Sy1hQ2dYRGll?oc=5</guid>
+      <pubDate>Mon, 15 Jun 2026 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[EN] Athlete Panel seeking a Field Events representative for 2026 and beyond - England Athletics</title>
+      <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxOS29TOGRfTUV3QWpZbjJkTkZXYmhlU3FjNXFmUkJhYm5fRmFhd244c0pydG9TZGZRRkxWcnA5bzByUUhGbTdqOTRPcDBZV3hCaDFydEVwZUN3RjQ2M0FQSnZrajhDZDVRUkNiTVEtMXo1LXB1aktQbjZlTGc5Tng5WVlKSWtCOHJfYnNOeHd1dkFLOVhHQWJCQXNzUlBlRk1CTmR0cU9JU3Y2NXpPQWRB?oc=5</link>
+      <description>Publié le : Mon, 15 Jun 2026 07:00:00 GMT - Source : Google News (EN)</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMirwFBVV95cUxOS29TOGRfTUV3QWpZbjJkTkZXYmhlU3FjNXFmUkJhYm5fRmFhd244c0pydG9TZGZRRkxWcnA5bzByUUhGbTdqOTRPcDBZV3hCaDFydEVwZUN3RjQ2M0FQSnZrajhDZDVRUkNiTVEtMXo1LXB1aktQbjZlTGc5Tng5WVlKSWtCOHJfYnNOeHd1dkFLOVhHQWJCQXNzUlBlRk1CTmR0cU9JU3Y2NXpPQWRB?oc=5</guid>
       <pubDate>Mon, 15 Jun 2026 07:00:00 +0000</pubDate>
     </item>
     <item>
@@ -64,6 +36,13 @@
       <pubDate>Tue, 16 Jun 2026 07:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>[EN] Fitch's Jacob Smith wins decathlon, Canton's Kayla Berning claims heptathlon in CIAC track's finale - CT Insider</title>
+      <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxNWGZybVUyajRrUmFXNmhnbmFZWHI5ZUN0OEhHWkhNRGdYLWNCZWNnRWtCVDQwSlVEU2FmWVNSLVNmSEs0VkpUVDJpQzFTdXoyM0ZrU09tOF9XWkQxVWlGWkJiTm5VcFlsMGhvYTRSU2hLODRMUXAtNW1pN1d3Tjdsa3JoMk5qSWF5VGY0YnFmVmJNRWppOTNTMTFadEhQakZQTHk4ZWswNXJLQ1FaTDVF?oc=5</link>
+      <description>Publié le : Tue, 16 Jun 2026 07:00:00 GMT - Source : Google News (EN)</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMirwFBVV95cUxNWGZybVUyajRrUmFXNmhnbmFZWHI5ZUN0OEhHWkhNRGdYLWNCZWNnRWtCVDQwSlVEU2FmWVNSLVNmSEs0VkpUVDJpQzFTdXoyM0ZrU09tOF9XWkQxVWlGWkJiTm5VcFlsMGhvYTRSU2hLODRMUXAtNW1pN1d3Tjdsa3JoMk5qSWF5VGY0YnFmVmJNRWppOTNTMTFadEhQakZQTHk4ZWswNXJLQ1FaTDVF?oc=5</guid>
+      <pubDate>Tue, 16 Jun 2026 07:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>[ES] La atleta del Centro de Tecnificación del CAS Victoria Briso Bayona participará con la selección española en el Trofeo Internacional de pruebas combinadas - Segoviadirecto.com</title>
       <link>https://news.google.com/rss/articles/CBMimwJBVV95cUxQUVJvSV8weHZad2VmbHpmRTVkY3dLS0ZqSXVCMjVDNW9CdGU2cVoyeDlSVFJLZ0dnSlAyUjdGMFBzYmpZSGhvV0JoQnRDNEI4NzQySkwzbTFEakxZNlZxSXdqUUNscnhBRF9sY0d5ZjFJaTN4QXQ2SE43WExsTmhuREhQN09GSnBYOWNxNTZoS2hEREVZamFvSXpyRzRNR0JKM3prcGNaZzEzbVRTUlg0dUxtMGdCaWstLTVjcHNnNUxHUHp2Rk5ZWFJmeUZLQTBkSUhQWEtEWFpMNF91U1NzYk5iNXRCcVdZSC1pVU82Y3Q5MkJJVDZsVnJDUTNEcUQ2MmNuOXBkOE1Wd2NudGd1WTRsUTM3ZWFiZlBR?oc=5</link>
       <description>Publié le : Wed, 17 Jun 2026 19:01:27 GMT - Source : Google News (ES)</description>
@@ -75,6 +54,13 @@
       <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxNelRfcFBVaWtPSFlKcXFrZkt5ak16M2xXMmRIWGF1N2NpdTdvaXJxdW1DLXdSNmtsTFhLakFUekNhYjJ3V2JTcUNiU2JrTDJUM0VXM1pLUDU0SlV1NjFlQllaTG00YkRTWnJTT01DcHZtbUR1UFdPSkFTWUZqeFR1WnJCSENZbkV3aDRYU1g3WUpJWFpLNk9tYi1sLUhxdkY1Sl95bS1uSnQtbGcwWHdB?oc=5</link>
       <description>Publié le : Thu, 18 Jun 2026 07:00:00 GMT - Source : Google News (ES)</description>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMirwFBVV95cUxNelRfcFBVaWtPSFlKcXFrZkt5ak16M2xXMmRIWGF1N2NpdTdvaXJxdW1DLXdSNmtsTFhLakFUekNhYjJ3V2JTcUNiU2JrTDJUM0VXM1pLUDU0SlV1NjFlQllaTG00YkRTWnJTT01DcHZtbUR1UFdPSkFTWUZqeFR1WnJCSENZbkV3aDRYU1g3WUpJWFpLNk9tYi1sLUhxdkY1Sl95bS1uSnQtbGcwWHdB?oc=5</guid>
+      <pubDate>Thu, 18 Jun 2026 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[FR] Nafi Thiam effectuera son retour à la compétition à Ratingen fin juin - DHnet</title>
+      <link>https://news.google.com/rss/articles/CBMi4gFBVV95cUxPUnlMMGlkSFByaVJRX09INFJBY2I4VGt6R05oYVlIcThBMFBJWEN6clJBSDc3OE1NWlJ5YUxsZ2k0ckdibVYwdzJJQXc2Z3pfRjdILWpHTVZTU3Z6NUtkWjNBSzdsTmdkRHdPSHdhTy1vZ0ZDWVpST1YtWV9tLXYxMDFjcG5MQXUzaGRqMGQzejdBcm5Cb1RPYVo4SkxvbDlhZFZhLUtnRmVKWnVjelgwbnBBdko2WFZqUVIxY0pyZ1BVcHBSMHg0SDBkNkVfbTBXb3NtLWNFR1N0RXFvU0RwYkdB?oc=5</link>
+      <description>Publié le : Thu, 18 Jun 2026 07:00:00 GMT - Source : Google News (FR)</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi4gFBVV95cUxPUnlMMGlkSFByaVJRX09INFJBY2I4VGt6R05oYVlIcThBMFBJWEN6clJBSDc3OE1NWlJ5YUxsZ2k0ckdibVYwdzJJQXc2Z3pfRjdILWpHTVZTU3Z6NUtkWjNBSzdsTmdkRHdPSHdhTy1vZ0ZDWVpST1YtWV9tLXYxMDFjcG5MQXUzaGRqMGQzejdBcm5Cb1RPYVo4SkxvbDlhZFZhLUtnRmVKWnVjelgwbnBBdko2WFZqUVIxY0pyZ1BVcHBSMHg0SDBkNkVfbTBXb3NtLWNFR1N0RXFvU0RwYkdB?oc=5</guid>
       <pubDate>Thu, 18 Jun 2026 07:00:00 +0000</pubDate>
     </item>
     <item>
@@ -100,9 +86,9 @@
     </item>
     <item>
       <title>[ES] Las pruebas combinadas de #EspañaAtletismo se miden a Portugal - RFEA</title>
-      <link>https://news.google.com/rss/articles/CBMixAFBVV95cUxQLVBfYUJlU3JGTnNtVXhHODk5UGJNaWZieTk2MXMwUF9fekt2aVVGdTlKZHB0dHRFSWEwQUFmRUNheFJ0MHNqUkUtSVZRRUxYU2laVldSdllaZlhULTVJbEhKUEo4eW5ld0YyNVBoNjc4MkpFcldrYWx6WXVNeGw5RHhlVl9qd2ZxQkVJMjJhYk91NThEVG5tdWdFLXFvNklrNl9xTEVzenVmUldoNnA2WDk5aUp0dVI2UEdjVEFTS3JjbURj?oc=5</link>
+      <link>https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYzlpYTFFY3FzRDlqS3drei1PRm5XSl96dm5POWNtZFJMNEtNUlBhTTFqVmVIT1RuaU5pQWdhVG03Ujc3YXFpR3V1TE5fal9wQ1ZzS2dSdlpMOUNQb3FnZzVJdm5LY1RNN1pqY2NfM0ttemlPNXVpRmNSVHNzNmk1MHREYlJWMGFvcGVpNjBJNmprU2Nib2NpcXBBWjdmMkxoZkZwTHBvUGI2SkdMalZkUkEtanZwSUtaUGFWcG0tNHNPQQ?oc=5</link>
       <description>Publié le : Mon, 22 Jun 2026 07:00:00 GMT - Source : Google News (ES)</description>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMixAFBVV95cUxQLVBfYUJlU3JGTnNtVXhHODk5UGJNaWZieTk2MXMwUF9fekt2aVVGdTlKZHB0dHRFSWEwQUFmRUNheFJ0MHNqUkUtSVZRRUxYU2laVldSdllaZlhULTVJbEhKUEo4eW5ld0YyNVBoNjc4MkpFcldrYWx6WXVNeGw5RHhlVl9qd2ZxQkVJMjJhYk91NThEVG5tdWdFLXFvNklrNl9xTEVzenVmUldoNnA2WDk5aUp0dVI2UEdjVEFTS3JjbURj?oc=5</guid>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYzlpYTFFY3FzRDlqS3drei1PRm5XSl96dm5POWNtZFJMNEtNUlBhTTFqVmVIT1RuaU5pQWdhVG03Ujc3YXFpR3V1TE5fal9wQ1ZzS2dSdlpMOUNQb3FnZzVJdm5LY1RNN1pqY2NfM0ttemlPNXVpRmNSVHNzNmk1MHREYlJWMGFvcGVpNjBJNmprU2Nib2NpcXBBWjdmMkxoZkZwTHBvUGI2SkdMalZkUkEtanZwSUtaUGFWcG0tNHNPQQ?oc=5</guid>
       <pubDate>Mon, 22 Jun 2026 07:00:00 +0000</pubDate>
     </item>
     <item>
@@ -225,6 +211,13 @@
       <pubDate>Fri, 03 Jul 2026 04:45:16 +0000</pubDate>
     </item>
     <item>
+      <title>[FR] "Je vais essayer de tout donner" : Eloïse Hugon, de Trégastel, est prête pour les France d'athlétisme - Actu.fr</title>
+      <link>https://news.google.com/rss/articles/CBMi4AFBVV95cUxNb3hYMExSUE9ZbzFUUGJlYngwZ0ZTcGRGNGREcXVkVVFyQ2d2bEp4WGVTRHJGNWl2MGR0bjhRS2RSbEt1dG5HNjQyU1QtNlRCcER5RWJzWFVZb1VvdjZPWmRybHdfT1NSX0xaMnRJVF9mRXA5T0xiX0NEUFNoOVk2TmVVSnhfMFV2MVl0bVdqS09CYjhTZDN0elZtb01UQS1UZ0JXeGpyeDNPc1lZdG1aYjFJYUlmMmZqYmZUamRiemxGXzlON2lUaGF2eEFGejhkdjJPalpiSkwwR1lOaGpYMg?oc=5</link>
+      <description>Publié le : Fri, 03 Jul 2026 16:05:09 GMT - Source : Google News (FR)</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi4AFBVV95cUxNb3hYMExSUE9ZbzFUUGJlYngwZ0ZTcGRGNGREcXVkVVFyQ2d2bEp4WGVTRHJGNWl2MGR0bjhRS2RSbEt1dG5HNjQyU1QtNlRCcER5RWJzWFVZb1VvdjZPWmRybHdfT1NSX0xaMnRJVF9mRXA5T0xiX0NEUFNoOVk2TmVVSnhfMFV2MVl0bVdqS09CYjhTZDN0elZtb01UQS1UZ0JXeGpyeDNPc1lZdG1aYjFJYUlmMmZqYmZUamRiemxGXzlON2lUaGF2eEFGejhkdjJPalpiSkwwR1lOaGpYMg?oc=5</guid>
+      <pubDate>Fri, 03 Jul 2026 16:05:09 +0000</pubDate>
+    </item>
+    <item>
       <title>[FR] ATHLE.FR | Championnats de France d'épreuves combinées : les jeunes en lice à Aix-en-Provence - Fédération Française d'Athlétisme</title>
       <link>https://news.google.com/rss/articles/CBMiugFBVV95cUxPMk1FMnZ6R0stU3pGeDhoNTVkel9HVURscGFKSVZxQnV2cEhBVjlkWFNkNG45WVhHeEMzWmpWLU5CR1ZiZ1gxWXV3Qi1EdHpnR2ZEa2tzMmN2LWlSUWtkbE5BOF8wRFpxUk1QQ3l2ZThIdV9ra05BVjdaVTcwOG00ZkNBOW1iOUUtNTlkUFFEUFAzYk9wMjNScUdpT2NXSXpmTkJZY2tnNXpXNUVmVGU5U1poMWhOd2lNdlE?oc=5</link>
       <description>Publié le : Fri, 03 Jul 2026 17:09:16 GMT - Source : Google News (FR)</description>
@@ -286,6 +279,13 @@
       <description>Publié le : Sat, 04 Jul 2026 17:22:35 GMT - Source : Google News (EN)</description>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiiwJBVV95cUxQTG43RWdCa0V3aG81N2lTVm5Tc2tCaW15VENsX0t4X3dXbHF6RG1OZDdDNGhBT05hOWI1czROLVl6OEZWWEUxdFpyUnhjRFdVZmplbmdkRUVWLUhUN2tDZHlxa0F3cFlxcU9XUmRRd0FjQVZTalFDZkpHLXNReXBfWC1oOExzaUZYUmFuc08xeHQtNnVBVkdIYnBRZER0Nlk4UW83dEtDU0lRS1R2MXRWQ2pnaXhfTjA5cGw2SzJtSTRMUV9HNDBFR2ozOUlPeldnLWhrdmtoNzJuMXhhRFI0Z1BmRUp4Q0xaYnR6TnlLeVY0VzhRY1ExYzJ3V0dhRnB2SHN2QWNFRUVhcHM?oc=5</guid>
       <pubDate>Sat, 04 Jul 2026 17:22:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>[FR] Athlétisme. Lannurien champion de France, Bédard record, Liberman toujours plus vite… Le week-end du HBA - Ouest-France</title>
+      <link>https://news.google.com/rss/articles/CBMisgJBVV95cUxQVURfbk8xQWFESUJmRjNjOXR5X0VkM2FiQktxRU5GVTVmS1NsRHNWc1FtZHJoNUdmZF9vQ0lxUkVLSVpVYVk2M0VwcjRJMk9Wa05nR2ZOZmdzV0tET1ZmeDVkcjNjTWYyaTktYlUzbWtsS1k3OHZwblp6amtPNG14UUd2dHlMOTFCYWJrTFdlU2lnWEplMHUxRDI4X3Y5cnJwcTYxc093aXFiUlJFYzU4bmtGTzZJeFdMUlUtOU95Wmc5X0VKSHF1R2MtdDg0X1ZUR1pvbTBjLU9fb2JkZGl3bF80TVBhalRqdDRDZEFzR0xaXzlKd1ZMVzduR0tRbEZUZlUxM0lkams3T0hJS19rekJMQldGX2lqeklia1JscnpFOU1kMkhHbjhFem9lZV82Z0E?oc=5</link>
+      <description>Publié le : Sun, 05 Jul 2026 15:52:08 GMT - Source : Google News (FR)</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMisgJBVV95cUxQVURfbk8xQWFESUJmRjNjOXR5X0VkM2FiQktxRU5GVTVmS1NsRHNWc1FtZHJoNUdmZF9vQ0lxUkVLSVpVYVk2M0VwcjRJMk9Wa05nR2ZOZmdzV0tET1ZmeDVkcjNjTWYyaTktYlUzbWtsS1k3OHZwblp6amtPNG14UUd2dHlMOTFCYWJrTFdlU2lnWEplMHUxRDI4X3Y5cnJwcTYxc093aXFiUlJFYzU4bmtGTzZJeFdMUlUtOU95Wmc5X0VKSHF1R2MtdDg0X1ZUR1pvbTBjLU9fb2JkZGl3bF80TVBhalRqdDRDZEFzR0xaXzlKd1ZMVzduR0tRbEZUZlUxM0lkams3T0hJS19rekJMQldGX2lqeklia1JscnpFOU1kMkhHbjhFem9lZV82Z0E?oc=5</guid>
+      <pubDate>Sun, 05 Jul 2026 15:52:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
