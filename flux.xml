@@ -6,7 +6,7 @@
     <description>Flux international automatisé (FR/EN/ES) pour Heptaleo.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 08 Jul 2026 17:12:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 21:49:27 +0000</lastBuildDate>
     <item>
       <title>[FR] ATHLE.FR | Finale nationale des Pointes d'Or : qualifiés et confirmation des épreuves - Fédération Française d'Athlétisme</title>
       <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxOTzF2WW1lb1puQTd4YVprMElHNE5qZm9UVldUbnB1ajdDYmJyM01PQWFkbWhNZFhsMUk1YUZqX3Q1M18tSVNZV0pXMkpHYVcydllvd0J3WlE3LVNXQTllTHpfUEF6blNlZmc3WHpUMTZYWFdLRVpCODg0cTlsZWhlUmtZcE9OSFNuUFhYSDNjSWhiSnFlb0JfcGVLX0d1QTI2TWNReVNnMGZGblNlSUIw?oc=5</link>
@@ -183,13 +183,6 @@
       <pubDate>Tue, 07 Jul 2026 01:59:03 +0000</pubDate>
     </item>
     <item>
-      <title>[EN] Stratford juniors shine at Midlands Combined Events Final - Stratford Herald</title>
-      <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVUs1Tm51Rjd0YTV4VGFJWWY4c0xDcjEyRHhSclhfWWZ0Wm5WMmpTeklOWWFNRHNFallXeHRWOFhlR3h4RkFLMWk1Y2w5YUpVNHcxSVlQU1RsQkF4ZUFzRDB3XzJHTEptRUltR2JzdTViaVh1SzVLdU1LNTh6Y3FucjVHY1lTYUY1amZXUEFSd2U4N2lkX1cza2NQc0xXNzVEZ1dWWkRrVDY?oc=5</link>
-      <description>Publié le : Tue, 07 Jul 2026 04:04:26 GMT - Source : Google News (EN)</description>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVUs1Tm51Rjd0YTV4VGFJWWY4c0xDcjEyRHhSclhfWWZ0Wm5WMmpTeklOWWFNRHNFallXeHRWOFhlR3h4RkFLMWk1Y2w5YUpVNHcxSVlQU1RsQkF4ZUFzRDB3XzJHTEptRUltR2JzdTViaVh1SzVLdU1LNTh6Y3FucjVHY1lTYUY1amZXUEFSd2U4N2lkX1cza2NQc0xXNzVEZ1dWWkRrVDY?oc=5</guid>
-      <pubDate>Tue, 07 Jul 2026 04:04:26 +0000</pubDate>
-    </item>
-    <item>
       <title>[EN] Pole vault, Combined Events, cage fighting and why we must thank Mondo Duplantis . . . - Scottish Athletics</title>
       <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE9jNjNKZFRLM2tjRkU3djFqZUs4aWJRQ2ZfSnFvbkNKSWtuaGlhazlsYWZfMEh5WHpSV0JBa3lBRHlJXzRoSWY0dzd2WUhqM0xWM0U4?oc=5</link>
       <description>Publié le : Tue, 07 Jul 2026 07:27:30 GMT - Source : Google News (EN)</description>
@@ -239,25 +232,25 @@
       <pubDate>Tue, 07 Jul 2026 14:46:19 +0000</pubDate>
     </item>
     <item>
-      <title>[EN] 2 new events added to 2030 Winter Olympics in the French Alps — but nordic combined is dropped - Chicago Tribune</title>
-      <link>https://news.google.com/rss/articles/CBMikgFBVV95cUxPcnJnbWtuSUxxTWFpcnhPRy1yVzYyUjhTdmx1Mm5nRHpTVkQ1VTRzdE1oN1pnZmdNTFN3ZDlUcndrSGg3bEttd2dKRmRDLUxwbXQySTFiS0pzMWhZMUExenp6T1R1bmpXMWsyTHhsR1dTQm9vLWJ6cDZhNno4YjMzc0o1NFlGN3hiTEhaeXFacUhXUQ?oc=5</link>
-      <description>Publié le : Tue, 07 Jul 2026 16:07:42 GMT - Source : Google News (EN)</description>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMikgFBVV95cUxPcnJnbWtuSUxxTWFpcnhPRy1yVzYyUjhTdmx1Mm5nRHpTVkQ1VTRzdE1oN1pnZmdNTFN3ZDlUcndrSGg3bEttd2dKRmRDLUxwbXQySTFiS0pzMWhZMUExenp6T1R1bmpXMWsyTHhsR1dTQm9vLWJ6cDZhNno4YjMzc0o1NFlGN3hiTEhaeXFacUhXUQ?oc=5</guid>
-      <pubDate>Tue, 07 Jul 2026 16:07:42 +0000</pubDate>
+      <title>[EN] 2030 Winter Olympics adds synchro skating, freeride events - ESPN</title>
+      <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNVE1cFhyNkI1RG5tZUUtRzY3ajFNUUMyOUxjZUE1RTR5emxpNm9rYjBlaXllTUFXQ0lsZW01RHkxOXdQOGppRnhlYkhNbnBTb2JNSFNSZXZYcC12S1BvMWhkYVZqT3lYMXd5WTF5djA1MEhGdnFMaWlnRzdDTHVILVBmRzdJTnoxRmF2TjdGblpkMTVfblc3cGhla1pyWm5PNmhQR0pYNWR6WDQ?oc=5</link>
+      <description>Publié le : Tue, 07 Jul 2026 16:01:00 GMT - Source : Google News (EN)</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNVE1cFhyNkI1RG5tZUUtRzY3ajFNUUMyOUxjZUE1RTR5emxpNm9rYjBlaXllTUFXQ0lsZW01RHkxOXdQOGppRnhlYkhNbnBTb2JNSFNSZXZYcC12S1BvMWhkYVZqT3lYMXd5WTF5djA1MEhGdnFMaWlnRzdDTHVILVBmRzdJTnoxRmF2TjdGblpkMTVfblc3cGhla1pyWm5PNmhQR0pYNWR6WDQ?oc=5</guid>
+      <pubDate>Tue, 07 Jul 2026 16:01:00 +0000</pubDate>
     </item>
     <item>
-      <title>[EN] Nordic combined, a Winter Olympic mainstay, dropped from 2030 Games; freeriding added - The New York Times</title>
+      <title>[EN] Nordic combined, a Winter Olympic mainstay, dropped from 2030 Games; freeriding added - The Athletic - The New York Times</title>
       <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxPak5PNnNKVm5OSGNPRWFuLUp4S2Q2NjZuZUZ3OFlxTmFZRkNESWlfSDB5d1Z4UjVSNHNmeXVWd0pBWWd3OWVLd3BMQnplWXZFdzJwUlZqTk9xRGhkbV9sWjhZVUVUdU8yY2xlRzBweDFyZWFGNzBXOWtGSVVXY2dNWGNWRmFocXlwQlJMdUtiUHZ1eXZlUGt6bFp2YWYyYzZlTHktMHlyU3ZHWlhod2V1YQ?oc=5</link>
       <description>Publié le : Tue, 07 Jul 2026 17:42:51 GMT - Source : Google News (EN)</description>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMisAFBVV95cUxPak5PNnNKVm5OSGNPRWFuLUp4S2Q2NjZuZUZ3OFlxTmFZRkNESWlfSDB5d1Z4UjVSNHNmeXVWd0pBWWd3OWVLd3BMQnplWXZFdzJwUlZqTk9xRGhkbV9sWjhZVUVUdU8yY2xlRzBweDFyZWFGNzBXOWtGSVVXY2dNWGNWRmFocXlwQlJMdUtiUHZ1eXZlUGt6bFp2YWYyYzZlTHktMHlyU3ZHWlhod2V1YQ?oc=5</guid>
       <pubDate>Tue, 07 Jul 2026 17:42:51 +0000</pubDate>
     </item>
     <item>
-      <title>[EN] Winter Olympics adds synchro skating and freeride for 2030. Nordic combined out - NBC Connecticut</title>
-      <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYThsTWRhR2hjNjJ1azd3b2swbEZYa0k0MkpCOFY2dm5lWnhFQjZTSmZfZnRGaEt3RmxzVi11SXNEVDRhU05mOTlWUXFOWFFaOEpoMXdjaU9IaWYwdlA4YVpzTWRZdWJuSnM4eDJsZlg3OVN2X0lyQVV1MHBKYncyNHRrR1ZMMVJtZEoxLWlZNjVjaFN5R2JYc0J5VEZZdFZsdXZ3VWg4UHFhZ9IBsgFBVV95cUxQTG1ab0JLeGhDTi1fRnFXS0FINzg4U2MxRTdqWHB3TExGLU81b3ZfRXlCYW9TM3ExTlBFMlpZZ1VzUnFkS3pJNTVDcDJ2bXRXY0V5Y0FlTEpobU9TN3JPc3BlNUdXUTl2bEhCRldNeThuaEFyQTFOcjUxV2xrUFB2WFg4ZFZUcDhHNzRNQnZFTUM1OXFrRVJkNU9lR2thYjVjWmRCLURSTm85clF5RUU3SjRR?oc=5</link>
-      <description>Publié le : Tue, 07 Jul 2026 19:28:56 GMT - Source : Google News (EN)</description>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYThsTWRhR2hjNjJ1azd3b2swbEZYa0k0MkpCOFY2dm5lWnhFQjZTSmZfZnRGaEt3RmxzVi11SXNEVDRhU05mOTlWUXFOWFFaOEpoMXdjaU9IaWYwdlA4YVpzTWRZdWJuSnM4eDJsZlg3OVN2X0lyQVV1MHBKYncyNHRrR1ZMMVJtZEoxLWlZNjVjaFN5R2JYc0J5VEZZdFZsdXZ3VWg4UHFhZ9IBsgFBVV95cUxQTG1ab0JLeGhDTi1fRnFXS0FINzg4U2MxRTdqWHB3TExGLU81b3ZfRXlCYW9TM3ExTlBFMlpZZ1VzUnFkS3pJNTVDcDJ2bXRXY0V5Y0FlTEpobU9TN3JPc3BlNUdXUTl2bEhCRldNeThuaEFyQTFOcjUxV2xrUFB2WFg4ZFZUcDhHNzRNQnZFTUM1OXFrRVJkNU9lR2thYjVjWmRCLURSTm85clF5RUU3SjRR?oc=5</guid>
-      <pubDate>Tue, 07 Jul 2026 19:28:56 +0000</pubDate>
+      <title>[EN] French Alps Olympics add synchro skating, freeride, drop Nordic combined - Sportsnet.ca</title>
+      <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxNSlZ0VDFTakpQQ1k3UlJzRUw3WF9ZT01nVndzcEM3REFBZzI4M1JpR3NKSHpMbVlpVnFldHA4TE10Vl8xN0hEdTRldnZqWXdIWW51NDJnU0RjUDZRem0xRUh4RWw4d3pRNkRjdjBSRUdpY180SzItSmthZHRqZjhpN1dpV3p4Z1llLXVsNURWOEQzVjltRGMwcEFYdjhDcHZadk1aU2lWcnhXQnNmbm1KV2thSQ?oc=5</link>
+      <description>Publié le : Tue, 07 Jul 2026 20:48:00 GMT - Source : Google News (EN)</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiswFBVV95cUxNSlZ0VDFTakpQQ1k3UlJzRUw3WF9ZT01nVndzcEM3REFBZzI4M1JpR3NKSHpMbVlpVnFldHA4TE10Vl8xN0hEdTRldnZqWXdIWW51NDJnU0RjUDZRem0xRUh4RWw4d3pRNkRjdjBSRUdpY180SzItSmthZHRqZjhpN1dpV3p4Z1llLXVsNURWOEQzVjltRGMwcEFYdjhDcHZadk1aU2lWcnhXQnNmbm1KV2thSQ?oc=5</guid>
+      <pubDate>Tue, 07 Jul 2026 20:48:00 +0000</pubDate>
     </item>
     <item>
       <title>[EN] Freeride Now an Olympic Discipline, PGS Saved... For Now, Nordic Combined Out - Snow Industry News</title>
@@ -274,18 +267,25 @@
       <pubDate>Tue, 07 Jul 2026 23:40:00 +0000</pubDate>
     </item>
     <item>
-      <title>[EN] Nordic combined dropped from 2030 Winter Olympics - WPTZ</title>
-      <link>https://news.google.com/rss/articles/CBMikwFBVV95cUxPTG52eU9nZGtXdUFjYjNJVFdQWjFkeUJnMldLV2JjbzFiUGxfTnduRFQ1OGloeEhvYnVyZ0Q1dW1mamJDZ2ZUcDl2blQ3NkFsYktGTUVKR2RWc3EtbFJrbHRCblRXcWVWTmFLV3RfazBoaVoyQ3g4dWF5MEt3VmVPS01XTjY4SFlvUloycnE5Q3dwZlk?oc=5</link>
-      <description>Publié le : Wed, 08 Jul 2026 00:44:00 GMT - Source : Google News (EN)</description>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMikwFBVV95cUxPTG52eU9nZGtXdUFjYjNJVFdQWjFkeUJnMldLV2JjbzFiUGxfTnduRFQ1OGloeEhvYnVyZ0Q1dW1mamJDZ2ZUcDl2blQ3NkFsYktGTUVKR2RWc3EtbFJrbHRCblRXcWVWTmFLV3RfazBoaVoyQ3g4dWF5MEt3VmVPS01XTjY4SFlvUloycnE5Q3dwZlk?oc=5</guid>
-      <pubDate>Wed, 08 Jul 2026 00:44:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[EN] IOC Pulls Plug on Nordic Combined at 2030 Winter Olympics - Sportico.com</title>
       <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxPWXhiTDNQd0xKOHlIYVBUUFN0UFhGRHdiQ2tUd2J2R3ZkaEF0SnRfTHZoQk9ZNUZRYnpvTGtiX0lyN1ZocEdsQUcteU12ekF3Y1RmcklHWXZTWVV2YTJ2MmNOcW1KQUM4bEZDNWwwSnlndmZFUnFjUUNFTFJFdnZJMm5JMHQxRGstaWVzUU5wY1J6VTh6a3BZazNPTkRuYWpCOTlLdUxTZDR2eWdVUEluMmpJZ0k4Zw?oc=5</link>
       <description>Publié le : Wed, 08 Jul 2026 16:14:10 GMT - Source : Google News (EN)</description>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitgFBVV95cUxPWXhiTDNQd0xKOHlIYVBUUFN0UFhGRHdiQ2tUd2J2R3ZkaEF0SnRfTHZoQk9ZNUZRYnpvTGtiX0lyN1ZocEdsQUcteU12ekF3Y1RmcklHWXZTWVV2YTJ2MmNOcW1KQUM4bEZDNWwwSnlndmZFUnFjUUNFTFJFdnZJMm5JMHQxRGstaWVzUU5wY1J6VTh6a3BZazNPTkRuYWpCOTlLdUxTZDR2eWdVUEluMmpJZ0k4Zw?oc=5</guid>
       <pubDate>Wed, 08 Jul 2026 16:14:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>[FR] Athlétisme : des épreuves combinées réussies à Aix - La Provence</title>
+      <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNmRXbzNSQWY3MWZTdU4yR3ZxWjlpV3h6WlF1ZUtzaFpnT2licS0yMWQtMXRJRzQ5VU9UcDlGdHpBenpFN29TRnU0SGJVcjhTdWw3ckJVS3Z3cXhJSkw4NXZRMWdqc0ZtNHNNb2Y5bXBFc2hYdUdVcWFsS0xTMVM1TER2VjRqRm5EdHlpcW5XMmxzRW80MHp1akhRVlItRVJjV2lYVHpaTTE0dTg?oc=5</link>
+      <description>Publié le : Wed, 08 Jul 2026 17:00:58 GMT - Source : Google News (FR)</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNmRXbzNSQWY3MWZTdU4yR3ZxWjlpV3h6WlF1ZUtzaFpnT2licS0yMWQtMXRJRzQ5VU9UcDlGdHpBenpFN29TRnU0SGJVcjhTdWw3ckJVS3Z3cXhJSkw4NXZRMWdqc0ZtNHNNb2Y5bXBFc2hYdUdVcWFsS0xTMVM1TER2VjRqRm5EdHlpcW5XMmxzRW80MHp1akhRVlItRVJjV2lYVHpaTTE0dTg?oc=5</guid>
+      <pubDate>Wed, 08 Jul 2026 17:00:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>[EN] Nordic combined dropped from 2030 Winter Olympics - WPTZ</title>
+      <link>https://news.google.com/rss/articles/CBMikwFBVV95cUxPTG52eU9nZGtXdUFjYjNJVFdQWjFkeUJnMldLV2JjbzFiUGxfTnduRFQ1OGloeEhvYnVyZ0Q1dW1mamJDZ2ZUcDl2blQ3NkFsYktGTUVKR2RWc3EtbFJrbHRCblRXcWVWTmFLV3RfazBoaVoyQ3g4dWF5MEt3VmVPS01XTjY4SFlvUloycnE5Q3dwZlk?oc=5</link>
+      <description>Publié le : Wed, 08 Jul 2026 18:43:00 GMT - Source : Google News (EN)</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMikwFBVV95cUxPTG52eU9nZGtXdUFjYjNJVFdQWjFkeUJnMldLV2JjbzFiUGxfTnduRFQ1OGloeEhvYnVyZ0Q1dW1mamJDZ2ZUcDl2blQ3NkFsYktGTUVKR2RWc3EtbFJrbHRCblRXcWVWTmFLV3RfazBoaVoyQ3g4dWF5MEt3VmVPS01XTjY4SFlvUloycnE5Q3dwZlk?oc=5</guid>
+      <pubDate>Wed, 08 Jul 2026 18:43:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
