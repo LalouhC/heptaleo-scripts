@@ -6,28 +6,7 @@
     <description>Flux international automatisé (FR/EN/ES) pour Heptaleo.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 10 Jul 2026 11:23:30 +0000</lastBuildDate>
-    <item>
-      <title>[ES] Cinco atletas del Tenerife CajaCanarias brillan con sus selecciones en Lisboa - Diario Palmero</title>
-      <link>https://news.google.com/rss/articles/CBMivAFBVV95cUxObENQdmlSODJXM2hjTXNJenYtR2syQWMzR0V6NnUyN1Y3MjFhYnJkLVU3clo2ZGhyMjNKMVU1TjlldGxjWWNtM0lzcF93WDhxU0xDalU3aGsxd0FOWVk3aXAwQmk5Y01kZFlSYUxESHQ3UTNoWTdoeFVPaWFTS0JzajV4OEFjZ1M5dFIydmVENldrV0pLN3Y4R0VrUU9NRVF4UGczbWJPZVJXamw1N0dNVk1Jby13R0JUeWd2Sw?oc=5</link>
-      <description>Publié le : Sat, 27 Jun 2026 10:06:00 GMT - Source : Google News (ES)</description>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivAFBVV95cUxObENQdmlSODJXM2hjTXNJenYtR2syQWMzR0V6NnUyN1Y3MjFhYnJkLVU3clo2ZGhyMjNKMVU1TjlldGxjWWNtM0lzcF93WDhxU0xDalU3aGsxd0FOWVk3aXAwQmk5Y01kZFlSYUxESHQ3UTNoWTdoeFVPaWFTS0JzajV4OEFjZ1M5dFIydmVENldrV0pLN3Y4R0VrUU9NRVF4UGczbWJPZVJXamw1N0dNVk1Jby13R0JUeWd2Sw?oc=5</guid>
-      <pubDate>Sat, 27 Jun 2026 10:06:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[ES] Alhama de Murcia, sede de otro fin de semana repleto de competición en pista - Federación de Atletismo de la Región de Murcia</title>
-      <link>https://news.google.com/rss/articles/CBMinAFBVV95cUxNN3dSaGNMMUYySjJtT1YyVUZydzlKREZrVFJIVllrMXdVdEVERkp0enpKbEpiaXJuYlBDcnpkQWhqaXJwTDlqT3NIcW42dUEwUURMVmtpVkdydDY4YTdOaEdzeEVKWUdBMWpkT0lzZWdvV0pBejNGZWRuSGxHWWtUdnAzRmluRkY3aEtTZy05TzN2X0gxR3Z1dUMxQl8?oc=5</link>
-      <description>Publié le : Tue, 30 Jun 2026 06:14:20 GMT - Source : Google News (ES)</description>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMinAFBVV95cUxNN3dSaGNMMUYySjJtT1YyVUZydzlKREZrVFJIVllrMXdVdEVERkp0enpKbEpiaXJuYlBDcnpkQWhqaXJwTDlqT3NIcW42dUEwUURMVmtpVkdydDY4YTdOaEdzeEVKWUdBMWpkT0lzZWdvV0pBejNGZWRuSGxHWWtUdnAzRmluRkY3aEtTZy05TzN2X0gxR3Z1dUMxQl8?oc=5</guid>
-      <pubDate>Tue, 30 Jun 2026 06:14:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>[FR] Yvetot. Léonie Cambours, grand retour en heptathlon - lecourriercauchois.fr</title>
-      <link>https://news.google.com/rss/articles/CBMiogFBVV95cUxQMTBqNWtMNG9ZMVdva3dPMWFvY3RyNUZaSE1VOGNrcUJzTVQtclpPb1l5TV9fN21uR3hURUJHTHFPSzFoYjdoOGQtOUFWTFV3YmNyTk1SUjJnZ1ZobjlTWkk1US05VzA5MXY2SlhqOXkzSjh4Q0dObjNuR3BrcnY4dHZEaXpjUW9SX3p0aHZWM2lzYWgtRXNIWnhlM05YQ3c4VEE?oc=5</link>
-      <description>Publié le : Wed, 01 Jul 2026 15:56:00 GMT - Source : Google News (FR)</description>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiogFBVV95cUxQMTBqNWtMNG9ZMVdva3dPMWFvY3RyNUZaSE1VOGNrcUJzTVQtclpPb1l5TV9fN21uR3hURUJHTHFPSzFoYjdoOGQtOUFWTFV3YmNyTk1SUjJnZ1ZobjlTWkk1US05VzA5MXY2SlhqOXkzSjh4Q0dObjNuR3BrcnY4dHZEaXpjUW9SX3p0aHZWM2lzYWgtRXNIWnhlM05YQ3c4VEE?oc=5</guid>
-      <pubDate>Wed, 01 Jul 2026 15:56:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 10 Jul 2026 18:08:39 +0000</lastBuildDate>
     <item>
       <title>[FR] Athlétisme. Championnats de France des épreuves combinées : le Lavallois Tom Morvan veut titiller les 6 800 pts - Ouest-France</title>
       <link>https://news.google.com/rss/articles/CBMimgJBVV95cUxPRlJZMDc0c3JydVMyMU9ERXFBR3E4N25fT2VCSGR6NUNLbzNPQVQzMUJXbG5kVWdpSWVwNE91SXkxUUFvMEpMVThMQ3NRZmpNTGZPYTdnVFFJR3JESEdCU2hFRDdXSUVVaVcyME5nWk9lOGVtbnBYaDdZSS1zR3NNZ2tWOEpxdDRYZVB1MFp5cHRvcXJXcDB0RDM0ZGFJN1p3aERmT0puRjJaQU02aHRuWDAwb24wN29BR0JWdjd6VEVzTHRKajl4b1g3Sm9jQ0ZWWk1xZERyeUUwZi1KMW5RcHZMdFBCdndOR0VqTTNmY3huN1ExVlVMSkM2OE5pU21yVzFrSWcxOG50T1BhRUFldTUwQk56U0R4Z1E?oc=5</link>
@@ -55,6 +34,13 @@
       <description>Publié le : Fri, 03 Jul 2026 17:09:16 GMT - Source : Google News (FR)</description>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiugFBVV95cUxPMk1FMnZ6R0stU3pGeDhoNTVkel9HVURscGFKSVZxQnV2cEhBVjlkWFNkNG45WVhHeEMzWmpWLU5CR1ZiZ1gxWXV3Qi1EdHpnR2ZEa2tzMmN2LWlSUWtkbE5BOF8wRFpxUk1QQ3l2ZThIdV9ra05BVjdaVTcwOG00ZkNBOW1iOUUtNTlkUFFEUFAzYk9wMjNScUdpT2NXSXpmTkJZY2tnNXpXNUVmVGU5U1poMWhOd2lNdlE?oc=5</guid>
       <pubDate>Fri, 03 Jul 2026 17:09:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>[FR] Athlétisme. Les athlètes sarthois se déplacent avec des ambitions - Ouest-France</title>
+      <link>https://news.google.com/rss/articles/CBMi3wFBVV95cUxOTFFLQWdISms2Y1haTER5X3prZlJJQ2FTbFh2emNaLUp3RjRISTdOQU5OQXladW9naFYyc0tERUl3cVNqaEVIUW42d0xYM01WQ2pvRDdJSEZGZUlIQkdnRTM4NmgwdEtUOHlGOTlUdnBQRXBJVEZMX3pYek94aFVwdnc5dm5ORXhKMmxaZzF2QWkxWnhYMDg1UzJoUTE5ZFQ1V0RuTjF0bFRqbTdXWFlOQ3hDYkR4YkltODg1d09TakFxblQxT25nNUhpVVMxalp0STNuNEFaOHBmMlZEUHJZ?oc=5</link>
+      <description>Publié le : Fri, 03 Jul 2026 18:17:14 GMT - Source : Google News (FR)</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi3wFBVV95cUxOTFFLQWdISms2Y1haTER5X3prZlJJQ2FTbFh2emNaLUp3RjRISTdOQU5OQXladW9naFYyc0tERUl3cVNqaEVIUW42d0xYM01WQ2pvRDdJSEZGZUlIQkdnRTM4NmgwdEtUOHlGOTlUdnBQRXBJVEZMX3pYek94aFVwdnc5dm5ORXhKMmxaZzF2QWkxWnhYMDg1UzJoUTE5ZFQ1V0RuTjF0bFRqbTdXWFlOQ3hDYkR4YkltODg1d09TakFxblQxT25nNUhpVVMxalp0STNuNEFaOHBmMlZEUHJZ?oc=5</guid>
+      <pubDate>Fri, 03 Jul 2026 18:17:14 +0000</pubDate>
     </item>
     <item>
       <title>[EN] England Athletics Senior and U20 track and field and combined events championships, powered by Citroën: The weekend starts here - England Athletics</title>
@@ -141,7 +127,7 @@
       <pubDate>Mon, 06 Jul 2026 10:17:03 +0000</pubDate>
     </item>
     <item>
-      <title>[EN] Pole vault, Combined Events, cage fighting and why we must thank Mondo Duplantis . . . - Scottish Athletics</title>
+      <title>[EN] Pole vault, Decathlon, cage fighting and thank you Mondo Duplantis . . . - Scottish Athletics</title>
       <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE9jNjNKZFRLM2tjRkU3djFqZUs4aWJRQ2ZfSnFvbkNKSWtuaGlhazlsYWZfMEh5WHpSV0JBa3lBRHlJXzRoSWY0dzd2WUhqM0xWM0U4?oc=5</link>
       <description>Publié le : Tue, 07 Jul 2026 07:27:30 GMT - Source : Google News (EN)</description>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE9jNjNKZFRLM2tjRkU3djFqZUs4aWJRQ2ZfSnFvbkNKSWtuaGlhazlsYWZfMEh5WHpSV0JBa3lBRHlJXzRoSWY0dzd2WUhqM0xWM0U4?oc=5</guid>
@@ -167,6 +153,13 @@
       <description>Publié le : Tue, 07 Jul 2026 13:45:29 GMT - Source : Google News (FR)</description>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMilwFBVV95cUxQbkVzcmh2QzBLWndrMVVYaGVwZHpubzNNeEhJSHlLbGQzcHUtNDU0UXVyQ3ozallSNWJ0VGVYRENnSHRWQmMyOEZwX295cjNtNG5WSVUwOGh0MUtXWnRxMGdkaHBidGNlczVFbzMwNjBKRVdyNVB4R0hsU0dpOWRjYjhLQktPQm5QbmhQMG5SOHB5dWpLY2hB?oc=5</guid>
       <pubDate>Tue, 07 Jul 2026 13:45:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>[FR] Ambitieux, Thomas Humbey échoue au pied du podium des championnats de France d’épreuves combinées - L'Est Républicain</title>
+      <link>https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTVlTdzBaOWJocFNJdVN3OXFNV25wMm1fUlMyR0FMX3ZZYXE3RERkNmtKdWN0am0tVlpEcVEzZ2ZDNExIUkRrelF6T2RqY3FLU1NwLWhQVFNxbWx3bE52blNDYl81V180SlVXUGpRYXdVcnl1NnBiYUo0eFJYRTZkUTlVV3JfbmVSVDVVSXpGVE1aMUo3Y2x2YTVqd0hOWnFMX3A2VXFhY2djZ25yYVRKSzJqLXNBbUNoaGZiR2c1UWo4NktvQjNQSGNFa0xIWmE4NlhJVzRDQ2N0NFU?oc=5</link>
+      <description>Publié le : Tue, 07 Jul 2026 13:54:00 GMT - Source : Google News (FR)</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTVlTdzBaOWJocFNJdVN3OXFNV25wMm1fUlMyR0FMX3ZZYXE3RERkNmtKdWN0am0tVlpEcVEzZ2ZDNExIUkRrelF6T2RqY3FLU1NwLWhQVFNxbWx3bE52blNDYl81V180SlVXUGpRYXdVcnl1NnBiYUo0eFJYRTZkUTlVV3JfbmVSVDVVSXpGVE1aMUo3Y2x2YTVqd0hOWnFMX3A2VXFhY2djZ25yYVRKSzJqLXNBbUNoaGZiR2c1UWo4NktvQjNQSGNFa0xIWmE4NlhJVzRDQ2N0NFU?oc=5</guid>
+      <pubDate>Tue, 07 Jul 2026 13:54:00 +0000</pubDate>
     </item>
     <item>
       <title>[EN] Alpes 2030 to be first gender-equal Olympic Winter Games – freeride (ski and snowboard) and synchro9 (figure skating) athletes to debut - olympics.com</title>
@@ -225,6 +218,13 @@
       <pubDate>Tue, 07 Jul 2026 20:55:48 +0000</pubDate>
     </item>
     <item>
+      <title>[EN] Nordic Combined Dropped from 2030 Winter Olympics - 조선일보</title>
+      <link>https://news.google.com/rss/articles/CBMihgFBVV95cUxQZ0FCLUxuc0s1SENXYUpEdDFhb0tmNlJRQ1RzTVZZd2V0blZhOFZnYUFrZG5PQ1dUaGVaVHpVUHlUajI5c0VZYkp1Ul9GYklySkFwbDVXZ3NlME95N0N1UzlGc3hHSjJlUmJXWlJFZGtCRnRoajktQ1RSWVV3enVlcGpuOTZsdw?oc=5</link>
+      <description>Publié le : Wed, 08 Jul 2026 06:30:57 GMT - Source : Google News (EN)</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMihgFBVV95cUxQZ0FCLUxuc0s1SENXYUpEdDFhb0tmNlJRQ1RzTVZZd2V0blZhOFZnYUFrZG5PQ1dUaGVaVHpVUHlUajI5c0VZYkp1Ul9GYklySkFwbDVXZ3NlME95N0N1UzlGc3hHSjJlUmJXWlJFZGtCRnRoajktQ1RSWVV3enVlcGpuOTZsdw?oc=5</guid>
+      <pubDate>Wed, 08 Jul 2026 06:30:57 +0000</pubDate>
+    </item>
+    <item>
       <title>[EN] IOC Pulls Plug on Nordic Combined at 2030 Winter Olympics - Sportico.com</title>
       <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxPWXhiTDNQd0xKOHlIYVBUUFN0UFhGRHdiQ2tUd2J2R3ZkaEF0SnRfTHZoQk9ZNUZRYnpvTGtiX0lyN1ZocEdsQUcteU12ekF3Y1RmcklHWXZTWVV2YTJ2MmNOcW1KQUM4bEZDNWwwSnlndmZFUnFjUUNFTFJFdnZJMm5JMHQxRGstaWVzUU5wY1J6VTh6a3BZazNPTkRuYWpCOTlLdUxTZDR2eWdVUEluMmpJZ0k4Zw?oc=5</link>
       <description>Publié le : Wed, 08 Jul 2026 16:14:10 GMT - Source : Google News (EN)</description>
@@ -276,9 +276,9 @@
     <item>
       <title>[FR] Decastar 2026 : le mythique meeting de Talence fête ses 50 ans - Bouger à Bordeaux</title>
       <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxONGFoSnlXVVJyZWlmV3RIclhmeDdoVjZJTXVrTktSbWU2c1RoYWhkRzFMWGtqQ1ZTZXhsMl9vdHBrbDA4WnlLVlhJeDI1bUpodGdBT0ZnTjFmVU9TU2dBQlBjZ05CTEhjOUg1THpReGgwNXhJSkxtdC1vc2YwOUFRTGRYeEU4WC1XbW9IMnI3SzJhMXphWWVwY1Fzclc2Rkk5aXZPUlp3?oc=5</link>
-      <description>Publié le : Fri, 10 Jul 2026 07:26:31 GMT - Source : Google News (FR)</description>
+      <description>Publié le : Fri, 10 Jul 2026 07:28:31 GMT - Source : Google News (FR)</description>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMipgFBVV95cUxONGFoSnlXVVJyZWlmV3RIclhmeDdoVjZJTXVrTktSbWU2c1RoYWhkRzFMWGtqQ1ZTZXhsMl9vdHBrbDA4WnlLVlhJeDI1bUpodGdBT0ZnTjFmVU9TU2dBQlBjZ05CTEhjOUg1THpReGgwNXhJSkxtdC1vc2YwOUFRTGRYeEU4WC1XbW9IMnI3SzJhMXphWWVwY1Fzclc2Rkk5aXZPUlp3?oc=5</guid>
-      <pubDate>Fri, 10 Jul 2026 07:26:31 +0000</pubDate>
+      <pubDate>Fri, 10 Jul 2026 07:28:31 +0000</pubDate>
     </item>
     <item>
       <title>[EN] Sułek-Schubert to defend Czapiewski Memorial title - worldathletics.org</title>
