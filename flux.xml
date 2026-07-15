@@ -6,7 +6,7 @@
     <description>Flux international automatisé (FR/EN/ES) pour Heptaleo.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 15 Jul 2026 07:30:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 16:52:29 +0000</lastBuildDate>
     <item>
       <title>[FR] ATHLE.FR | Finale nationale des Pointes d'Or : qualifiés et confirmation des épreuves - Fédération Française d'Athlétisme</title>
       <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxOTzF2WW1lb1puQTd4YVprMElHNE5qZm9UVldUbnB1ajdDYmJyM01PQWFkbWhNZFhsMUk1YUZqX3Q1M18tSVNZV0pXMkpHYVcydllvd0J3WlE3LVNXQTllTHpfUEF6blNlZmc3WHpUMTZYWFdLRVpCODg0cTlsZWhlUmtZcE9OSFNuUFhYSDNjSWhiSnFlb0JfcGVLX0d1QTI2TWNReVNnMGZGblNlSUIw?oc=5</link>
@@ -155,18 +155,18 @@
       <pubDate>Mon, 06 Jul 2026 05:07:00 +0000</pubDate>
     </item>
     <item>
+      <title>[FR] ATHLE.FR | Championnats de France d’épreuves combinées : Ndouma-Mona et Lannurien en patrons - Fédération Française d'Athlétisme</title>
+      <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxOclZfeUt4RWg4SFY0akdSNF9keVdtR2JQQmpMcG42RlExUFB4Z3lTLWlTT2dNT2drSVQ2cURXTlVRRHBJeVdSYkhGbHFqSk1QZW9xUnRJTmVjRXRWdHNmUEp6U3Q4MnM5TmxqUEk4M3VKaThlTTREaDJxaEI4M3A0bDN0RDVxVTVKUE9kU3ZpNlRtUUdWWl9wSFpoTEpTbEhQYnVzRGt6c0stNUZDclNvenREZEZFYkVF?oc=5</link>
+      <description>Publié le : Mon, 06 Jul 2026 07:00:00 GMT - Source : Google News (FR)</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiuAFBVV95cUxOclZfeUt4RWg4SFY0akdSNF9keVdtR2JQQmpMcG42RlExUFB4Z3lTLWlTT2dNT2drSVQ2cURXTlVRRHBJeVdSYkhGbHFqSk1QZW9xUnRJTmVjRXRWdHNmUEp6U3Q4MnM5TmxqUEk4M3VKaThlTTREaDJxaEI4M3A0bDN0RDVxVTVKUE9kU3ZpNlRtUUdWWl9wSFpoTEpTbEhQYnVzRGt6c0stNUZDclNvenREZEZFYkVF?oc=5</guid>
+      <pubDate>Mon, 06 Jul 2026 07:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>[FR] Championnats de France d'Épreuves Combinées : Maël Bephassou Lannurien en or - Ligue de Bretagne d'Athlétisme</title>
       <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSW9vcmhKRG50MXpNQUVib1V2MTI5dWFMODBEaUZobDd3b0xsQWI1S01OVFBMRjVOYTZ0d1JRZ2NZc053aE82VGRQZ1ozRk1Cc2lNOVVORVlaN0xWYkpaTl9ubHEwamU3bzc4VnNYQTJ0S2dHMzczTU1zYmg5cjY3a1diT2JwUGFxeHV5Sjk5Z01rd2J5VmtBVFFURUt3akdFOFoxaEU1U3U5Nms?oc=5</link>
       <description>Publié le : Mon, 06 Jul 2026 08:16:55 GMT - Source : Google News (FR)</description>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSW9vcmhKRG50MXpNQUVib1V2MTI5dWFMODBEaUZobDd3b0xsQWI1S01OVFBMRjVOYTZ0d1JRZ2NZc053aE82VGRQZ1ozRk1Cc2lNOVVORVlaN0xWYkpaTl9ubHEwamU3bzc4VnNYQTJ0S2dHMzczTU1zYmg5cjY3a1diT2JwUGFxeHV5Sjk5Z01rd2J5VmtBVFFURUt3akdFOFoxaEU1U3U5Nms?oc=5</guid>
       <pubDate>Mon, 06 Jul 2026 08:16:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>[FR] ATHLE.FR | Championnats de France d’épreuves combinées : Ndouma-Mona et Lannurien en patrons - Fédération Française d'Athlétisme</title>
-      <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxOclZfeUt4RWg4SFY0akdSNF9keVdtR2JQQmpMcG42RlExUFB4Z3lTLWlTT2dNT2drSVQ2cURXTlVRRHBJeVdSYkhGbHFqSk1QZW9xUnRJTmVjRXRWdHNmUEp6U3Q4MnM5TmxqUEk4M3VKaThlTTREaDJxaEI4M3A0bDN0RDVxVTVKUE9kU3ZpNlRtUUdWWl9wSFpoTEpTbEhQYnVzRGt6c0stNUZDclNvenREZEZFYkVF?oc=5</link>
-      <description>Publié le : Mon, 06 Jul 2026 10:09:41 GMT - Source : Google News (FR)</description>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiuAFBVV95cUxOclZfeUt4RWg4SFY0akdSNF9keVdtR2JQQmpMcG42RlExUFB4Z3lTLWlTT2dNT2drSVQ2cURXTlVRRHBJeVdSYkhGbHFqSk1QZW9xUnRJTmVjRXRWdHNmUEp6U3Q4MnM5TmxqUEk4M3VKaThlTTREaDJxaEI4M3A0bDN0RDVxVTVKUE9kU3ZpNlRtUUdWWl9wSFpoTEpTbEhQYnVzRGt6c0stNUZDclNvenREZEZFYkVF?oc=5</guid>
-      <pubDate>Mon, 06 Jul 2026 10:09:41 +0000</pubDate>
     </item>
     <item>
       <title>[EN] Stratford juniors shine at Midlands Combined Events Final - Stratford Herald</title>
@@ -176,18 +176,18 @@
       <pubDate>Tue, 07 Jul 2026 04:04:26 +0000</pubDate>
     </item>
     <item>
+      <title>[EN] Nordic combined, a Winter Olympic mainstay, dropped from 2030 Games; freeriding added - The Athletic - The New York Times</title>
+      <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxPak5PNnNKVm5OSGNPRWFuLUp4S2Q2NjZuZUZ3OFlxTmFZRkNESWlfSDB5d1Z4UjVSNHNmeXVWd0pBWWd3OWVLd3BMQnplWXZFdzJwUlZqTk9xRGhkbV9sWjhZVUVUdU8yY2xlRzBweDFyZWFGNzBXOWtGSVVXY2dNWGNWRmFocXlwQlJMdUtiUHZ1eXZlUGt6bFp2YWYyYzZlTHktMHlyU3ZHWlhod2V1YQ?oc=5</link>
+      <description>Publié le : Tue, 07 Jul 2026 07:00:00 GMT - Source : Google News (EN)</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMisAFBVV95cUxPak5PNnNKVm5OSGNPRWFuLUp4S2Q2NjZuZUZ3OFlxTmFZRkNESWlfSDB5d1Z4UjVSNHNmeXVWd0pBWWd3OWVLd3BMQnplWXZFdzJwUlZqTk9xRGhkbV9sWjhZVUVUdU8yY2xlRzBweDFyZWFGNzBXOWtGSVVXY2dNWGNWRmFocXlwQlJMdUtiUHZ1eXZlUGt6bFp2YWYyYzZlTHktMHlyU3ZHWlhod2V1YQ?oc=5</guid>
+      <pubDate>Tue, 07 Jul 2026 07:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>[FR] Ambitieux, Thomas Humbey échoue au pied du podium des championnats de France d’épreuves combinées - L'Est Républicain</title>
       <link>https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTVlTdzBaOWJocFNJdVN3OXFNV25wMm1fUlMyR0FMX3ZZYXE3RERkNmtKdWN0am0tVlpEcVEzZ2ZDNExIUkRrelF6T2RqY3FLU1NwLWhQVFNxbWx3bE52blNDYl81V180SlVXUGpRYXdVcnl1NnBiYUo0eFJYRTZkUTlVV3JfbmVSVDVVSXpGVE1aMUo3Y2x2YTVqd0hOWnFMX3A2VXFhY2djZ25yYVRKSzJqLXNBbUNoaGZiR2c1UWo4NktvQjNQSGNFa0xIWmE4NlhJVzRDQ2N0NFU?oc=5</link>
       <description>Publié le : Tue, 07 Jul 2026 13:54:00 GMT - Source : Google News (FR)</description>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTVlTdzBaOWJocFNJdVN3OXFNV25wMm1fUlMyR0FMX3ZZYXE3RERkNmtKdWN0am0tVlpEcVEzZ2ZDNExIUkRrelF6T2RqY3FLU1NwLWhQVFNxbWx3bE52blNDYl81V180SlVXUGpRYXdVcnl1NnBiYUo0eFJYRTZkUTlVV3JfbmVSVDVVSXpGVE1aMUo3Y2x2YTVqd0hOWnFMX3A2VXFhY2djZ25yYVRKSzJqLXNBbUNoaGZiR2c1UWo4NktvQjNQSGNFa0xIWmE4NlhJVzRDQ2N0NFU?oc=5</guid>
       <pubDate>Tue, 07 Jul 2026 13:54:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[FR] JO 2030. Le CIO fait entrer de nouvelles épreuves mais renonce au combiné nordique pour la prochaine édition - Ouest-France</title>
-      <link>https://news.google.com/rss/articles/CBMilwJBVV95cUxNd1FxcFVtdDFrcFpVQURnZFZiUU56cjdiWmR6ZENGUTZUWFExOVRNQzlVQlhJYlpIYl9WYm1XZG1kWDNLLTh2M2ZkSjM5Vlc5Vl9qa3g2ODFySlhFNlZMTFUxb2tHNDJmUzRYYXVLNFc5Sk43S0dNRE42QzRpREEwd0VKNlhxNEpSX1k1UGNKMmRBQnlGbTM0a3pNUGpqcDdJdTN0VEJpU0gxVzE5dExjckhyQXVzZTl6dnNwZnRxTWhIRW80OVJxWEszSVUtc3NTRlg5ZENiUWRsMGJ3U2g4eHhCUl9nOUhGVXFFcVNjNEFPQ0twWHBabDItejJ4bG13a0taQUdhelBBRjA2LUZtVUdCQmNEV0U?oc=5</link>
-      <description>Publié le : Tue, 07 Jul 2026 14:38:05 GMT - Source : Google News (FR)</description>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMilwJBVV95cUxNd1FxcFVtdDFrcFpVQURnZFZiUU56cjdiWmR6ZENGUTZUWFExOVRNQzlVQlhJYlpIYl9WYm1XZG1kWDNLLTh2M2ZkSjM5Vlc5Vl9qa3g2ODFySlhFNlZMTFUxb2tHNDJmUzRYYXVLNFc5Sk43S0dNRE42QzRpREEwd0VKNlhxNEpSX1k1UGNKMmRBQnlGbTM0a3pNUGpqcDdJdTN0VEJpU0gxVzE5dExjckhyQXVzZTl6dnNwZnRxTWhIRW80OVJxWEszSVUtc3NTRlg5ZENiUWRsMGJ3U2g4eHhCUl9nOUhGVXFFcVNjNEFPQ0twWHBabDItejJ4bG13a0taQUdhelBBRjA2LUZtVUdCQmNEV0U?oc=5</guid>
-      <pubDate>Tue, 07 Jul 2026 14:38:05 +0000</pubDate>
     </item>
     <item>
       <title>[EN] Nordic Combined cut from Olympic Winter Games - International Ski and Snowboard Federation (FIS)</title>
@@ -211,13 +211,6 @@
       <pubDate>Tue, 07 Jul 2026 16:07:42 +0000</pubDate>
     </item>
     <item>
-      <title>[EN] Nordic combined, a Winter Olympic mainstay, dropped from 2030 Games; freeriding added - The Athletic - The New York Times</title>
-      <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxPak5PNnNKVm5OSGNPRWFuLUp4S2Q2NjZuZUZ3OFlxTmFZRkNESWlfSDB5d1Z4UjVSNHNmeXVWd0pBWWd3OWVLd3BMQnplWXZFdzJwUlZqTk9xRGhkbV9sWjhZVUVUdU8yY2xlRzBweDFyZWFGNzBXOWtGSVVXY2dNWGNWRmFocXlwQlJMdUtiUHZ1eXZlUGt6bFp2YWYyYzZlTHktMHlyU3ZHWlhod2V1YQ?oc=5</link>
-      <description>Publié le : Tue, 07 Jul 2026 17:42:51 GMT - Source : Google News (EN)</description>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMisAFBVV95cUxPak5PNnNKVm5OSGNPRWFuLUp4S2Q2NjZuZUZ3OFlxTmFZRkNESWlfSDB5d1Z4UjVSNHNmeXVWd0pBWWd3OWVLd3BMQnplWXZFdzJwUlZqTk9xRGhkbV9sWjhZVUVUdU8yY2xlRzBweDFyZWFGNzBXOWtGSVVXY2dNWGNWRmFocXlwQlJMdUtiUHZ1eXZlUGt6bFp2YWYyYzZlTHktMHlyU3ZHWlhod2V1YQ?oc=5</guid>
-      <pubDate>Tue, 07 Jul 2026 17:42:51 +0000</pubDate>
-    </item>
-    <item>
       <title>[EN] French Alps Olympics add synchro skating, freeride, drop Nordic combined - Sportsnet.ca</title>
       <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxNSlZ0VDFTakpQQ1k3UlJzRUw3WF9ZT01nVndzcEM3REFBZzI4M1JpR3NKSHpMbVlpVnFldHA4TE10Vl8xN0hEdTRldnZqWXdIWW51NDJnU0RjUDZRem0xRUh4RWw4d3pRNkRjdjBSRUdpY180SzItSmthZHRqZjhpN1dpV3p4Z1llLXVsNURWOEQzVjltRGMwcEFYdjhDcHZadk1aU2lWcnhXQnNmbm1KV2thSQ?oc=5</link>
       <description>Publié le : Tue, 07 Jul 2026 20:48:00 GMT - Source : Google News (EN)</description>
@@ -230,6 +223,13 @@
       <description>Publié le : Wed, 08 Jul 2026 17:00:58 GMT - Source : Google News (FR)</description>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNmRXbzNSQWY3MWZTdU4yR3ZxWjlpV3h6WlF1ZUtzaFpnT2licS0yMWQtMXRJRzQ5VU9UcDlGdHpBenpFN29TRnU0SGJVcjhTdWw3ckJVS3Z3cXhJSkw4NXZRMWdqc0ZtNHNNb2Y5bXBFc2hYdUdVcWFsS0xTMVM1TER2VjRqRm5EdHlpcW5XMmxzRW80MHp1akhRVlItRVJjV2lYVHpaTTE0dTg?oc=5</guid>
       <pubDate>Wed, 08 Jul 2026 17:00:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>[FR] Athlétisme. Trois Saint-Lois dans le top 10 français en épreuves combinées - lamanchelibre.fr</title>
+      <link>https://news.google.com/rss/articles/CBMivAFBVV95cUxPTHV0SW9jMkRfQXB5R2RNZHdwOVZYc2NWOWxRcl9xaUd3RGg5SmRXVmxVd1RaUDJiWENiYkNORHJBUnljTmN6YTdVaFFPV2tzaExOT1FvdW5oblVBaXpSMHZyTjRTMm9MelBrQXpMbFFBZVNQenZrc2FUUzlKUVpRbFcxcnlITkczaGJ2V09yUFZ4Zk14elFGVmlsalBta1hRSzNxenJGc0RCUjc2dEg3X2lXOS1kdTByd3U0dw?oc=5</link>
+      <description>Publié le : Thu, 09 Jul 2026 07:36:00 GMT - Source : Google News (FR)</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivAFBVV95cUxPTHV0SW9jMkRfQXB5R2RNZHdwOVZYc2NWOWxRcl9xaUd3RGg5SmRXVmxVd1RaUDJiWENiYkNORHJBUnljTmN6YTdVaFFPV2tzaExOT1FvdW5oblVBaXpSMHZyTjRTMm9MelBrQXpMbFFBZVNQenZrc2FUUzlKUVpRbFcxcnlITkczaGJ2V09yUFZ4Zk14elFGVmlsalBta1hRSzNxenJGc0RCUjc2dEg3X2lXOS1kdTByd3U0dw?oc=5</guid>
+      <pubDate>Thu, 09 Jul 2026 07:36:00 +0000</pubDate>
     </item>
     <item>
       <title>[EN] ‘Gone is a dream’: Nordic combined athletes left devastated by Olympic snub - The New York Times</title>
@@ -251,13 +251,6 @@
       <description>Publié le : Fri, 10 Jul 2026 07:28:14 GMT - Source : Google News (FR)</description>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMipgFBVV95cUxONGFoSnlXVVJyZWlmV3RIclhmeDdoVjZJTXVrTktSbWU2c1RoYWhkRzFMWGtqQ1ZTZXhsMl9vdHBrbDA4WnlLVlhJeDI1bUpodGdBT0ZnTjFmVU9TU2dBQlBjZ05CTEhjOUg1THpReGgwNXhJSkxtdC1vc2YwOUFRTGRYeEU4WC1XbW9IMnI3SzJhMXphWWVwY1Fzclc2Rkk5aXZPUlp3?oc=5</guid>
       <pubDate>Fri, 10 Jul 2026 07:28:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>[EN] Sułek-Schubert to defend Czapiewski Memorial title - worldathletics.org</title>
-      <link>https://news.google.com/rss/articles/CBMi3gFBVV95cUxPMW5wbnhUU3VfSTdBYnlHVl9IVlRXV2cxcmc5NGJncHFwMGdMY3VZa3JtRTExb1k3NzhETG5manJ2Zm9yVzE4UjcyYVJ0NHBaWUtnOS1XcGNJT0FtRkNpLW5HNzhVS05pN3J4UENwYnFPSXNaeXJtSzN1QWdyX1hjaGMtMTdfcThhTjRRNVFDeG9STVE1RjZXbHJJbUVtMWJZNVJCU01zQWc1bVJTTU5GUVFTT3FSSEdIY20tZnVRdXVWdHgxcUNvNnZTclVvR1JSb1ZNc0JpNkVaUkYyd2c?oc=5</link>
-      <description>Publié le : Fri, 10 Jul 2026 09:39:10 GMT - Source : Google News (EN)</description>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi3gFBVV95cUxPMW5wbnhUU3VfSTdBYnlHVl9IVlRXV2cxcmc5NGJncHFwMGdMY3VZa3JtRTExb1k3NzhETG5manJ2Zm9yVzE4UjcyYVJ0NHBaWUtnOS1XcGNJT0FtRkNpLW5HNzhVS05pN3J4UENwYnFPSXNaeXJtSzN1QWdyX1hjaGMtMTdfcThhTjRRNVFDeG9STVE1RjZXbHJJbUVtMWJZNVJCU01zQWc1bVJTTU5GUVFTT3FSSEdIY20tZnVRdXVWdHgxcUNvNnZTclVvR1JSb1ZNc0JpNkVaUkYyd2c?oc=5</guid>
-      <pubDate>Fri, 10 Jul 2026 09:39:10 +0000</pubDate>
     </item>
     <item>
       <title>[EN] Pentathlon title clinches Athlete of the Year for Mays - Post Journal</title>
@@ -286,6 +279,13 @@
       <description>Publié le : Wed, 15 Jul 2026 07:15:58 GMT - Source : Google News (FR)</description>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdmN3c1Z5cWJ1ZGpGVGZUVkR0Q0NPX3VXOTZqVTFZLUZGVTByazRZSHVTNURxMmx2SUdVWE56MWp6cUdBSjZET295NU5xUjJMM01IXzlXUFRCZGlqTllkS0FNUXBJNmNkc3YyTXpUaXhnSVExTW5LSkcxNjJaOE8xUXpIVm9ZcFBDMjMxRHdFRlNBeUMtX0htY0s3aDNIMzZOOHdCUThmYklwVjdoQldNbERGdjltMGV1M0tYRGk3SFRtZndsSVc4NldHSWtqUkFtMFprUQ?oc=5</guid>
       <pubDate>Wed, 15 Jul 2026 07:15:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>[EN] Apollo Completes Acquisitions Of Emerald And Questex To Build Combined B2B Events And Media Platform - Pulse 2.0</title>
+      <link>https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbldla055N1hEUU5XXzV0ajVpLTAzcWZkOVZSYzl0cFhINC04OEkxMGtpc3I1TGpYLUhLUFVCMnBmU0pJd1RWTjJEaXJTbDlJbTZJYlZVM0ZRMXpZaVdsRTBiZGIydEhtMzhYMTUzNU5FNTVKZ0FNWWVTRVVpZlZIdGtKdUVCWWI1SXRNbTlrNkE0UjY1R1JuVXBIN1BkMnQ3cG9lVDczWlFMRERoSXN3VTNCck5ocWVrT0l3WWxLc1c4d9IBwgFBVV95cUxNbldla055N1hEUU5XXzV0ajVpLTAzcWZkOVZSYzl0cFhINC04OEkxMGtpc3I1TGpYLUhLUFVCMnBmU0pJd1RWTjJEaXJTbDlJbTZJYlZVM0ZRMXpZaVdsRTBiZGIydEhtMzhYMTUzNU5FNTVKZ0FNWWVTRVVpZlZIdGtKdUVCWWI1SXRNbTlrNkE0UjY1R1JuVXBIN1BkMnQ3cG9lVDczWlFMRERoSXN3VTNCck5ocWVrT0l3WWxLc1c4dw?oc=5</link>
+      <description>Publié le : Wed, 15 Jul 2026 13:17:20 GMT - Source : Google News (EN)</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbldla055N1hEUU5XXzV0ajVpLTAzcWZkOVZSYzl0cFhINC04OEkxMGtpc3I1TGpYLUhLUFVCMnBmU0pJd1RWTjJEaXJTbDlJbTZJYlZVM0ZRMXpZaVdsRTBiZGIydEhtMzhYMTUzNU5FNTVKZ0FNWWVTRVVpZlZIdGtKdUVCWWI1SXRNbTlrNkE0UjY1R1JuVXBIN1BkMnQ3cG9lVDczWlFMRERoSXN3VTNCck5ocWVrT0l3WWxLc1c4d9IBwgFBVV95cUxNbldla055N1hEUU5XXzV0ajVpLTAzcWZkOVZSYzl0cFhINC04OEkxMGtpc3I1TGpYLUhLUFVCMnBmU0pJd1RWTjJEaXJTbDlJbTZJYlZVM0ZRMXpZaVdsRTBiZGIydEhtMzhYMTUzNU5FNTVKZ0FNWWVTRVVpZlZIdGtKdUVCWWI1SXRNbTlrNkE0UjY1R1JuVXBIN1BkMnQ3cG9lVDczWlFMRERoSXN3VTNCck5ocWVrT0l3WWxLc1c4dw?oc=5</guid>
+      <pubDate>Wed, 15 Jul 2026 13:17:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
