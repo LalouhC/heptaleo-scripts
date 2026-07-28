@@ -6,14 +6,7 @@
     <description>Flux international automatisé (FR/EN/ES) pour Heptaleo.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 27 Jul 2026 21:48:52 +0000</lastBuildDate>
-    <item>
-      <title>[ES] Cinco atletas del Tenerife CajaCanarias brillan con sus selecciones en Lisboa - Diario Palmero</title>
-      <link>https://news.google.com/rss/articles/CBMivAFBVV95cUxObENQdmlSODJXM2hjTXNJenYtR2syQWMzR0V6NnUyN1Y3MjFhYnJkLVU3clo2ZGhyMjNKMVU1TjlldGxjWWNtM0lzcF93WDhxU0xDalU3aGsxd0FOWVk3aXAwQmk5Y01kZFlSYUxESHQ3UTNoWTdoeFVPaWFTS0JzajV4OEFjZ1M5dFIydmVENldrV0pLN3Y4R0VrUU9NRVF4UGczbWJPZVJXamw1N0dNVk1Jby13R0JUeWd2Sw?oc=5</link>
-      <description>Publié le : Sat, 27 Jun 2026 10:06:00 GMT - Source : Google News (ES)</description>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivAFBVV95cUxObENQdmlSODJXM2hjTXNJenYtR2syQWMzR0V6NnUyN1Y3MjFhYnJkLVU3clo2ZGhyMjNKMVU1TjlldGxjWWNtM0lzcF93WDhxU0xDalU3aGsxd0FOWVk3aXAwQmk5Y01kZFlSYUxESHQ3UTNoWTdoeFVPaWFTS0JzajV4OEFjZ1M5dFIydmVENldrV0pLN3Y4R0VrUU9NRVF4UGczbWJPZVJXamw1N0dNVk1Jby13R0JUeWd2Sw?oc=5</guid>
-      <pubDate>Sat, 27 Jun 2026 10:06:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 28 Jul 2026 09:48:54 +0000</lastBuildDate>
     <item>
       <title>[FR] Athlétisme: Kälin explose le record de Suisse de l'heptathlon - rts.ch</title>
       <link>https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZVg5MWNld1JzeHJEbnUwQTBfV0hrVFVmd3M1TVBuSUtSeFFZRnpkdTMtLUQteVItay1qc3NQUHdCSWdGcHdaWU9RWnd0RWRvSUxoTkVMbTQxblVLSm1FZmtaQkdMam9DV2Z0bkN0YjRJb0ZnamdKMlN1Nm1zT0x2Uk5iUDRDUEJHdjdSRlB2SGN4NTVxV3dGUWxDSmN1dnd3dFBVdGZBbEJnVldhZTNEcS1NMXB2QTdaUnhldUxIUlY1QQ?oc=5</link>
@@ -106,6 +99,13 @@
       <pubDate>Sun, 05 Jul 2026 07:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>[EN] French Alps Olympics add synchro skating, freeride, drop Nordic combined - Sportsnet.ca</title>
+      <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxNSlZ0VDFTakpQQ1k3UlJzRUw3WF9ZT01nVndzcEM3REFBZzI4M1JpR3NKSHpMbVlpVnFldHA4TE10Vl8xN0hEdTRldnZqWXdIWW51NDJnU0RjUDZRem0xRUh4RWw4d3pRNkRjdjBSRUdpY180SzItSmthZHRqZjhpN1dpV3p4Z1llLXVsNURWOEQzVjltRGMwcEFYdjhDcHZadk1aU2lWcnhXQnNmbm1KV2thSQ?oc=5</link>
+      <description>Publié le : Tue, 07 Jul 2026 07:00:00 GMT - Source : Google News (EN)</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiswFBVV95cUxNSlZ0VDFTakpQQ1k3UlJzRUw3WF9ZT01nVndzcEM3REFBZzI4M1JpR3NKSHpMbVlpVnFldHA4TE10Vl8xN0hEdTRldnZqWXdIWW51NDJnU0RjUDZRem0xRUh4RWw4d3pRNkRjdjBSRUdpY180SzItSmthZHRqZjhpN1dpV3p4Z1llLXVsNURWOEQzVjltRGMwcEFYdjhDcHZadk1aU2lWcnhXQnNmbm1KV2thSQ?oc=5</guid>
+      <pubDate>Tue, 07 Jul 2026 07:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>[EN] Nordic Combined cut from Olympic Winter Games - International Ski and Snowboard Federation (FIS)</title>
       <link>https://news.google.com/rss/articles/CBMinwFBVV95cUxNRHUtc2xuRy1Jcm8wMi05UjA3LVV5Wl9kWS1YMWphOFh2RzhELXZWd3BXYno3T1U5UllYUVRYN1VSWmJid1dKNGFpcFBIdk5CRHh6TXZIUE8wdnNadUw0M0g3REJPN25VcU5QVVBHOHoyTjlSSWpyOC1FU1RhQm1ORmRSNzBGME82VXBtclRweG9ydmFBNHREUm0zN0VxWkE?oc=5</link>
       <description>Publié le : Tue, 07 Jul 2026 07:00:00 GMT - Source : Google News (EN)</description>
@@ -190,13 +190,6 @@
       <pubDate>Wed, 15 Jul 2026 07:15:58 +0000</pubDate>
     </item>
     <item>
-      <title>[EN] Apollo Completes Acquisitions Of Emerald And Questex To Build Combined B2B Events And Media Platform - Pulse 2.0</title>
-      <link>https://news.google.com/rss/articles/CBMivAFBVV95cUxNYTB1Rmc1enpSQU0zLXdJeWhILXA3QTVCWHFNVmQwZ3pBS25lbE5OVmhTTEJOVDJTYjIxWXE1ZjNER1g1VkhwczNkM0hIeTRBUDlzYXZfNGJiWjR2Y3QxdXZtcXlkM2Jra3htNy04TkstTVNVMXhMa2pZcld0cWRUZ0tSVjA3dWx5aEVYTS12UGdBSlhNbFd6SjYtYUxxc25WS0IzWnhHWG1TS3BiTEVMM1VqOVpiUm9iR21UbNIBwgFBVV95cUxNbldla055N1hEUU5XXzV0ajVpLTAzcWZkOVZSYzl0cFhINC04OEkxMGtpc3I1TGpYLUhLUFVCMnBmU0pJd1RWTjJEaXJTbDlJbTZJYlZVM0ZRMXpZaVdsRTBiZGIydEhtMzhYMTUzNU5FNTVKZ0FNWWVTRVVpZlZIdGtKdUVCWWI1SXRNbTlrNkE0UjY1R1JuVXBIN1BkMnQ3cG9lVDczWlFMRERoSXN3VTNCck5ocWVrT0l3WWxLc1c4dw?oc=5</link>
-      <description>Publié le : Wed, 15 Jul 2026 13:17:20 GMT - Source : Google News (EN)</description>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivAFBVV95cUxNYTB1Rmc1enpSQU0zLXdJeWhILXA3QTVCWHFNVmQwZ3pBS25lbE5OVmhTTEJOVDJTYjIxWXE1ZjNER1g1VkhwczNkM0hIeTRBUDlzYXZfNGJiWjR2Y3QxdXZtcXlkM2Jra3htNy04TkstTVNVMXhMa2pZcld0cWRUZ0tSVjA3dWx5aEVYTS12UGdBSlhNbFd6SjYtYUxxc25WS0IzWnhHWG1TS3BiTEVMM1VqOVpiUm9iR21UbNIBwgFBVV95cUxNbldla055N1hEUU5XXzV0ajVpLTAzcWZkOVZSYzl0cFhINC04OEkxMGtpc3I1TGpYLUhLUFVCMnBmU0pJd1RWTjJEaXJTbDlJbTZJYlZVM0ZRMXpZaVdsRTBiZGIydEhtMzhYMTUzNU5FNTVKZ0FNWWVTRVVpZlZIdGtKdUVCWWI1SXRNbTlrNkE0UjY1R1JuVXBIN1BkMnQ3cG9lVDczWlFMRERoSXN3VTNCck5ocWVrT0l3WWxLc1c4dw?oc=5</guid>
-      <pubDate>Wed, 15 Jul 2026 13:17:20 +0000</pubDate>
-    </item>
-    <item>
       <title>[EN] What Are The Risks of Extreme Heat Combined With Bad Air Quality? - Time Magazine</title>
       <link>https://news.google.com/rss/articles/CBMilAFBVV95cUxQTElrSVdjNUxFMlRweXFtUkZtWU5wTEpHanFsNV9WMkRmUC1hUnlBbkVuV0RYQ2IzOU51OElETEJXYk43dXF3ZzhEcEp2WGdEMnY1dm05dmxnREJDZkFQdXdqWGs3dWpmOXhuY3NMbWw1VlVsYndnanpBa3RVb1BGVk5JaDZJNHh4Wjg3MkJaTTJJY1No?oc=5</link>
       <description>Publié le : Thu, 16 Jul 2026 07:00:00 GMT - Source : Google News (EN)</description>
@@ -279,6 +272,13 @@
       <description>Publié le : Sun, 26 Jul 2026 06:26:50 GMT - Source : Google News (ES)</description>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMilgFBVV95cUxQOG1fLWtoeEhDR1Uyb1YySVA0clpsVTlDXzJSZk5qSFJFNEJFZzBSdzBqY1RvUUE4MjY2dXpjT3lmUDVhWHVjZ3VlYnlJT1hpUHdDcTdMenptUDJ0YnBkZHFOZ29zd3ltanhhOEYyUXJ1dkNyU3VDUWZtNHNYQ3hOM05Uby1vMm1pZHdQRkNXcTRKVDN1aVE?oc=5</guid>
       <pubDate>Sun, 26 Jul 2026 06:26:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>[EN] PREVIEW: Glasgow 2026 field athletics stacked with established and emerging stars - Commonwealth Games Australia</title>
+      <link>https://news.google.com/rss/articles/CBMitAFBVV95cUxNS2ZmTlRSbTBjQ3l6NmdIQzNTbmFVOHd2ZDdKQTB0NlBTLXJHcjlGRVA1dUlkbElXVmxJU3FrV1gwR2JoZ3VvNnZxWTZLV1lMeVd5NUxvNnljRzFDejB0cEdDX0hCMldrYnBKdzBzZGl6eFFMNGlIaVp6RXhLSWZnS2EyZUo5NUhwdmJUS2ZQOUlZcWl2bW56b1ZEQXJQb1lXM2EwTHp1ejFFU2ZrOXZiVWNJdDk?oc=5</link>
+      <description>Publié le : Sun, 26 Jul 2026 10:50:52 GMT - Source : Google News (EN)</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitAFBVV95cUxNS2ZmTlRSbTBjQ3l6NmdIQzNTbmFVOHd2ZDdKQTB0NlBTLXJHcjlGRVA1dUlkbElXVmxJU3FrV1gwR2JoZ3VvNnZxWTZLV1lMeVd5NUxvNnljRzFDejB0cEdDX0hCMldrYnBKdzBzZGl6eFFMNGlIaVp6RXhLSWZnS2EyZUo5NUhwdmJUS2ZQOUlZcWl2bW56b1ZEQXJQb1lXM2EwTHp1ejFFU2ZrOXZiVWNJdDk?oc=5</guid>
+      <pubDate>Sun, 26 Jul 2026 10:50:52 +0000</pubDate>
     </item>
     <item>
       <title>[ES] Fernando Helling y Claudia Chichilnik ganaron el Triatlón de Invierno de Cervantes 2026 - Diario Río Negro</title>
