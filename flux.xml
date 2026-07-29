@@ -6,19 +6,12 @@
     <description>Flux international automatisé (FR/EN/ES) pour Heptaleo.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 29 Jul 2026 10:13:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 16:52:40 +0000</lastBuildDate>
     <item>
-      <title>[FR] Athlétisme. Les athlètes sarthois se déplacent avec des ambitions - Ouest-France</title>
-      <link>https://news.google.com/rss/articles/CBMi3wFBVV95cUxOTFFLQWdISms2Y1haTER5X3prZlJJQ2FTbFh2emNaLUp3RjRISTdOQU5OQXladW9naFYyc0tERUl3cVNqaEVIUW42d0xYM01WQ2pvRDdJSEZGZUlIQkdnRTM4NmgwdEtUOHlGOTlUdnBQRXBJVEZMX3pYek94aFVwdnc5dm5ORXhKMmxaZzF2QWkxWnhYMDg1UzJoUTE5ZFQ1V0RuTjF0bFRqbTdXWFlOQ3hDYkR4YkltODg1d09TakFxblQxT25nNUhpVVMxalp0STNuNEFaOHBmMlZEUHJZ?oc=5</link>
+      <title>[FR] Athlétisme : Aix accueille un plateau de pépites à l'occasion des Nationaux d'épreuves combinées - La Provence</title>
+      <link>https://news.google.com/rss/articles/CBMi5gFBVV95cUxOOHlTOFlQWDJOY0lpM19NODNzcXlVcm1wbUZXRENDSzA1SzlMTUg1b0U4TmdoTnN1YzRPanAzZWMyY2M2RVA2cnU0dS1GUzEya1BXWE41QmtrSEFieXU3Z29ITkV2SGN6WFMteV9CajJPUDJ2TVpDNEpMMHV0TUxDVU1YRFZpNVZtVU1mXzhnR1l6V2ZNeHRkSW9YUlI0bC1YZ3FLQkhsM05iUlBBYXF5TjA3R1FSODVCQmRTcE9aa0V6R2pvenUyN3UtWXFqTlEzMmtQaFN5aFVHWm1nM1ZWdEVaN3Z1UQ?oc=5</link>
       <description>Publié le : Fri, 03 Jul 2026 07:00:00 GMT - Source : Google News (FR)</description>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi3wFBVV95cUxOTFFLQWdISms2Y1haTER5X3prZlJJQ2FTbFh2emNaLUp3RjRISTdOQU5OQXladW9naFYyc0tERUl3cVNqaEVIUW42d0xYM01WQ2pvRDdJSEZGZUlIQkdnRTM4NmgwdEtUOHlGOTlUdnBQRXBJVEZMX3pYek94aFVwdnc5dm5ORXhKMmxaZzF2QWkxWnhYMDg1UzJoUTE5ZFQ1V0RuTjF0bFRqbTdXWFlOQ3hDYkR4YkltODg1d09TakFxblQxT25nNUhpVVMxalp0STNuNEFaOHBmMlZEUHJZ?oc=5</guid>
-      <pubDate>Fri, 03 Jul 2026 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[FR] Athlétisme. Championnats de France d’Heptathlon : « Un podium pourrait être envisageable » pour Elena Fournier - Ouest-France</title>
-      <link>https://news.google.com/rss/articles/CBMikgJBVV95cUxPVjRaemRQQnpTZUFHTTV2bGhhYkQ1bGJRV0lWSFFxZlVNZGtBTUo5SkVBQTByMmU3M2ZVWUlORENfNnZheFVuM2ZYUVhXZ1VZQVNKQ2VsekNoS1poQmFKUzhMbHNvaE5ZSk0xTUVuRVlIZzFRWWJqZ2tWU0JCR0Jfd2lhbmd1bFY1eGVHQUdhSkxrNzVfRE51aWo0WmhwZFNEbmpuTTlZaGNPcl8taWZGTWJWWldRR3RYZm1zaGdvTHIzanIxTGc2bnhVVzMwMW11aXRscG1HVlZKVmxaQzEtcW5sQ0wxVGt1YXpCT3Jnc0dTR2lZYlc5NTN2U0hWNmhuQ0U3SGdXbS10UW9RX3FrUHZR?oc=5</link>
-      <description>Publié le : Fri, 03 Jul 2026 07:00:00 GMT - Source : Google News (FR)</description>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMikgJBVV95cUxPVjRaemRQQnpTZUFHTTV2bGhhYkQ1bGJRV0lWSFFxZlVNZGtBTUo5SkVBQTByMmU3M2ZVWUlORENfNnZheFVuM2ZYUVhXZ1VZQVNKQ2VsekNoS1poQmFKUzhMbHNvaE5ZSk0xTUVuRVlIZzFRWWJqZ2tWU0JCR0Jfd2lhbmd1bFY1eGVHQUdhSkxrNzVfRE51aWo0WmhwZFNEbmpuTTlZaGNPcl8taWZGTWJWWldRR3RYZm1zaGdvTHIzanIxTGc2bnhVVzMwMW11aXRscG1HVlZKVmxaQzEtcW5sQ0wxVGt1YXpCT3Jnc0dTR2lZYlc5NTN2U0hWNmhuQ0U3SGdXbS10UW9RX3FrUHZR?oc=5</guid>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi5gFBVV95cUxOOHlTOFlQWDJOY0lpM19NODNzcXlVcm1wbUZXRENDSzA1SzlMTUg1b0U4TmdoTnN1YzRPanAzZWMyY2M2RVA2cnU0dS1GUzEya1BXWE41QmtrSEFieXU3Z29ITkV2SGN6WFMteV9CajJPUDJ2TVpDNEpMMHV0TUxDVU1YRFZpNVZtVU1mXzhnR1l6V2ZNeHRkSW9YUlI0bC1YZ3FLQkhsM05iUlBBYXF5TjA3R1FSODVCQmRTcE9aa0V6R2pvenUyN3UtWXFqTlEzMmtQaFN5aFVHWm1nM1ZWdEVaN3Z1UQ?oc=5</guid>
       <pubDate>Fri, 03 Jul 2026 07:00:00 +0000</pubDate>
     </item>
     <item>
@@ -29,14 +22,7 @@
       <pubDate>Fri, 03 Jul 2026 07:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[FR] ATHLE.FR | Championnats de France d'épreuves combinées : les jeunes en lice à Aix-en-Provence - Fédération Française d'Athlétisme</title>
-      <link>https://news.google.com/rss/articles/CBMiugFBVV95cUxPMk1FMnZ6R0stU3pGeDhoNTVkel9HVURscGFKSVZxQnV2cEhBVjlkWFNkNG45WVhHeEMzWmpWLU5CR1ZiZ1gxWXV3Qi1EdHpnR2ZEa2tzMmN2LWlSUWtkbE5BOF8wRFpxUk1QQ3l2ZThIdV9ra05BVjdaVTcwOG00ZkNBOW1iOUUtNTlkUFFEUFAzYk9wMjNScUdpT2NXSXpmTkJZY2tnNXpXNUVmVGU5U1poMWhOd2lNdlE?oc=5</link>
-      <description>Publié le : Fri, 03 Jul 2026 07:00:00 GMT - Source : Google News (FR)</description>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiugFBVV95cUxPMk1FMnZ6R0stU3pGeDhoNTVkel9HVURscGFKSVZxQnV2cEhBVjlkWFNkNG45WVhHeEMzWmpWLU5CR1ZiZ1gxWXV3Qi1EdHpnR2ZEa2tzMmN2LWlSUWtkbE5BOF8wRFpxUk1QQ3l2ZThIdV9ra05BVjdaVTcwOG00ZkNBOW1iOUUtNTlkUFFEUFAzYk9wMjNScUdpT2NXSXpmTkJZY2tnNXpXNUVmVGU5U1poMWhOd2lNdlE?oc=5</guid>
-      <pubDate>Fri, 03 Jul 2026 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[ES] | RFEA - RFEA</title>
+      <title>[ES] | RFEA - atletismorfea.es</title>
       <link>https://news.google.com/rss/articles/CBMijAFBVV95cUxNdUFuU1RPYXJJWkZpcUM3cHZabWEtRVo4VlZvVFFSZWZBb2t3NDZyOXg2YjdmMUpBdUVlSXRPVXZreldJS3BtSW9rM21jcWt4QkNxYlJBVFRCZ1dPNlg0eDFxYlFITGdKOVlfMURsbm9RMHFiN1ZrcDJVZ2o0b094WGNQUFd0aWcyZzJMYQ?oc=5</link>
       <description>Publié le : Sat, 04 Jul 2026 02:03:44 GMT - Source : Google News (ES)</description>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMijAFBVV95cUxNdUFuU1RPYXJJWkZpcUM3cHZabWEtRVo4VlZvVFFSZWZBb2t3NDZyOXg2YjdmMUpBdUVlSXRPVXZreldJS3BtSW9rM21jcWt4QkNxYlJBVFRCZ1dPNlg0eDFxYlFITGdKOVlfMURsbm9RMHFiN1ZrcDJVZ2o0b094WGNQUFd0aWcyZzJMYQ?oc=5</guid>
@@ -148,7 +134,7 @@
       <pubDate>Thu, 09 Jul 2026 20:32:51 +0000</pubDate>
     </item>
     <item>
-      <title>[FR] Championnats de France d'Epreuves Combinées 2023 - Compiègne (H-F) - Fédération Française d'Athlétisme</title>
+      <title>[FR] Championnats de France d'Epreuves Combinées 2023 - Compiègne (H-F) - athle.fr</title>
       <link>https://news.google.com/rss/articles/CBMinAFBVV95cUxOM3JyblJ1ZkR2ekY4NU0wZ3NGd1BzbTVOS1VKTV95bnVmVlFsR2NORzIwR3hfcXFpMzJ4cGtfS3ROSm4zN2dISjdDWTJTdFBZOGNfQXB3OGhkZHJMNUNxRk1CODVzTm5OX0tGTjRwNnJDVDNFU3dMbUc0MlU3dVFseVIxMW0wQS1FM3ltM3hSSmlNU25JRjc4eVc5RE8?oc=5</link>
       <description>Publié le : Sun, 12 Jul 2026 19:40:18 GMT - Source : Google News (FR)</description>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMinAFBVV95cUxOM3JyblJ1ZkR2ekY4NU0wZ3NGd1BzbTVOS1VKTV95bnVmVlFsR2NORzIwR3hfcXFpMzJ4cGtfS3ROSm4zN2dISjdDWTJTdFBZOGNfQXB3OGhkZHJMNUNxRk1CODVzTm5OX0tGTjRwNnJDVDNFU3dMbUc0MlU3dVFseVIxMW0wQS1FM3ltM3hSSmlNU25JRjc4eVc5RE8?oc=5</guid>
@@ -190,7 +176,7 @@
       <pubDate>Sun, 19 Jul 2026 13:16:16 +0000</pubDate>
     </item>
     <item>
-      <title>[ES] Málaga 2026 prueba a prueba: combinadas y marcha - RFEA</title>
+      <title>[ES] Málaga 2026 prueba a prueba: combinadas y marcha - atletismorfea.es</title>
       <link>https://news.google.com/rss/articles/CBMirAFBVV95cUxNcThmNWx4Zl9HamJ4V1A2UFJvQThxS3liRFVtSUFfLXR2dzZiNkU4NnQxUVJPVjdYQzRUMnh1UDRwalQwOVl3NXk2a1c5X0dHTFVBbVVXU0ZpOFVmV1JnRlNkMklBTC1KYXRBTTZFQzJGMlNNM21TWjZ1RzlzaEJaSmdvZW9zUUlXbC1aNV9ydGJwekJLY3FHYnVhQ2ZfYXNkbUJWUk1IaVFMT01B?oc=5</link>
       <description>Publié le : Thu, 23 Jul 2026 01:28:40 GMT - Source : Google News (ES)</description>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMirAFBVV95cUxNcThmNWx4Zl9HamJ4V1A2UFJvQThxS3liRFVtSUFfLXR2dzZiNkU4NnQxUVJPVjdYQzRUMnh1UDRwalQwOVl3NXk2a1c5X0dHTFVBbVVXU0ZpOFVmV1JnRlNkMklBTC1KYXRBTTZFQzJGMlNNM21TWjZ1RzlzaEJaSmdvZW9zUUlXbC1aNV9ydGJwekJLY3FHYnVhQ2ZfYXNkbUJWUk1IaVFMT01B?oc=5</guid>
@@ -204,7 +190,7 @@
       <pubDate>Thu, 23 Jul 2026 13:11:40 +0000</pubDate>
     </item>
     <item>
-      <title>[ES] Campeonato de España de Atletismo 2026 en Málaga: fechas, horarios y dónde verlo por televisión - SPORT</title>
+      <title>[ES] Campeonato de España de Atletismo 2026 en Málaga: fechas, horarios y dónde verlo por televisión - sport.es</title>
       <link>https://news.google.com/rss/articles/CBMilAFBVV95cUxPcHFIWWx1bU0zWFhxTzdQbXpNNk15ZFBKNXc5TXlYUGw0a2JOd1JrRjJzdlV5UFZUZ1RIc0RFZ2JTZGVmbkl4RVBkUlQ1Y3ZfNHVRb1pBRDhFYl9IMzhva1BqM1FMUG0wU21Rb0N6Y01WQVhGYmhxcklfM1U0YlpyQ3UyNmtvUzE0WURPMC1GRXVCZFM10gGUAUFVX3lxTE9DLXFMS3Y2dXR4UmgxdnVhQ1R1UlBUcXZrNURTS3dOc05VU092dU9QNmFZcmdvVGN2dGJsVDJTV080ZEhwa2JxZG4wY2k3WXVJZjI1MkQ2U2xYR2tVcGhOUFhYb2xhN0IzWW9YSTVCSjRiOGVpekltbDhBUW95WHBmVGFVaFBDXzhGVkdvX2lLWXBqaE0?oc=5</link>
       <description>Publié le : Fri, 24 Jul 2026 04:30:32 GMT - Source : Google News (ES)</description>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMilAFBVV95cUxPcHFIWWx1bU0zWFhxTzdQbXpNNk15ZFBKNXc5TXlYUGw0a2JOd1JrRjJzdlV5UFZUZ1RIc0RFZ2JTZGVmbkl4RVBkUlQ1Y3ZfNHVRb1pBRDhFYl9IMzhva1BqM1FMUG0wU21Rb0N6Y01WQVhGYmhxcklfM1U0YlpyQ3UyNmtvUzE0WURPMC1GRXVCZFM10gGUAUFVX3lxTE9DLXFMS3Y2dXR4UmgxdnVhQ1R1UlBUcXZrNURTS3dOc05VU092dU9QNmFZcmdvVGN2dGJsVDJTV080ZEhwa2JxZG4wY2k3WXVJZjI1MkQ2U2xYR2tVcGhOUFhYb2xhN0IzWW9YSTVCSjRiOGVpekltbDhBUW95WHBmVGFVaFBDXzhGVkdvX2lLWXBqaE0?oc=5</guid>
@@ -225,11 +211,18 @@
       <pubDate>Sat, 25 Jul 2026 21:10:30 +0000</pubDate>
     </item>
     <item>
-      <title>[ES] Málaga se llena de estrellas - RFEA</title>
+      <title>[ES] Málaga se llena de estrellas - atletismorfea.es</title>
       <link>https://news.google.com/rss/articles/CBMilgFBVV95cUxQOG1fLWtoeEhDR1Uyb1YySVA0clpsVTlDXzJSZk5qSFJFNEJFZzBSdzBqY1RvUUE4MjY2dXpjT3lmUDVhWHVjZ3VlYnlJT1hpUHdDcTdMenptUDJ0YnBkZHFOZ29zd3ltanhhOEYyUXJ1dkNyU3VDUWZtNHNYQ3hOM05Uby1vMm1pZHdQRkNXcTRKVDN1aVE?oc=5</link>
       <description>Publié le : Sun, 26 Jul 2026 06:26:50 GMT - Source : Google News (ES)</description>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMilgFBVV95cUxQOG1fLWtoeEhDR1Uyb1YySVA0clpsVTlDXzJSZk5qSFJFNEJFZzBSdzBqY1RvUUE4MjY2dXpjT3lmUDVhWHVjZ3VlYnlJT1hpUHdDcTdMenptUDJ0YnBkZHFOZ29zd3ltanhhOEYyUXJ1dkNyU3VDUWZtNHNYQ3hOM05Uby1vMm1pZHdQRkNXcTRKVDN1aVE?oc=5</guid>
       <pubDate>Sun, 26 Jul 2026 06:26:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>[EN] Americans wagered more on sports gambling than they spent on movies, museums, and music combined - Fortune</title>
+      <link>https://news.google.com/rss/articles/CBMiogFBVV95cUxPWV8ybW1mdEZTR3NQY3Q5ejhIMTlTVkNOb2ltZHZzQms5b2k0WTNLTENZQmJ1WTcwSlNVdHo1djlDTHVpOVc2UHh3Z2VxNFo0TTNMeERPNGcwa25mblBycDhwdWtFRDBiMUUyRGJTekx6ZDlMUFJPSkdkVVlqRkYzSHJmcVgwZHE5VDR2MGxqeWpJSThja0FHVU10M3JleTB5d0E?oc=5</link>
+      <description>Publié le : Sun, 26 Jul 2026 08:00:00 GMT - Source : Google News (EN)</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiogFBVV95cUxPWV8ybW1mdEZTR3NQY3Q5ejhIMTlTVkNOb2ltZHZzQms5b2k0WTNLTENZQmJ1WTcwSlNVdHo1djlDTHVpOVc2UHh3Z2VxNFo0TTNMeERPNGcwa25mblBycDhwdWtFRDBiMUUyRGJTekx6ZDlMUFJPSkdkVVlqRkYzSHJmcVgwZHE5VDR2MGxqeWpJSThja0FHVU10M3JleTB5d0E?oc=5</guid>
+      <pubDate>Sun, 26 Jul 2026 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[ES] Fernando Helling y Claudia Chichilnik ganaron el Triatlón de Invierno de Cervantes 2026 - Diario Río Negro</title>
@@ -251,13 +244,6 @@
       <description>Publié le : Tue, 28 Jul 2026 12:27:03 GMT - Source : Google News (EN)</description>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Nc1VpMzNqUHcwWXdfZ2NDOFUwM3JQREVWQ3JldEtHMmxJNm42aC1pX3pkM0R6TGxRSG9MeTJYWk1kcHNSek9YMmNlR01ZYWJoNTdralRmVkFrdERNR2daVTBGQ2tCWkFZ?oc=5</guid>
       <pubDate>Tue, 28 Jul 2026 12:27:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>[EN] O'Connor leads heptathlon with three events to go - RTE.ie</title>
-      <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxPTE1Bd1dTWWsxY21SQ0FMM3Bsb1pTTGVuNVZNbWN0U0hXX0ZEZUVhX0t0LVlCNDhfODRzYkRQdHdzNDg0NV9CX3lWOWo2a1RtVFFPUnpmanVQVEJSZHJZQmgtYUJIWjdoYkwtUU91d0lwRWtoS2NONTFSX05HVlJtUndiU2hxV0VadUp6cDhscEltRk55dl9xOG14cWZ3YURsVXMyRUVndXktaGVqLVZn?oc=5</link>
-      <description>Publié le : Tue, 28 Jul 2026 12:27:37 GMT - Source : Google News (EN)</description>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMirwFBVV95cUxPTE1Bd1dTWWsxY21SQ0FMM3Bsb1pTTGVuNVZNbWN0U0hXX0ZEZUVhX0t0LVlCNDhfODRzYkRQdHdzNDg0NV9CX3lWOWo2a1RtVFFPUnpmanVQVEJSZHJZQmgtYUJIWjdoYkwtUU91d0lwRWtoS2NONTFSX05HVlJtUndiU2hxV0VadUp6cDhscEltRk55dl9xOG14cWZ3YURsVXMyRUVndXktaGVqLVZn?oc=5</guid>
-      <pubDate>Tue, 28 Jul 2026 12:27:37 +0000</pubDate>
     </item>
     <item>
       <title>[EN] Commonwealth Games 2026, Morning Session, Tuesday July 28: Taking care of business - England Athletics</title>
@@ -286,6 +272,20 @@
       <description>Publié le : Wed, 29 Jul 2026 02:55:10 GMT - Source : Google News (EN)</description>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMipgFBVV95cUxNTE9OTVZGYjB1ckxIc1JTdWNVdG9YZm5RMzRINGxPSC1pTmpaU0oyOHZPLUhPVkZFLTJHVmlMX1VMaW5qVndNOGxVNlNlZUE5RXd2M1JpMmtSZ1VxdzlpQ2hXS2owa2lIVGlwLUoyaGFDR3ZJV3p3czVnMi1rYTVEOHFnN2V6cW4yeUV3ay1XbDgwN2ZmYmhjbkFaTXN5dnRsbW0wNzBn?oc=5</guid>
       <pubDate>Wed, 29 Jul 2026 02:55:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>[EN] Commonwealth Games 2026: Kate O'Connor continues to lead heptathlon after six events - BBC</title>
+      <link>https://news.google.com/rss/articles/CBMiaEFVX3lxTE92NkVKUmRRM1FWUmRpZFZUZUJNdzIzcGtxZTlGTVBJTUVmcmNrVmFzMlU1cTVJMHcyR1ZBU3BTLTJUbGUxTjk5R3F4WnpxSzlYR080M3JXZmRUQy10amY4SzNCcm4xZFU2?oc=5</link>
+      <description>Publié le : Wed, 29 Jul 2026 12:02:25 GMT - Source : Google News (EN)</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiaEFVX3lxTE92NkVKUmRRM1FWUmRpZFZUZUJNdzIzcGtxZTlGTVBJTUVmcmNrVmFzMlU1cTVJMHcyR1ZBU3BTLTJUbGUxTjk5R3F4WnpxSzlYR080M3JXZmRUQy10amY4SzNCcm4xZFU2?oc=5</guid>
+      <pubDate>Wed, 29 Jul 2026 12:02:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>[EN] Kate O'Connor poised for heptathlon gold after a big morning - RTE.ie</title>
+      <link>https://news.google.com/rss/articles/CBMirAFBVV95cUxOTGVhZ1dfTWFwN0NubWFHa05TamtSbWU0QWJYeldoUVlPN2V6aWY3V3U5MVQ3Q3lDcGN2V2Q4OUFoZmVOSEtPTHhpcmNPczhKX2k3R0NIMjFTTGdWYzcxc3V2X1lVaTBzcE5JYmNnT2xTZ25yM1NzRG9hbmdOcGF6dkdrbllSUkJTMHBXdGtHb1N4Q2FTRlBnYldTNW8wSjR0Tk5EWDNaOGJXZWhG?oc=5</link>
+      <description>Publié le : Wed, 29 Jul 2026 12:02:46 GMT - Source : Google News (EN)</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMirAFBVV95cUxOTGVhZ1dfTWFwN0NubWFHa05TamtSbWU0QWJYeldoUVlPN2V6aWY3V3U5MVQ3Q3lDcGN2V2Q4OUFoZmVOSEtPTHhpcmNPczhKX2k3R0NIMjFTTGdWYzcxc3V2X1lVaTBzcE5JYmNnT2xTZ25yM1NzRG9hbmdOcGF6dkdrbllSUkJTMHBXdGtHb1N4Q2FTRlBnYldTNW8wSjR0Tk5EWDNaOGJXZWhG?oc=5</guid>
+      <pubDate>Wed, 29 Jul 2026 12:02:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
