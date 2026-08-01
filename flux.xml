@@ -6,21 +6,7 @@
     <description>Flux international automatisé (FR/EN/ES) pour Heptaleo.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 31 Jul 2026 19:24:01 +0000</lastBuildDate>
-    <item>
-      <title>[FR] "Je vais essayer de tout donner" : Eloïse Hugon, de Trégastel, est prête pour les France d'athlétisme - Actu.fr</title>
-      <link>https://news.google.com/rss/articles/CBMi9AFBVV95cUxPeTU0cTVxYXRmeFNCS1NfdGxSUzRXRTVncjZ6TzJGNTF1SDkycmc0WFJLNmxCc0s0aWxLa05YYWh2TXdEZnd5UXBubklPYTA4VUFvTFNmbEVwMGxRaWlKYTJNek8wT3hVdEFOaHdkN3pxVEo2akZucFpQQjRmSU5fdW5lZENEMUpMc01yaEpJY2RNaTl0VE9JdC1yU1d1MDVDUzhockNRYXl1WkV1cGRMMEhXWjByaE1nWU4yZzdSbEI2SHhOVDg5dmNmbDJtR1llM2FoT2FDZDg4ZU44WUNSMFkxQWs5X2Rma3UwTUdYZWJ0QkMw?oc=5</link>
-      <description>Publié le : Fri, 03 Jul 2026 07:00:00 GMT - Source : Google News (FR)</description>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi9AFBVV95cUxPeTU0cTVxYXRmeFNCS1NfdGxSUzRXRTVncjZ6TzJGNTF1SDkycmc0WFJLNmxCc0s0aWxLa05YYWh2TXdEZnd5UXBubklPYTA4VUFvTFNmbEVwMGxRaWlKYTJNek8wT3hVdEFOaHdkN3pxVEo2akZucFpQQjRmSU5fdW5lZENEMUpMc01yaEpJY2RNaTl0VE9JdC1yU1d1MDVDUzhockNRYXl1WkV1cGRMMEhXWjByaE1nWU4yZzdSbEI2SHhOVDg5dmNmbDJtR1llM2FoT2FDZDg4ZU44WUNSMFkxQWs5X2Rma3UwTUdYZWJ0QkMw?oc=5</guid>
-      <pubDate>Fri, 03 Jul 2026 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[FR] Athlétisme. Les athlètes sarthois se déplacent avec des ambitions - Ouest-France</title>
-      <link>https://news.google.com/rss/articles/CBMi3wFBVV95cUxOTFFLQWdISms2Y1haTER5X3prZlJJQ2FTbFh2emNaLUp3RjRISTdOQU5OQXladW9naFYyc0tERUl3cVNqaEVIUW42d0xYM01WQ2pvRDdJSEZGZUlIQkdnRTM4NmgwdEtUOHlGOTlUdnBQRXBJVEZMX3pYek94aFVwdnc5dm5ORXhKMmxaZzF2QWkxWnhYMDg1UzJoUTE5ZFQ1V0RuTjF0bFRqbTdXWFlOQ3hDYkR4YkltODg1d09TakFxblQxT25nNUhpVVMxalp0STNuNEFaOHBmMlZEUHJZ?oc=5</link>
-      <description>Publié le : Fri, 03 Jul 2026 07:00:00 GMT - Source : Google News (FR)</description>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi3wFBVV95cUxOTFFLQWdISms2Y1haTER5X3prZlJJQ2FTbFh2emNaLUp3RjRISTdOQU5OQXladW9naFYyc0tERUl3cVNqaEVIUW42d0xYM01WQ2pvRDdJSEZGZUlIQkdnRTM4NmgwdEtUOHlGOTlUdnBQRXBJVEZMX3pYek94aFVwdnc5dm5ORXhKMmxaZzF2QWkxWnhYMDg1UzJoUTE5ZFQ1V0RuTjF0bFRqbTdXWFlOQ3hDYkR4YkltODg1d09TakFxblQxT25nNUhpVVMxalp0STNuNEFaOHBmMlZEUHJZ?oc=5</guid>
-      <pubDate>Fri, 03 Jul 2026 07:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 01 Aug 2026 02:46:07 +0000</lastBuildDate>
     <item>
       <title>[FR] Athlétisme. Championnats de France d’Heptathlon : « Un podium pourrait être envisageable » pour Elena Fournier - Ouest-France</title>
       <link>https://news.google.com/rss/articles/CBMikgJBVV95cUxPVjRaemRQQnpTZUFHTTV2bGhhYkQ1bGJRV0lWSFFxZlVNZGtBTUo5SkVBQTByMmU3M2ZVWUlORENfNnZheFVuM2ZYUVhXZ1VZQVNKQ2VsekNoS1poQmFKUzhMbHNvaE5ZSk0xTUVuRVlIZzFRWWJqZ2tWU0JCR0Jfd2lhbmd1bFY1eGVHQUdhSkxrNzVfRE51aWo0WmhwZFNEbmpuTTlZaGNPcl8taWZGTWJWWldRR3RYZm1zaGdvTHIzanIxTGc2bnhVVzMwMW11aXRscG1HVlZKVmxaQzEtcW5sQ0wxVGt1YXpCT3Jnc0dTR2lZYlc5NTN2U0hWNmhuQ0U3SGdXbS10UW9RX3FrUHZR?oc=5</link>
@@ -57,6 +43,13 @@
       <pubDate>Sat, 04 Jul 2026 02:03:44 +0000</pubDate>
     </item>
     <item>
+      <title>[EN] England Athletics Senior and U20 track and field and combined events championships, powered by Citroën: day two - pressure, power and performance - England Athletics</title>
+      <link>https://news.google.com/rss/articles/CBMiiwJBVV95cUxQTG43RWdCa0V3aG81N2lTVm5Tc2tCaW15VENsX0t4X3dXbHF6RG1OZDdDNGhBT05hOWI1czROLVl6OEZWWEUxdFpyUnhjRFdVZmplbmdkRUVWLUhUN2tDZHlxa0F3cFlxcU9XUmRRd0FjQVZTalFDZkpHLXNReXBfWC1oOExzaUZYUmFuc08xeHQtNnVBVkdIYnBRZER0Nlk4UW83dEtDU0lRS1R2MXRWQ2pnaXhfTjA5cGw2SzJtSTRMUV9HNDBFR2ozOUlPeldnLWhrdmtoNzJuMXhhRFI0Z1BmRUp4Q0xaYnR6TnlLeVY0VzhRY1ExYzJ3V0dhRnB2SHN2QWNFRUVhcHM?oc=5</link>
+      <description>Publié le : Sat, 04 Jul 2026 07:00:00 GMT - Source : Google News (EN)</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiiwJBVV95cUxQTG43RWdCa0V3aG81N2lTVm5Tc2tCaW15VENsX0t4X3dXbHF6RG1OZDdDNGhBT05hOWI1czROLVl6OEZWWEUxdFpyUnhjRFdVZmplbmdkRUVWLUhUN2tDZHlxa0F3cFlxcU9XUmRRd0FjQVZTalFDZkpHLXNReXBfWC1oOExzaUZYUmFuc08xeHQtNnVBVkdIYnBRZER0Nlk4UW83dEtDU0lRS1R2MXRWQ2pnaXhfTjA5cGw2SzJtSTRMUV9HNDBFR2ozOUlPeldnLWhrdmtoNzJuMXhhRFI0Z1BmRUp4Q0xaYnR6TnlLeVY0VzhRY1ExYzJ3V0dhRnB2SHN2QWNFRUVhcHM?oc=5</guid>
+      <pubDate>Sat, 04 Jul 2026 07:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>[FR] Athlétisme. Championnat de France combiné : à Aix-en-Provence, Adrien Tiaiba voit double - Ouest-France</title>
       <link>https://news.google.com/rss/articles/CBMi-gFBVV95cUxNeW9mUWFlajFsaXgtV3BiMDJ4ZWI0d3lVcjlkWnlWM1J0OVFpY1VTRnExOEEyOFJLRXRDM2VLWXk2dFN1QVNMU1RGZFVQelBqNnVKU1F2R0J2a2tCNWJlOGQ1UVNkVzdCQmZYU3o4b2UtYl9XdlY4c3FXaGpDUlZhTXFTYVE2UnlERFhheTc4WnpoY0x3NHNnY0RLVFlkbzN1OWwxdDBEMndhMzM5REN6WjMxT3FFNWNmOHVxeXFIQll5ME14ZjQxcVhIWGo1M0oyRHJXTTM0cVlZRUZKbHB4TVZJbGc4d2h1MnptUDVVYWkyN1JCMUtQQTVB?oc=5</link>
       <description>Publié le : Sat, 04 Jul 2026 07:00:00 GMT - Source : Google News (FR)</description>
@@ -71,11 +64,18 @@
       <pubDate>Sat, 04 Jul 2026 07:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[FR] Championnats de France d’épreuves combinées : le titre en junior pour le Rennais Maël-Béphassou Lannurien - letelegramme.fr</title>
+      <title>[FR] Championnats de France d’épreuves combinées : le titre en junior pour le Rennais Maël-Béphassou Lannurien - Le Télégramme</title>
       <link>https://news.google.com/rss/articles/CBMi8gFBVV95cUxPNkE2UG5qa0E2OW5TbEdkbUhLWnYtZVhaQ0ROOFVkdDdUM2V1cDlxTjhDX2R1Q2RTR09YYUFnUldaUFZCMk1iaXlZc0JIMHo2MTVJRmlJTW9QaGx1WEVKQVY5SW9GUFVkb1VGRUdsX3dnSlFIX2pZMVliU01qVXFCQzIyRk85dEY2V2lDVlNBYmxQNzV5TnFPcXlyRkhKU0cwTTJ5dDUwVDRfakQ2YkdfRlFjbWZpSGR0WGg5NTZUNmxWSjJ1SFFYWHJ1alVuVmlzajRHajhpTUQ5QzlOYk03ODBKekZkVFl5eTh2UG45SFNOQQ?oc=5</link>
       <description>Publié le : Sat, 04 Jul 2026 07:00:00 GMT - Source : Google News (FR)</description>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi8gFBVV95cUxPNkE2UG5qa0E2OW5TbEdkbUhLWnYtZVhaQ0ROOFVkdDdUM2V1cDlxTjhDX2R1Q2RTR09YYUFnUldaUFZCMk1iaXlZc0JIMHo2MTVJRmlJTW9QaGx1WEVKQVY5SW9GUFVkb1VGRUdsX3dnSlFIX2pZMVliU01qVXFCQzIyRk85dEY2V2lDVlNBYmxQNzV5TnFPcXlyRkhKU0cwTTJ5dDUwVDRfakQ2YkdfRlFjbWZpSGR0WGg5NTZUNmxWSjJ1SFFYWHJ1alVuVmlzajRHajhpTUQ5QzlOYk03ODBKekZkVFl5eTh2UG45SFNOQQ?oc=5</guid>
       <pubDate>Sat, 04 Jul 2026 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[EN] England Athletics Senior and U20 track and field and combined events championships, powered by Citroën: Tickets punched, job done - England Athletics</title>
+      <link>https://news.google.com/rss/articles/CBMi-AFBVV95cUxQdUxtV1k5cjB4TDJIclFCbWRmdFA0OE1ETjFCLV9FM3dsQ1F0SnRFQmZyMzFpcmVzWmxHVW9vajhQRFJCWkNEWkNEZHNKTjZNdS0wcGNYWkZXbmhUVVlTbG9iQkFNMTBrY0FuTVFzNDJYTEdwZTFQQ2pHc2VjZGdaM2tuZ1JnZkJRSmkzVHpkOTRZaFBoRkNzRTdOSWxQMkZ1ejk5SEVqYi1VWWptZTN2NlpxLUZzaldHUVk3Mm1UYmw3eVFEYnFQMUdELWtNYzk1STF4TWJvMUlZRmYydDdQdFRvVHFtRm9wVER5OXNCZUNGc2VLSzJMRg?oc=5</link>
+      <description>Publié le : Sun, 05 Jul 2026 07:00:00 GMT - Source : Google News (EN)</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi-AFBVV95cUxQdUxtV1k5cjB4TDJIclFCbWRmdFA0OE1ETjFCLV9FM3dsQ1F0SnRFQmZyMzFpcmVzWmxHVW9vajhQRFJCWkNEWkNEZHNKTjZNdS0wcGNYWkZXbmhUVVlTbG9iQkFNMTBrY0FuTVFzNDJYTEdwZTFQQ2pHc2VjZGdaM2tuZ1JnZkJRSmkzVHpkOTRZaFBoRkNzRTdOSWxQMkZ1ejk5SEVqYi1VWWptZTN2NlpxLUZzaldHUVk3Mm1UYmw3eVFEYnFQMUdELWtNYzk1STF4TWJvMUlZRmYydDdQdFRvVHFtRm9wVER5OXNCZUNGc2VLSzJMRg?oc=5</guid>
+      <pubDate>Sun, 05 Jul 2026 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[FR] Athlétisme. Lannurien champion de France, Bédard record, Liberman toujours plus vite… Le week-end du HBA - Ouest-France</title>
@@ -156,10 +156,17 @@
     </item>
     <item>
       <title>[FR] Athlétisme. Bahia Reding monte en puissance au Caen AC : "J'ai envie de dépasser mes limites" - Actu.fr</title>
-      <link>https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNjUxcVd5VndEYkJtdXprMjZoQVdGZE50LWFoMlpJa3JiQUpzR1JYZU94YnVmcG9jaHNZZlNJMS1JTHlRRGg5YnlTdl9TakpNV1VudU9ydzg4bmJiNmlqVWtLRmh4SUVWN0p4N09IMlFLc2hsZWlKdUVFVERZQXRzWldtRHd4a3Vic18xRk94ckVqZ21jZnVZWFREU3ZibnhKSF9wYkt0R3Yxb3RYbENlV3B5YldZWmwtN1B5Z0FQTVNJbU56ZzJqaEJibUhYeTI5ckdrR2o2NDl2ZDdkWkpsLXNaUnE4NHV0?oc=5</link>
-      <description>Publié le : Wed, 15 Jul 2026 07:15:58 GMT - Source : Google News (FR)</description>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNjUxcVd5VndEYkJtdXprMjZoQVdGZE50LWFoMlpJa3JiQUpzR1JYZU94YnVmcG9jaHNZZlNJMS1JTHlRRGg5YnlTdl9TakpNV1VudU9ydzg4bmJiNmlqVWtLRmh4SUVWN0p4N09IMlFLc2hsZWlKdUVFVERZQXRzWldtRHd4a3Vic18xRk94ckVqZ21jZnVZWFREU3ZibnhKSF9wYkt0R3Yxb3RYbENlV3B5YldZWmwtN1B5Z0FQTVNJbU56ZzJqaEJibUhYeTI5ckdrR2o2NDl2ZDdkWkpsLXNaUnE4NHV0?oc=5</guid>
-      <pubDate>Wed, 15 Jul 2026 07:15:58 +0000</pubDate>
+      <link>https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdmN3c1Z5cWJ1ZGpGVGZUVkR0Q0NPX3VXOTZqVTFZLUZGVTByazRZSHVTNURxMmx2SUdVWE56MWp6cUdBSjZET295NU5xUjJMM01IXzlXUFRCZGlqTllkS0FNUXBJNmNkc3YyTXpUaXhnSVExTW5LSkcxNjJaOE8xUXpIVm9ZcFBDMjMxRHdFRlNBeUMtX0htY0s3aDNIMzZOOHdCUThmYklwVjdoQldNbERGdjltMGV1M0tYRGk3SFRtZndsSVc4NldHSWtqUkFtMFprUQ?oc=5</link>
+      <description>Publié le : Wed, 15 Jul 2026 07:00:00 GMT - Source : Google News (FR)</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdmN3c1Z5cWJ1ZGpGVGZUVkR0Q0NPX3VXOTZqVTFZLUZGVTByazRZSHVTNURxMmx2SUdVWE56MWp6cUdBSjZET295NU5xUjJMM01IXzlXUFRCZGlqTllkS0FNUXBJNmNkc3YyTXpUaXhnSVExTW5LSkcxNjJaOE8xUXpIVm9ZcFBDMjMxRHdFRlNBeUMtX0htY0s3aDNIMzZOOHdCUThmYklwVjdoQldNbERGdjltMGV1M0tYRGk3SFRtZndsSVc4NldHSWtqUkFtMFprUQ?oc=5</guid>
+      <pubDate>Wed, 15 Jul 2026 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[EN] Combined Events &amp; AAI Games Headline Busy Weekend - Athletics Ireland</title>
+      <link>https://news.google.com/rss/articles/CBMihwFBVV95cUxQbVRqaGRBQS1ncjFRSm1iZHFlN1B6bzVHYW5hYWJ4aDhBV2ZuSUlzTDdzS25mVkl4TFg3cjctejB3N05iYVdxaHBSSFJMSHR1bHFPRHVXdnVyM2ktRURlMGowV242N3lTLWNhQUkzc2dIcFpsOGtkdGlVQ2pINHNzQlZpeE9Rbnc?oc=5</link>
+      <description>Publié le : Wed, 15 Jul 2026 11:34:19 GMT - Source : Google News (EN)</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMihwFBVV95cUxQbVRqaGRBQS1ncjFRSm1iZHFlN1B6bzVHYW5hYWJ4aDhBV2ZuSUlzTDdzS25mVkl4TFg3cjctejB3N05iYVdxaHBSSFJMSHR1bHFPRHVXdnVyM2ktRURlMGowV242N3lTLWNhQUkzc2dIcFpsOGtkdGlVQ2pINHNzQlZpeE9Rbnc?oc=5</guid>
+      <pubDate>Wed, 15 Jul 2026 11:34:19 +0000</pubDate>
     </item>
     <item>
       <title>[EN] Apollo Completes Acquisitions Of Emerald And Questex To Build Combined B2B Events And Media Platform - Pulse 2.0</title>
@@ -169,7 +176,7 @@
       <pubDate>Wed, 15 Jul 2026 13:17:20 +0000</pubDate>
     </item>
     <item>
-      <title>[EN] What Are The Risks of Extreme Heat Combined With Bad Air Quality? - time.com</title>
+      <title>[EN] What Are The Risks of Extreme Heat Combined With Bad Air Quality? - Time Magazine</title>
       <link>https://news.google.com/rss/articles/CBMilAFBVV95cUxQTElrSVdjNUxFMlRweXFtUkZtWU5wTEpHanFsNV9WMkRmUC1hUnlBbkVuV0RYQ2IzOU51OElETEJXYk43dXF3ZzhEcEp2WGdEMnY1dm05dmxnREJDZkFQdXdqWGs3dWpmOXhuY3NMbWw1VlVsYndnanpBa3RVb1BGVk5JaDZJNHh4Wjg3MkJaTTJJY1No?oc=5</link>
       <description>Publié le : Thu, 16 Jul 2026 07:00:00 GMT - Source : Google News (EN)</description>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMilAFBVV95cUxQTElrSVdjNUxFMlRweXFtUkZtWU5wTEpHanFsNV9WMkRmUC1hUnlBbkVuV0RYQ2IzOU51OElETEJXYk43dXF3ZzhEcEp2WGdEMnY1dm05dmxnREJDZkFQdXdqWGs3dWpmOXhuY3NMbWw1VlVsYndnanpBa3RVb1BGVk5JaDZJNHh4Wjg3MkJaTTJJY1No?oc=5</guid>
@@ -211,13 +218,6 @@
       <pubDate>Fri, 24 Jul 2026 10:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[FR] Championnats de France Elite : Alexis Miellet, Louey Ouerrat et Agathe Guillemot finisseurs hors pair à Albi - stadion.com</title>
-      <link>https://news.google.com/rss/articles/CBMixAFBVV95cUxQQlNlbGRvSFp2S005UDNIWE5NcmtNZUd0X2NxNXhwb0h2QTV4ZnZSRUFmTEx2YXY3TlBPdVJmb2VEcklISzBXOWNFdzBhM2IzaFZhRFpUZEMyVFE1TjQzRUhQZWs4cmV1YjJNRzFqY1NSS0Y4VV96ZUh1SlJSdTVWYzZTOEE3VlBMSE90VFczSTZaQUd1cWVFdUJ6ZnczYTYyRTNrSFRJekVDUmR1aWhwUnM0Sm1SZ0lSUUJBSWxDek9jR3lh?oc=5</link>
-      <description>Publié le : Sat, 25 Jul 2026 21:10:30 GMT - Source : Google News (FR)</description>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMixAFBVV95cUxQQlNlbGRvSFp2S005UDNIWE5NcmtNZUd0X2NxNXhwb0h2QTV4ZnZSRUFmTEx2YXY3TlBPdVJmb2VEcklISzBXOWNFdzBhM2IzaFZhRFpUZEMyVFE1TjQzRUhQZWs4cmV1YjJNRzFqY1NSS0Y4VV96ZUh1SlJSdTVWYzZTOEE3VlBMSE90VFczSTZaQUd1cWVFdUJ6ZnczYTYyRTNrSFRJekVDUmR1aWhwUnM0Sm1SZ0lSUUJBSWxDek9jR3lh?oc=5</guid>
-      <pubDate>Sat, 25 Jul 2026 21:10:30 +0000</pubDate>
-    </item>
-    <item>
       <title>[ES] Málaga se llena de estrellas - RFEA</title>
       <link>https://news.google.com/rss/articles/CBMilgFBVV95cUxQOG1fLWtoeEhDR1Uyb1YySVA0clpsVTlDXzJSZk5qSFJFNEJFZzBSdzBqY1RvUUE4MjY2dXpjT3lmUDVhWHVjZ3VlYnlJT1hpUHdDcTdMenptUDJ0YnBkZHFOZ29zd3ltanhhOEYyUXJ1dkNyU3VDUWZtNHNYQ3hOM05Uby1vMm1pZHdQRkNXcTRKVDN1aVE?oc=5</link>
       <description>Publié le : Sun, 26 Jul 2026 06:26:50 GMT - Source : Google News (ES)</description>
@@ -225,35 +225,35 @@
       <pubDate>Sun, 26 Jul 2026 06:26:50 +0000</pubDate>
     </item>
     <item>
-      <title>[ES] Fernando Helling y Claudia Chichilnik ganaron el Triatlón de Invierno de Cervantes 2026 - rionegro.com.ar</title>
+      <title>[ES] Fernando Helling y Claudia Chichilnik ganaron el Triatlón de Invierno de Cervantes 2026 - Diario Río Negro</title>
       <link>https://news.google.com/rss/articles/CBMizgFBVV95cUxOZDZhZFpLbFBRQ29MM1J1QS1jQkY1eFdZdzRtd0VKMEs5RFVTb09BUFB3ZUdWV3lmRDB0c2pUX0xCdzZ0RVVaSHZNWVF5RTE3bDJRSm9xZE02ZnpEMUVXdHVXUXJTMk5vcUFlLU5fOGxkLURZSHlEMU5GSDBYVWNQNHZJQ0pKMllfV3lPdFROWWVXbl96X1hFMjhkeTNMZkNNNVhkX2tXMExBQ3FYdldiZHVPTmtwM3Nod20wUjRuUjUzNlhISkY3Y290TU0zQdIB1gFBVV95cUxPQXRHWU50TlhFRUQ2dUY1bDZNVGpuVlIzNTR1VWE3NlU2dU5IQUZ1ZF84aGtNSFFIMjdVWHlhQ0NqOEd2eklZY0hMSl9SdHhaU2JpOUM1RU9ydm05NHdIdE1yMng3RGdRcTNETVp5WDRIaDZGaGJLMy1lVVczV294Q3lFbDllcmhyaVhmamQweXQ0NG9JcGl0ZXJjcmlGc0lZdl9HMVJsSmdSZEhIaU5MVlFxQlVTWmo3YWZnOGlySUFIMzlzOXpTRERSN29COU1XbXpKdEpR?oc=5</link>
       <description>Publié le : Sun, 26 Jul 2026 23:05:14 GMT - Source : Google News (ES)</description>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMizgFBVV95cUxOZDZhZFpLbFBRQ29MM1J1QS1jQkY1eFdZdzRtd0VKMEs5RFVTb09BUFB3ZUdWV3lmRDB0c2pUX0xCdzZ0RVVaSHZNWVF5RTE3bDJRSm9xZE02ZnpEMUVXdHVXUXJTMk5vcUFlLU5fOGxkLURZSHlEMU5GSDBYVWNQNHZJQ0pKMllfV3lPdFROWWVXbl96X1hFMjhkeTNMZkNNNVhkX2tXMExBQ3FYdldiZHVPTmtwM3Nod20wUjRuUjUzNlhISkY3Y290TU0zQdIB1gFBVV95cUxPQXRHWU50TlhFRUQ2dUY1bDZNVGpuVlIzNTR1VWE3NlU2dU5IQUZ1ZF84aGtNSFFIMjdVWHlhQ0NqOEd2eklZY0hMSl9SdHhaU2JpOUM1RU9ydm05NHdIdE1yMng3RGdRcTNETVp5WDRIaDZGaGJLMy1lVVczV294Q3lFbDllcmhyaVhmamQweXQ0NG9JcGl0ZXJjcmlGc0lZdl9HMVJsSmdSZEhIaU5MVlFxQlVTWmo3YWZnOGlySUFIMzlzOXpTRERSN29COU1XbXpKdEpR?oc=5</guid>
       <pubDate>Sun, 26 Jul 2026 23:05:14 +0000</pubDate>
     </item>
     <item>
-      <title>[EN] 2026 Commonwealth Games: Jersey's Lucy Woodward sets personal bests in heptathlon - BBC</title>
+      <title>[EN] 2026 Commonwealth Games: Jersey's Lucy Woodward sets personal bests in heptathlon - bbc.com</title>
       <link>https://news.google.com/rss/articles/CBMiaEFVX3lxTE9qOXRXOElsQU41QmtNelE3S0JrTXZ4U0hmbzZiZWlWRERuVzllR3F2SjlVZ2RhcWFVZXRzOVYxR0NzSUxZUERVUUZ2UGpGQy1pNGw5TzR1cVowMlM5TFlWNjhFTGVUa2dp?oc=5</link>
       <description>Publié le : Tue, 28 Jul 2026 11:40:48 GMT - Source : Google News (EN)</description>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiaEFVX3lxTE9qOXRXOElsQU41QmtNelE3S0JrTXZ4U0hmbzZiZWlWRERuVzllR3F2SjlVZ2RhcWFVZXRzOVYxR0NzSUxZUERVUUZ2UGpGQy1pNGw5TzR1cVowMlM5TFlWNjhFTGVUa2dp?oc=5</guid>
       <pubDate>Tue, 28 Jul 2026 11:40:48 +0000</pubDate>
     </item>
     <item>
-      <title>[EN] Commonwealth Games: Kate O'Connor leads heptathlon after two events - BBC</title>
+      <title>[EN] Commonwealth Games: Kate O'Connor leads heptathlon after two events - bbc.com</title>
       <link>https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Nc1VpMzNqUHcwWXdfZ2NDOFUwM3JQREVWQ3JldEtHMmxJNm42aC1pX3pkM0R6TGxRSG9MeTJYWk1kcHNSek9YMmNlR01ZYWJoNTdralRmVkFrdERNR2daVTBGQ2tCWkFZ?oc=5</link>
       <description>Publié le : Tue, 28 Jul 2026 12:27:03 GMT - Source : Google News (EN)</description>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Nc1VpMzNqUHcwWXdfZ2NDOFUwM3JQREVWQ3JldEtHMmxJNm42aC1pX3pkM0R6TGxRSG9MeTJYWk1kcHNSek9YMmNlR01ZYWJoNTdralRmVkFrdERNR2daVTBGQ2tCWkFZ?oc=5</guid>
       <pubDate>Tue, 28 Jul 2026 12:27:03 +0000</pubDate>
     </item>
     <item>
-      <title>[EN] Commonwealth Games 2026, Morning Session, Tuesday July 28: Taking care of business - England Athletics</title>
-      <link>https://news.google.com/rss/articles/CBMimgFBVV95cUxOYy1ydFJyVHhlX1RPVHBiNWxsSVp3MU9kRGhQU2ZWa2UzNGRPcTFsTFhpNUREVDZlWTZLWS1tTXZpU0t0VDhoRExlcFhwcWVGMTg0eGcxeUtvcUdvbWRxTWdwTFJfZTB5QzI2TXMtYXNlU2FoMC0tWmdkb2ZZZkZiQmJfaTVRUlR1LUZXTW9MUGRONE5HZHFZV09n?oc=5</link>
-      <description>Publié le : Tue, 28 Jul 2026 13:00:36 GMT - Source : Google News (EN)</description>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMimgFBVV95cUxOYy1ydFJyVHhlX1RPVHBiNWxsSVp3MU9kRGhQU2ZWa2UzNGRPcTFsTFhpNUREVDZlWTZLWS1tTXZpU0t0VDhoRExlcFhwcWVGMTg0eGcxeUtvcUdvbWRxTWdwTFJfZTB5QzI2TXMtYXNlU2FoMC0tWmdkb2ZZZkZiQmJfaTVRUlR1LUZXTW9MUGRONE5HZHFZV09n?oc=5</guid>
-      <pubDate>Tue, 28 Jul 2026 13:00:36 +0000</pubDate>
+      <title>[EN] Ella Rush Positive After Strong Start to Commonwealth Games Heptathlon - Gibraltar Chronicle</title>
+      <link>https://news.google.com/rss/articles/CBMinAFBVV95cUxNWm1Za25pYjUyQ1AtNy13X0FDTGhuNlVyRTRvSUhSR1BOQ29zdW9hMEptZEk2elpUVkxQcVVETkVQX3g0cTlNVlFTakRBZl9UNnlzaFZOWll4TWRmbWdzTkFtaW1ESkUtbTIzX1dKYnVXYnIta1BsajVqZ2NEMW5PMi1LREExTlYzREFQbFRyeTFBc0EySVVOdjgwQU8?oc=5</link>
+      <description>Publié le : Tue, 28 Jul 2026 13:00:38 GMT - Source : Google News (EN)</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMinAFBVV95cUxNWm1Za25pYjUyQ1AtNy13X0FDTGhuNlVyRTRvSUhSR1BOQ29zdW9hMEptZEk2elpUVkxQcVVETkVQX3g0cTlNVlFTakRBZl9UNnlzaFZOWll4TWRmbWdzTkFtaW1ESkUtbTIzX1dKYnVXYnIta1BsajVqZ2NEMW5PMi1LREExTlYzREFQbFRyeTFBc0EySVVOdjgwQU8?oc=5</guid>
+      <pubDate>Tue, 28 Jul 2026 13:00:38 +0000</pubDate>
     </item>
     <item>
-      <title>[EN] Commonwealth Games 2026: Kate O'Connor leads Jade O'Dowda in heptathlon - BBC</title>
+      <title>[EN] Commonwealth Games 2026: Kate O'Connor leads Jade O'Dowda in heptathlon - bbc.com</title>
       <link>https://news.google.com/rss/articles/CBMiaEFVX3lxTFA3QmNaOEtxZk5BZFAyZEliQlVlRGRVUnJUeEVWck56RUtIR1BuTnEwcF9RQVlsem5kUl8yX2ZkdEU1TkVYNFNmaEVvM2RIb1dCV2Jkekx2bmxHMHVMbTMzZ3VOYkpKMHBT?oc=5</link>
       <description>Publié le : Tue, 28 Jul 2026 19:37:41 GMT - Source : Google News (EN)</description>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiaEFVX3lxTFA3QmNaOEtxZk5BZFAyZEliQlVlRGRVUnJUeEVWck56RUtIR1BuTnEwcF9RQVlsem5kUl8yX2ZkdEU1TkVYNFNmaEVvM2RIb1dCV2Jkekx2bmxHMHVMbTMzZ3VOYkpKMHBT?oc=5</guid>
@@ -267,7 +267,7 @@
       <pubDate>Wed, 29 Jul 2026 02:55:10 +0000</pubDate>
     </item>
     <item>
-      <title>[EN] New Zealand Olympic Team - olympic.org.nz</title>
+      <title>[EN] New Zealand Olympic Team - New Zealand Olympic Team</title>
       <link>https://news.google.com/rss/articles/CBMie0FVX3lxTE9yNG13RW94SWlfb3BGMm03d2VDTlFlcl9TUWViNEZRMFFNd2xZOVdqTnkwcWF3NkFzYzVfVTByUUdmT3NHRnc5c296MnlkSmEtV1NEZk9CQ0JxcVl3QXdaRjJKdlcxM0hkNDNBcDZhSkZMWHNjTWNwd1BTUQ?oc=5</link>
       <description>Publié le : Wed, 29 Jul 2026 22:42:16 GMT - Source : Google News (EN)</description>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMie0FVX3lxTE9yNG13RW94SWlfb3BGMm03d2VDTlFlcl9TUWViNEZRMFFNd2xZOVdqTnkwcWF3NkFzYzVfVTByUUdmT3NHRnc5c296MnlkSmEtV1NEZk9CQ0JxcVl3QXdaRjJKdlcxM0hkNDNBcDZhSkZMWHNjTWNwd1BTUQ?oc=5</guid>
