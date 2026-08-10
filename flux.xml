@@ -6,14 +6,7 @@
     <description>Flux international automatisé (FR/EN/ES) pour Heptaleo.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 10 Aug 2026 13:06:17 +0000</lastBuildDate>
-    <item>
-      <title>[FR] Athlétisme. Championnats de France d’Heptathlon : « Un podium pourrait être envisageable » pour Elena Fournier - Ouest-France</title>
-      <link>https://news.google.com/rss/articles/CBMikgJBVV95cUxPVjRaemRQQnpTZUFHTTV2bGhhYkQ1bGJRV0lWSFFxZlVNZGtBTUo5SkVBQTByMmU3M2ZVWUlORENfNnZheFVuM2ZYUVhXZ1VZQVNKQ2VsekNoS1poQmFKUzhMbHNvaE5ZSk0xTUVuRVlIZzFRWWJqZ2tWU0JCR0Jfd2lhbmd1bFY1eGVHQUdhSkxrNzVfRE51aWo0WmhwZFNEbmpuTTlZaGNPcl8taWZGTWJWWldRR3RYZm1zaGdvTHIzanIxTGc2bnhVVzMwMW11aXRscG1HVlZKVmxaQzEtcW5sQ0wxVGt1YXpCT3Jnc0dTR2lZYlc5NTN2U0hWNmhuQ0U3SGdXbS10UW9RX3FrUHZR?oc=5</link>
-      <description>Publié le : Fri, 03 Jul 2026 07:00:00 GMT - Source : Google News (FR)</description>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMikgJBVV95cUxPVjRaemRQQnpTZUFHTTV2bGhhYkQ1bGJRV0lWSFFxZlVNZGtBTUo5SkVBQTByMmU3M2ZVWUlORENfNnZheFVuM2ZYUVhXZ1VZQVNKQ2VsekNoS1poQmFKUzhMbHNvaE5ZSk0xTUVuRVlIZzFRWWJqZ2tWU0JCR0Jfd2lhbmd1bFY1eGVHQUdhSkxrNzVfRE51aWo0WmhwZFNEbmpuTTlZaGNPcl8taWZGTWJWWldRR3RYZm1zaGdvTHIzanIxTGc2bnhVVzMwMW11aXRscG1HVlZKVmxaQzEtcW5sQ0wxVGt1YXpCT3Jnc0dTR2lZYlc5NTN2U0hWNmhuQ0U3SGdXbS10UW9RX3FrUHZR?oc=5</guid>
-      <pubDate>Fri, 03 Jul 2026 07:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 10 Aug 2026 18:56:22 +0000</lastBuildDate>
     <item>
       <title>[FR] Athlétisme : Aix accueille un plateau de pépites à l'occasion des Nationaux d'épreuves combinées - La Provence</title>
       <link>https://news.google.com/rss/articles/CBMi5gFBVV95cUxOOHlTOFlQWDJOY0lpM19NODNzcXlVcm1wbUZXRENDSzA1SzlMTUg1b0U4TmdoTnN1YzRPanAzZWMyY2M2RVA2cnU0dS1GUzEya1BXWE41QmtrSEFieXU3Z29ITkV2SGN6WFMteV9CajJPUDJ2TVpDNEpMMHV0TUxDVU1YRFZpNVZtVU1mXzhnR1l6V2ZNeHRkSW9YUlI0bC1YZ3FLQkhsM05iUlBBYXF5TjA3R1FSODVCQmRTcE9aa0V6R2pvenUyN3UtWXFqTlEzMmtQaFN5aFVHWm1nM1ZWdEVaN3Z1UQ?oc=5</link>
@@ -34,6 +27,13 @@
       <description>Publié le : Fri, 03 Jul 2026 07:00:00 GMT - Source : Google News (FR)</description>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiugFBVV95cUxPMk1FMnZ6R0stU3pGeDhoNTVkel9HVURscGFKSVZxQnV2cEhBVjlkWFNkNG45WVhHeEMzWmpWLU5CR1ZiZ1gxWXV3Qi1EdHpnR2ZEa2tzMmN2LWlSUWtkbE5BOF8wRFpxUk1QQ3l2ZThIdV9ra05BVjdaVTcwOG00ZkNBOW1iOUUtNTlkUFFEUFAzYk9wMjNScUdpT2NXSXpmTkJZY2tnNXpXNUVmVGU5U1poMWhOd2lNdlE?oc=5</guid>
       <pubDate>Fri, 03 Jul 2026 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[FR] Athlétisme. Des ambitions à Aix-en-Provence et à Dreux pour les athlètes de Loire-Atlantique - Ouest-France</title>
+      <link>https://news.google.com/rss/articles/CBMigwJBVV95cUxPX3Vvcl9rWEdfWWhKcnRmanRRbHJhNXlhMmptT2VJSFhmcW9QT3ZWb0VDMXdISjJ3aW1kZUlNdnJMSno0ZnlfMlBwdktTVXFVNUpWUnZtNkJxckZDVHFyYktsMXFVM2VnRkpyOU5ZeTFoRm83a21hclBYQkNCazcxbjVhZk5FNmJFbDRBLXg1QTNtMzQta0w4ZVJUUjRUaXlRN3JmSDhRcVN0bVdEaE9KTTNqSEFfQnZaa1hVS2QzUktCLTVQS3oxNUUyWXF5bnMzZWZqSmJYeDNUMDhwZjRQVUNxMTFsdUhza1BaRWV0QjZwWFRLYjI3dzFyU1l1TlBIalQ4?oc=5</link>
+      <description>Publié le : Sat, 04 Jul 2026 07:00:00 GMT - Source : Google News (FR)</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMigwJBVV95cUxPX3Vvcl9rWEdfWWhKcnRmanRRbHJhNXlhMmptT2VJSFhmcW9QT3ZWb0VDMXdISjJ3aW1kZUlNdnJMSno0ZnlfMlBwdktTVXFVNUpWUnZtNkJxckZDVHFyYktsMXFVM2VnRkpyOU5ZeTFoRm83a21hclBYQkNCazcxbjVhZk5FNmJFbDRBLXg1QTNtMzQta0w4ZVJUUjRUaXlRN3JmSDhRcVN0bVdEaE9KTTNqSEFfQnZaa1hVS2QzUktCLTVQS3oxNUUyWXF5bnMzZWZqSmJYeDNUMDhwZjRQVUNxMTFsdUhza1BaRWV0QjZwWFRLYjI3dzFyU1l1TlBIalQ4?oc=5</guid>
+      <pubDate>Sat, 04 Jul 2026 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[FR] Athlétisme. Championnat de France combiné : à Aix-en-Provence, Adrien Tiaiba voit double - Ouest-France</title>
@@ -106,7 +106,7 @@
       <pubDate>Tue, 07 Jul 2026 07:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[FR] Ambitieux, Thomas Humbey échoue au pied du podium des championnats de France d’épreuves combinées - L'Est Républicain</title>
+      <title>[FR] Ambitieux, Thomas Humbey échoue au pied du podium des championnats de France d’épreuves combinées - estrepublicain.fr</title>
       <link>https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTVlTdzBaOWJocFNJdVN3OXFNV25wMm1fUlMyR0FMX3ZZYXE3RERkNmtKdWN0am0tVlpEcVEzZ2ZDNExIUkRrelF6T2RqY3FLU1NwLWhQVFNxbWx3bE52blNDYl81V180SlVXUGpRYXdVcnl1NnBiYUo0eFJYRTZkUTlVV3JfbmVSVDVVSXpGVE1aMUo3Y2x2YTVqd0hOWnFMX3A2VXFhY2djZ25yYVRKSzJqLXNBbUNoaGZiR2c1UWo4NktvQjNQSGNFa0xIWmE4NlhJVzRDQ2N0NFU?oc=5</link>
       <description>Publié le : Tue, 07 Jul 2026 07:00:00 GMT - Source : Google News (FR)</description>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTVlTdzBaOWJocFNJdVN3OXFNV25wMm1fUlMyR0FMX3ZZYXE3RERkNmtKdWN0am0tVlpEcVEzZ2ZDNExIUkRrelF6T2RqY3FLU1NwLWhQVFNxbWx3bE52blNDYl81V180SlVXUGpRYXdVcnl1NnBiYUo0eFJYRTZkUTlVV3JfbmVSVDVVSXpGVE1aMUo3Y2x2YTVqd0hOWnFMX3A2VXFhY2djZ25yYVRKSzJqLXNBbUNoaGZiR2c1UWo4NktvQjNQSGNFa0xIWmE4NlhJVzRDQ2N0NFU?oc=5</guid>
@@ -162,7 +162,7 @@
       <pubDate>Mon, 13 Jul 2026 04:07:59 +0000</pubDate>
     </item>
     <item>
-      <title>[FR] Athlétisme. Bahia Reding monte en puissance au Caen AC : "J'ai envie de dépasser mes limites" - actu.fr</title>
+      <title>[FR] Athlétisme. Bahia Reding monte en puissance au Caen AC : "J'ai envie de dépasser mes limites" - Actu.fr</title>
       <link>https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdmN3c1Z5cWJ1ZGpGVGZUVkR0Q0NPX3VXOTZqVTFZLUZGVTByazRZSHVTNURxMmx2SUdVWE56MWp6cUdBSjZET295NU5xUjJMM01IXzlXUFRCZGlqTllkS0FNUXBJNmNkc3YyTXpUaXhnSVExTW5LSkcxNjJaOE8xUXpIVm9ZcFBDMjMxRHdFRlNBeUMtX0htY0s3aDNIMzZOOHdCUThmYklwVjdoQldNbERGdjltMGV1M0tYRGk3SFRtZndsSVc4NldHSWtqUkFtMFprUQ?oc=5</link>
       <description>Publié le : Wed, 15 Jul 2026 07:00:00 GMT - Source : Google News (FR)</description>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdmN3c1Z5cWJ1ZGpGVGZUVkR0Q0NPX3VXOTZqVTFZLUZGVTByazRZSHVTNURxMmx2SUdVWE56MWp6cUdBSjZET295NU5xUjJMM01IXzlXUFRCZGlqTllkS0FNUXBJNmNkc3YyTXpUaXhnSVExTW5LSkcxNjJaOE8xUXpIVm9ZcFBDMjMxRHdFRlNBeUMtX0htY0s3aDNIMzZOOHdCUThmYklwVjdoQldNbERGdjltMGV1M0tYRGk3SFRtZndsSVc4NldHSWtqUkFtMFprUQ?oc=5</guid>
@@ -176,7 +176,7 @@
       <pubDate>Thu, 16 Jul 2026 07:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[FR] Athlétisme — Finales des épreuves combinées U16, hier : Doublé de Quatre-Bornes Pavillon dans le classement par équipes - lemauricien.com</title>
+      <title>[FR] Athlétisme — Finales des épreuves combinées U16, hier : Doublé de Quatre-Bornes Pavillon dans le classement par équipes - Le Mauricien</title>
       <link>https://news.google.com/rss/articles/CBMi8AFBVV95cUxNcENPeHlrOUpQdWFhOEI2Y3lQZXVoNWYyMm1td2VPT0x2cFlYXzFiQ3BuOUNPWk5YaVV5LVpTVk5ZemF3THJGUndSVTJocS1RWUlQeE5NLS0xU01jMEE1ODdaSWFoRWhLU3FhdW9kdWhsOHJkSEt3R1pISnFRSWpJYUFqdjJBSW43cGJBdnIzdC1xbFVBQkxkMHFMbENvWmRlX0lIRkhwU290OC1haHRsOXZQN1JBVXVsdmtJRjR6WDQtZ2M3dXpaQ0N6V1hicVJ4OVZaTUtZUUVySUJ4d1hHSm9RVnZhblNqSlpiMlBRamc?oc=5</link>
       <description>Publié le : Sun, 19 Jul 2026 13:16:16 GMT - Source : Google News (FR)</description>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi8AFBVV95cUxNcENPeHlrOUpQdWFhOEI2Y3lQZXVoNWYyMm1td2VPT0x2cFlYXzFiQ3BuOUNPWk5YaVV5LVpTVk5ZemF3THJGUndSVTJocS1RWUlQeE5NLS0xU01jMEE1ODdaSWFoRWhLU3FhdW9kdWhsOHJkSEt3R1pISnFRSWpJYUFqdjJBSW43cGJBdnIzdC1xbFVBQkxkMHFMbENvWmRlX0lIRkhwU290OC1haHRsOXZQN1JBVXVsdmtJRjR6WDQtZ2M3dXpaQ0N6V1hicVJ4OVZaTUtZUUVySUJ4d1hHSm9RVnZhblNqSlpiMlBRamc?oc=5</guid>
@@ -190,18 +190,18 @@
       <pubDate>Wed, 22 Jul 2026 07:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>[FR] Athlétisme – Championnats de France : l’Yvetotaise Léonie Cambours de retour au premier plan - Paris Normandie</title>
+      <link>https://news.google.com/rss/articles/CBMizgFBVV95cUxQYXQ4NmZwajVkZFNLLXl2SUhqOVRUTURaY0d5ZmVGMXZrNEpCeDNaUThLOGUyVGQwZXp6WUpuSGYtdEJjeERQeGd4bmYwQnZyc0tFb3J4eGxybENBYmpNMWNuWkJaU3ZTTXVCS19LUGpEUlhOejh2SjQyRXRuUHBIeFUwT1RjMk9hQTduQ014TUoxcExLcnZPTVBXanVtRFh0R1dNblh1eEI5Tm95RzN1Vzl5LTJyZ0FrNjRyZ1g1MWk2QjhBOGxYUEZELWZfZw?oc=5</link>
+      <description>Publié le : Thu, 23 Jul 2026 07:00:00 GMT - Source : Google News (FR)</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMizgFBVV95cUxQYXQ4NmZwajVkZFNLLXl2SUhqOVRUTURaY0d5ZmVGMXZrNEpCeDNaUThLOGUyVGQwZXp6WUpuSGYtdEJjeERQeGd4bmYwQnZyc0tFb3J4eGxybENBYmpNMWNuWkJaU3ZTTXVCS19LUGpEUlhOejh2SjQyRXRuUHBIeFUwT1RjMk9hQTduQ014TUoxcExLcnZPTVBXanVtRFh0R1dNblh1eEI5Tm95RzN1Vzl5LTJyZ0FrNjRyZ1g1MWk2QjhBOGxYUEZELWZfZw?oc=5</guid>
+      <pubDate>Thu, 23 Jul 2026 07:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>[ES] Campeonato de España de Atletismo 2026 en Málaga: fechas, horarios y dónde verlo por televisión - SPORT</title>
       <link>https://news.google.com/rss/articles/CBMilAFBVV95cUxPcHFIWWx1bU0zWFhxTzdQbXpNNk15ZFBKNXc5TXlYUGw0a2JOd1JrRjJzdlV5UFZUZ1RIc0RFZ2JTZGVmbkl4RVBkUlQ1Y3ZfNHVRb1pBRDhFYl9IMzhva1BqM1FMUG0wU21Rb0N6Y01WQVhGYmhxcklfM1U0YlpyQ3UyNmtvUzE0WURPMC1GRXVCZFM10gGUAUFVX3lxTE9DLXFMS3Y2dXR4UmgxdnVhQ1R1UlBUcXZrNURTS3dOc05VU092dU9QNmFZcmdvVGN2dGJsVDJTV080ZEhwa2JxZG4wY2k3WXVJZjI1MkQ2U2xYR2tVcGhOUFhYb2xhN0IzWW9YSTVCSjRiOGVpekltbDhBUW95WHBmVGFVaFBDXzhGVkdvX2lLWXBqaE0?oc=5</link>
       <description>Publié le : Fri, 24 Jul 2026 07:00:00 GMT - Source : Google News (ES)</description>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMilAFBVV95cUxPcHFIWWx1bU0zWFhxTzdQbXpNNk15ZFBKNXc5TXlYUGw0a2JOd1JrRjJzdlV5UFZUZ1RIc0RFZ2JTZGVmbkl4RVBkUlQ1Y3ZfNHVRb1pBRDhFYl9IMzhva1BqM1FMUG0wU21Rb0N6Y01WQVhGYmhxcklfM1U0YlpyQ3UyNmtvUzE0WURPMC1GRXVCZFM10gGUAUFVX3lxTE9DLXFMS3Y2dXR4UmgxdnVhQ1R1UlBUcXZrNURTS3dOc05VU092dU9QNmFZcmdvVGN2dGJsVDJTV080ZEhwa2JxZG4wY2k3WXVJZjI1MkQ2U2xYR2tVcGhOUFhYb2xhN0IzWW9YSTVCSjRiOGVpekltbDhBUW95WHBmVGFVaFBDXzhGVkdvX2lLWXBqaE0?oc=5</guid>
       <pubDate>Fri, 24 Jul 2026 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[FR] Decastar 2026 : le mythique meeting de Talence fête ses 50 ans - Bouger à Bordeaux</title>
-      <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxONGFoSnlXVVJyZWlmV3RIclhmeDdoVjZJTXVrTktSbWU2c1RoYWhkRzFMWGtqQ1ZTZXhsMl9vdHBrbDA4WnlLVlhJeDI1bUpodGdBT0ZnTjFmVU9TU2dBQlBjZ05CTEhjOUg1THpReGgwNXhJSkxtdC1vc2YwOUFRTGRYeEU4WC1XbW9IMnI3SzJhMXphWWVwY1Fzclc2Rkk5aXZPUlp3?oc=5</link>
-      <description>Publié le : Sat, 25 Jul 2026 07:00:00 GMT - Source : Google News (FR)</description>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMipgFBVV95cUxONGFoSnlXVVJyZWlmV3RIclhmeDdoVjZJTXVrTktSbWU2c1RoYWhkRzFMWGtqQ1ZTZXhsMl9vdHBrbDA4WnlLVlhJeDI1bUpodGdBT0ZnTjFmVU9TU2dBQlBjZ05CTEhjOUg1THpReGgwNXhJSkxtdC1vc2YwOUFRTGRYeEU4WC1XbW9IMnI3SzJhMXphWWVwY1Fzclc2Rkk5aXZPUlp3?oc=5</guid>
-      <pubDate>Sat, 25 Jul 2026 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[ES] Fernando Helling y Claudia Chichilnik ganaron el Triatlón de Invierno de Cervantes 2026 - Diario Río Negro</title>
@@ -281,7 +281,7 @@
       <pubDate>Sat, 08 Aug 2026 16:25:00 +0000</pubDate>
     </item>
     <item>
-      <title>[EN] Six people were wounded as a result of a nighttime combined attack by the Russian Federation on Odesa - UA.NEWS</title>
+      <title>[EN] Six people were wounded as a result of a nighttime combined attack by the Russian Federation on Odesa - ua.news</title>
       <link>https://news.google.com/rss/articles/CBMinwFBVV95cUxPcEZzbU5uREdfOU5CbWVjRGpIRTBiTlJWbFFkdHZGZWhqTXBaOXd1YVl5UkxnUDVORmU1MDZWVDJQUnNoanRmR3ZkcjkwbE16MHQxX1UyZV9lblpOUlJhZTlMOXVjUTJpNVpUWm84MkxGdlJESGNCT1lsTkg1MkhTR0QxYVcyT0ZicEo1c2xlMGNXQ2NCbi05T3ZPSWNIcjg?oc=5</link>
       <description>Publié le : Sun, 09 Aug 2026 06:11:15 GMT - Source : Google News (EN)</description>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMinwFBVV95cUxPcEZzbU5uREdfOU5CbWVjRGpIRTBiTlJWbFFkdHZGZWhqTXBaOXd1YVl5UkxnUDVORmU1MDZWVDJQUnNoanRmR3ZkcjkwbE16MHQxX1UyZV9lblpOUlJhZTlMOXVjUTJpNVpUWm84MkxGdlJESGNCT1lsTkg1MkhTR0QxYVcyT0ZicEo1c2xlMGNXQ2NCbi05T3ZPSWNIcjg?oc=5</guid>
