@@ -6,68 +6,19 @@
     <description>Flux international automatisé (FR/EN/ES) pour Heptaleo.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 22 Aug 2026 01:11:18 +0000</lastBuildDate>
-    <item>
-      <title>[FR] Championnats de France d'Épreuves Combinées : Maël Bephassou Lannurien en or - Ligue de Bretagne d'Athlétisme</title>
-      <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSW9vcmhKRG50MXpNQUVib1V2MTI5dWFMODBEaUZobDd3b0xsQWI1S01OVFBMRjVOYTZ0d1JRZ2NZc053aE82VGRQZ1ozRk1Cc2lNOVVORVlaN0xWYkpaTl9ubHEwamU3bzc4VnNYQTJ0S2dHMzczTU1zYmg5cjY3a1diT2JwUGFxeHV5Sjk5Z01rd2J5VmtBVFFURUt3akdFOFoxaEU1U3U5Nms?oc=5</link>
-      <description>Publié le : Mon, 06 Jul 2026 07:00:00 GMT - Source : Google News (FR)</description>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSW9vcmhKRG50MXpNQUVib1V2MTI5dWFMODBEaUZobDd3b0xsQWI1S01OVFBMRjVOYTZ0d1JRZ2NZc053aE82VGRQZ1ozRk1Cc2lNOVVORVlaN0xWYkpaTl9ubHEwamU3bzc4VnNYQTJ0S2dHMzczTU1zYmg5cjY3a1diT2JwUGFxeHV5Sjk5Z01rd2J5VmtBVFFURUt3akdFOFoxaEU1U3U5Nms?oc=5</guid>
-      <pubDate>Mon, 06 Jul 2026 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[FR] ATHLE.FR | Championnats de France d’épreuves combinées : Ndouma-Mona et Lannurien en patrons - Fédération Française d'Athlétisme</title>
-      <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxOclZfeUt4RWg4SFY0akdSNF9keVdtR2JQQmpMcG42RlExUFB4Z3lTLWlTT2dNT2drSVQ2cURXTlVRRHBJeVdSYkhGbHFqSk1QZW9xUnRJTmVjRXRWdHNmUEp6U3Q4MnM5TmxqUEk4M3VKaThlTTREaDJxaEI4M3A0bDN0RDVxVTVKUE9kU3ZpNlRtUUdWWl9wSFpoTEpTbEhQYnVzRGt6c0stNUZDclNvenREZEZFYkVF?oc=5</link>
-      <description>Publié le : Mon, 06 Jul 2026 07:00:00 GMT - Source : Google News (FR)</description>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiuAFBVV95cUxOclZfeUt4RWg4SFY0akdSNF9keVdtR2JQQmpMcG42RlExUFB4Z3lTLWlTT2dNT2drSVQ2cURXTlVRRHBJeVdSYkhGbHFqSk1QZW9xUnRJTmVjRXRWdHNmUEp6U3Q4MnM5TmxqUEk4M3VKaThlTTREaDJxaEI4M3A0bDN0RDVxVTVKUE9kU3ZpNlRtUUdWWl9wSFpoTEpTbEhQYnVzRGt6c0stNUZDclNvenREZEZFYkVF?oc=5</guid>
-      <pubDate>Mon, 06 Jul 2026 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[EN] 2 new events added to 2030 Winter Olympics in the French Alps — but nordic combined is dropped - Chicago Tribune</title>
-      <link>https://news.google.com/rss/articles/CBMikgFBVV95cUxPcnJnbWtuSUxxTWFpcnhPRy1yVzYyUjhTdmx1Mm5nRHpTVkQ1VTRzdE1oN1pnZmdNTFN3ZDlUcndrSGg3bEttd2dKRmRDLUxwbXQySTFiS0pzMWhZMUExenp6T1R1bmpXMWsyTHhsR1dTQm9vLWJ6cDZhNno4YjMzc0o1NFlGN3hiTEhaeXFacUhXUQ?oc=5</link>
-      <description>Publié le : Tue, 07 Jul 2026 07:00:00 GMT - Source : Google News (EN)</description>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMikgFBVV95cUxPcnJnbWtuSUxxTWFpcnhPRy1yVzYyUjhTdmx1Mm5nRHpTVkQ1VTRzdE1oN1pnZmdNTFN3ZDlUcndrSGg3bEttd2dKRmRDLUxwbXQySTFiS0pzMWhZMUExenp6T1R1bmpXMWsyTHhsR1dTQm9vLWJ6cDZhNno4YjMzc0o1NFlGN3hiTEhaeXFacUhXUQ?oc=5</guid>
-      <pubDate>Tue, 07 Jul 2026 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[EN] Nordic Combined cut from Olympic Winter Games - FIS | International Ski and Snowboard Federation</title>
-      <link>https://news.google.com/rss/articles/CBMinwFBVV95cUxNRHUtc2xuRy1Jcm8wMi05UjA3LVV5Wl9kWS1YMWphOFh2RzhELXZWd3BXYno3T1U5UllYUVRYN1VSWmJid1dKNGFpcFBIdk5CRHh6TXZIUE8wdnNadUw0M0g3REJPN25VcU5QVVBHOHoyTjlSSWpyOC1FU1RhQm1ORmRSNzBGME82VXBtclRweG9ydmFBNHREUm0zN0VxWkE?oc=5</link>
-      <description>Publié le : Tue, 07 Jul 2026 07:00:00 GMT - Source : Google News (EN)</description>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMinwFBVV95cUxNRHUtc2xuRy1Jcm8wMi05UjA3LVV5Wl9kWS1YMWphOFh2RzhELXZWd3BXYno3T1U5UllYUVRYN1VSWmJid1dKNGFpcFBIdk5CRHh6TXZIUE8wdnNadUw0M0g3REJPN25VcU5QVVBHOHoyTjlSSWpyOC1FU1RhQm1ORmRSNzBGME82VXBtclRweG9ydmFBNHREUm0zN0VxWkE?oc=5</guid>
-      <pubDate>Tue, 07 Jul 2026 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[EN] New figure skating event, removal of Nordic Combined highlights 2030 Winter Olympics program - NBC4 WCMH-TV</title>
-      <link>https://news.google.com/rss/articles/CBMiwAFBVV95cUxQY2kya0lGOWcwcncwb1p2NzZQQmZWMXM1VTlGbFVQOEFqcGpIUVNWamxrMU5sZUU0Vk15V3hTMllZZFVGaHE0ZWoxcGRFdmdTSXR5V3U3T1JCLXZUckVrVWd6cktiUUdhZmNOMzBBV3hUZEFnaTZ1TEV1cUc4Z0pzcDdDMzdiME50VTVBVUU1aC0xbDFmTEtNOTBQTUx6aHdoU3A2N3BHOUt6YTN5dVNMRUs4Slh1U1JXcFdmTlRvb0nSAcYBQVVfeXFMUGFsbnRwcGEwSjlPM2h5MWZINHpOS0JnZTdsV0I5Zm9EZTlrems3dmlrbWhrXzZjMTFoZlJTLV9tcHVOeGV6QV9WRGhaMWYzempxVTV4cDhGWlFWellmTGdwOVFrOFJaSnhVWUphcmFDdEh5LXgzMHhvM1ZsemRkX0lLd2FBRW5MdWZ6dlM2WGthVWYxbkxTRGt4anEyU09IUW11VDJKU2g0dHBoVnRxeFl5eWpUQ1ZEOURwSDdRa2NVWC1aa2N3?oc=5</link>
-      <description>Publié le : Tue, 07 Jul 2026 07:00:00 GMT - Source : Google News (EN)</description>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwAFBVV95cUxQY2kya0lGOWcwcncwb1p2NzZQQmZWMXM1VTlGbFVQOEFqcGpIUVNWamxrMU5sZUU0Vk15V3hTMllZZFVGaHE0ZWoxcGRFdmdTSXR5V3U3T1JCLXZUckVrVWd6cktiUUdhZmNOMzBBV3hUZEFnaTZ1TEV1cUc4Z0pzcDdDMzdiME50VTVBVUU1aC0xbDFmTEtNOTBQTUx6aHdoU3A2N3BHOUt6YTN5dVNMRUs4Slh1U1JXcFdmTlRvb0nSAcYBQVVfeXFMUGFsbnRwcGEwSjlPM2h5MWZINHpOS0JnZTdsV0I5Zm9EZTlrems3dmlrbWhrXzZjMTFoZlJTLV9tcHVOeGV6QV9WRGhaMWYzempxVTV4cDhGWlFWellmTGdwOVFrOFJaSnhVWUphcmFDdEh5LXgzMHhvM1ZsemRkX0lLd2FBRW5MdWZ6dlM2WGthVWYxbkxTRGt4anEyU09IUW11VDJKU2g0dHBoVnRxeFl5eWpUQ1ZEOURwSDdRa2NVWC1aa2N3?oc=5</guid>
-      <pubDate>Tue, 07 Jul 2026 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[EN] Nordic Combined officially dropped from the Olympics - TownLift, Park City News</title>
-      <link>https://news.google.com/rss/articles/CBMiigFBVV95cUxQamFjaUNBTkg5clhFSldoaEpSWWZ1NHpXSW5yd245d3hFUWVTMUdnTkdLTGZPZWZPcUpBbUE1STRrbmlfWHhWUnZpUXAwd0RDbzNEbGw2VUM1blFZM1g5bmlFUlZ0eDFKZk1DUGo3LTBiYWxtTFlROTZKV1M1UHVuRUxQR1VFX1hhUWc?oc=5</link>
-      <description>Publié le : Tue, 07 Jul 2026 07:00:00 GMT - Source : Google News (EN)</description>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiigFBVV95cUxQamFjaUNBTkg5clhFSldoaEpSWWZ1NHpXSW5yd245d3hFUWVTMUdnTkdLTGZPZWZPcUpBbUE1STRrbmlfWHhWUnZpUXAwd0RDbzNEbGw2VUM1blFZM1g5bmlFUlZ0eDFKZk1DUGo3LTBiYWxtTFlROTZKV1M1UHVuRUxQR1VFX1hhUWc?oc=5</guid>
-      <pubDate>Tue, 07 Jul 2026 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[EN] Alpes 2030 to be first gender-equal Olympic Winter Games – freeride (ski and snowboard) and synchro9 (figure skating) athletes to debut - olympics.com</title>
-      <link>https://news.google.com/rss/articles/CBMi9gFBVV95cUxQdTI0VHVJNXNObjlZX0dIM21TTFZGejVmclQ5ZzlRSkNFUzRQY3JKVW9ncHk1dy1oZWQ0REdON1JydlAyMTZUQnZ1UkJIdlQxQkRDUlhqc2IyYkNxSHRIYWh0cnA1X09pYUNGVDIyMlR1M215SWl5ZHBKSURHNFg3V3NYc0g3YWZQNnlzNEQzTzFzZE9fTE9CSGk2N0xLNVY4bkc5NG1QeUZJaGRsNTV2dk1YYU9qeWZOaFpURGpBaU9vZ1VWTk0zSkJKOTAyZG5BWU1vOU5OR0lYeWdibUJ6cllSNGd5amdhMXJjZUZha1k3Yk9DT2c?oc=5</link>
-      <description>Publié le : Tue, 07 Jul 2026 07:00:00 GMT - Source : Google News (EN)</description>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi9gFBVV95cUxQdTI0VHVJNXNObjlZX0dIM21TTFZGejVmclQ5ZzlRSkNFUzRQY3JKVW9ncHk1dy1oZWQ0REdON1JydlAyMTZUQnZ1UkJIdlQxQkRDUlhqc2IyYkNxSHRIYWh0cnA1X09pYUNGVDIyMlR1M215SWl5ZHBKSURHNFg3V3NYc0g3YWZQNnlzNEQzTzFzZE9fTE9CSGk2N0xLNVY4bkc5NG1QeUZJaGRsNTV2dk1YYU9qeWZOaFpURGpBaU9vZ1VWTk0zSkJKOTAyZG5BWU1vOU5OR0lYeWdibUJ6cllSNGd5amdhMXJjZUZha1k3Yk9DT2c?oc=5</guid>
-      <pubDate>Tue, 07 Jul 2026 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[EN] Nordic combined, a Winter Olympic mainstay, dropped from 2030 Games; freeriding added - The Athletic - The New York Times</title>
-      <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxPak5PNnNKVm5OSGNPRWFuLUp4S2Q2NjZuZUZ3OFlxTmFZRkNESWlfSDB5d1Z4UjVSNHNmeXVWd0pBWWd3OWVLd3BMQnplWXZFdzJwUlZqTk9xRGhkbV9sWjhZVUVUdU8yY2xlRzBweDFyZWFGNzBXOWtGSVVXY2dNWGNWRmFocXlwQlJMdUtiUHZ1eXZlUGt6bFp2YWYyYzZlTHktMHlyU3ZHWlhod2V1YQ?oc=5</link>
-      <description>Publié le : Tue, 07 Jul 2026 07:00:00 GMT - Source : Google News (EN)</description>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMisAFBVV95cUxPak5PNnNKVm5OSGNPRWFuLUp4S2Q2NjZuZUZ3OFlxTmFZRkNESWlfSDB5d1Z4UjVSNHNmeXVWd0pBWWd3OWVLd3BMQnplWXZFdzJwUlZqTk9xRGhkbV9sWjhZVUVUdU8yY2xlRzBweDFyZWFGNzBXOWtGSVVXY2dNWGNWRmFocXlwQlJMdUtiUHZ1eXZlUGt6bFp2YWYyYzZlTHktMHlyU3ZHWlhod2V1YQ?oc=5</guid>
-      <pubDate>Tue, 07 Jul 2026 07:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 22 Aug 2026 06:38:22 +0000</lastBuildDate>
     <item>
       <title>[FR] Ambitieux, Thomas Humbey échoue au pied du podium des championnats de France d’épreuves combinées - L'Est Républicain</title>
       <link>https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTVlTdzBaOWJocFNJdVN3OXFNV25wMm1fUlMyR0FMX3ZZYXE3RERkNmtKdWN0am0tVlpEcVEzZ2ZDNExIUkRrelF6T2RqY3FLU1NwLWhQVFNxbWx3bE52blNDYl81V180SlVXUGpRYXdVcnl1NnBiYUo0eFJYRTZkUTlVV3JfbmVSVDVVSXpGVE1aMUo3Y2x2YTVqd0hOWnFMX3A2VXFhY2djZ25yYVRKSzJqLXNBbUNoaGZiR2c1UWo4NktvQjNQSGNFa0xIWmE4NlhJVzRDQ2N0NFU?oc=5</link>
       <description>Publié le : Tue, 07 Jul 2026 07:00:00 GMT - Source : Google News (FR)</description>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTVlTdzBaOWJocFNJdVN3OXFNV25wMm1fUlMyR0FMX3ZZYXE3RERkNmtKdWN0am0tVlpEcVEzZ2ZDNExIUkRrelF6T2RqY3FLU1NwLWhQVFNxbWx3bE52blNDYl81V180SlVXUGpRYXdVcnl1NnBiYUo0eFJYRTZkUTlVV3JfbmVSVDVVSXpGVE1aMUo3Y2x2YTVqd0hOWnFMX3A2VXFhY2djZ25yYVRKSzJqLXNBbUNoaGZiR2c1UWo4NktvQjNQSGNFa0xIWmE4NlhJVzRDQ2N0NFU?oc=5</guid>
+      <pubDate>Tue, 07 Jul 2026 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[FR] Le combiné nordique disparaît, arrivée du freeride et du patinage artistique synchronisé aux JO 2030 - L'Équipe</title>
+      <link>https://news.google.com/rss/articles/CBMi6AFBVV95cUxOVmg3d2tfcjhlN3dsdjBiMFhOeGw4cm5OR1lkU0FYQ3ZRSUwzYVVCTHZvNUZWaTk4SE1VbXlJUVJvWnZJWFhmc2FSTjdxWEdKMG5lUllhNExNLV9iclE3TEdDZmMzclJuWF85Zm1DcVRqdVhYbkJPOHVkOXQ0TnlvNW5EVU1IS19mdURaV0VaUTU1RWJzbWwyZGtzb1VtRWZlVW1Nc3MxYTZuR0NHYzBoOF93UEhjbDNpc2pBYU5UN2E0QWFvRVd5Zk1kOHFadnUwVW91MGs1ejg3NlJDb2lFOWQ3cmJ0TlQ1?oc=5</link>
+      <description>Publié le : Tue, 07 Jul 2026 07:00:00 GMT - Source : Google News (FR)</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi6AFBVV95cUxOVmg3d2tfcjhlN3dsdjBiMFhOeGw4cm5OR1lkU0FYQ3ZRSUwzYVVCTHZvNUZWaTk4SE1VbXlJUVJvWnZJWFhmc2FSTjdxWEdKMG5lUllhNExNLV9iclE3TEdDZmMzclJuWF85Zm1DcVRqdVhYbkJPOHVkOXQ0TnlvNW5EVU1IS19mdURaV0VaUTU1RWJzbWwyZGtzb1VtRWZlVW1Nc3MxYTZuR0NHYzBoOF93UEhjbDNpc2pBYU5UN2E0QWFvRVd5Zk1kOHFadnUwVW91MGs1ejg3NlJDb2lFOWQ3cmJ0TlQ1?oc=5</guid>
       <pubDate>Tue, 07 Jul 2026 07:00:00 +0000</pubDate>
     </item>
     <item>
@@ -148,6 +99,13 @@
       <pubDate>Thu, 16 Jul 2026 07:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>[FR] Athlétisme : Tous les records du monde sur piste, route, marathon, concours et épreuves combinées - olympics.com</title>
+      <link>https://news.google.com/rss/articles/CBMimwFBVV95cUxQdEFodnA0c2tOWTc3ZUpRTWJQaW93ZXhxekhvVVMtam5XZEpnNVgzS09GZ2pIOWh2WUdBZ1VTNl9VUmFtbm9kemxLb2VwNWxwNVJ1Z1AxVGpyRTJIMFo0a1dpemNvZmRBOW5taUFITFJ2U1NGb1FlRHZ5b1FKVWF4RFB5cVl2MmdROUlQVXpJN2ZhY3M4dlNrZ3FOaw?oc=5</link>
+      <description>Publié le : Mon, 20 Jul 2026 07:00:00 GMT - Source : Google News (FR)</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMimwFBVV95cUxQdEFodnA0c2tOWTc3ZUpRTWJQaW93ZXhxekhvVVMtam5XZEpnNVgzS09GZ2pIOWh2WUdBZ1VTNl9VUmFtbm9kemxLb2VwNWxwNVJ1Z1AxVGpyRTJIMFo0a1dpemNvZmRBOW5taUFITFJ2U1NGb1FlRHZ5b1FKVWF4RFB5cVl2MmdROUlQVXpJN2ZhY3M4dlNrZ3FOaw?oc=5</guid>
+      <pubDate>Mon, 20 Jul 2026 07:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>[ES] Málaga 2026 prueba a prueba: combinadas y marcha - RFEA</title>
       <link>https://news.google.com/rss/articles/CBMirAFBVV95cUxNcThmNWx4Zl9HamJ4V1A2UFJvQThxS3liRFVtSUFfLXR2dzZiNkU4NnQxUVJPVjdYQzRUMnh1UDRwalQwOVl3NXk2a1c5X0dHTFVBbVVXU0ZpOFVmV1JnRlNkMklBTC1KYXRBTTZFQzJGMlNNM21TWjZ1RzlzaEJaSmdvZW9zUUlXbC1aNV9ydGJwekJLY3FHYnVhQ2ZfYXNkbUJWUk1IaVFMT01B?oc=5</link>
       <description>Publié le : Wed, 22 Jul 2026 07:00:00 GMT - Source : Google News (ES)</description>
@@ -174,6 +132,20 @@
       <description>Publié le : Sat, 25 Jul 2026 07:00:00 GMT - Source : Google News (ES)</description>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMDltSXg0TUZxeWJMdUJycTR5M2lZQXhuWENfRnpzV1Y2dU1SYU51b3p2aFVVd2NQRFQtdVJtQjdYNjhBcFBzX1JNbWZQTTlPVW8zS0l2RmxKd2ZvaFZ6cVNmbGNxMkp0d0N4bDUydV9uX1c5UmVVR1ZaRDJ2ckx1TnRWRkh5ZExpaVZBWEE0VGhoOEQ2U0RvcGZNUURVU3dlcnFxazNsaDNYTUhJQWZJbHdfek5aQWFCN1Z2bVhmSWVHWmNIN3RFbC1vM0JqSnhSYldCYl9n?oc=5</guid>
       <pubDate>Sat, 25 Jul 2026 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[ES] Fernando Helling y Claudia Chichilnik ganaron el Triatlón de Invierno de Cervantes 2026 - Diario Río Negro</title>
+      <link>https://news.google.com/rss/articles/CBMizgFBVV95cUxOZDZhZFpLbFBRQ29MM1J1QS1jQkY1eFdZdzRtd0VKMEs5RFVTb09BUFB3ZUdWV3lmRDB0c2pUX0xCdzZ0RVVaSHZNWVF5RTE3bDJRSm9xZE02ZnpEMUVXdHVXUXJTMk5vcUFlLU5fOGxkLURZSHlEMU5GSDBYVWNQNHZJQ0pKMllfV3lPdFROWWVXbl96X1hFMjhkeTNMZkNNNVhkX2tXMExBQ3FYdldiZHVPTmtwM3Nod20wUjRuUjUzNlhISkY3Y290TU0zQdIB1gFBVV95cUxPQXRHWU50TlhFRUQ2dUY1bDZNVGpuVlIzNTR1VWE3NlU2dU5IQUZ1ZF84aGtNSFFIMjdVWHlhQ0NqOEd2eklZY0hMSl9SdHhaU2JpOUM1RU9ydm05NHdIdE1yMng3RGdRcTNETVp5WDRIaDZGaGJLMy1lVVczV294Q3lFbDllcmhyaVhmamQweXQ0NG9JcGl0ZXJjcmlGc0lZdl9HMVJsSmdSZEhIaU5MVlFxQlVTWmo3YWZnOGlySUFIMzlzOXpTRERSN29COU1XbXpKdEpR?oc=5</link>
+      <description>Publié le : Sun, 26 Jul 2026 07:00:00 GMT - Source : Google News (ES)</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMizgFBVV95cUxOZDZhZFpLbFBRQ29MM1J1QS1jQkY1eFdZdzRtd0VKMEs5RFVTb09BUFB3ZUdWV3lmRDB0c2pUX0xCdzZ0RVVaSHZNWVF5RTE3bDJRSm9xZE02ZnpEMUVXdHVXUXJTMk5vcUFlLU5fOGxkLURZSHlEMU5GSDBYVWNQNHZJQ0pKMllfV3lPdFROWWVXbl96X1hFMjhkeTNMZkNNNVhkX2tXMExBQ3FYdldiZHVPTmtwM3Nod20wUjRuUjUzNlhISkY3Y290TU0zQdIB1gFBVV95cUxPQXRHWU50TlhFRUQ2dUY1bDZNVGpuVlIzNTR1VWE3NlU2dU5IQUZ1ZF84aGtNSFFIMjdVWHlhQ0NqOEd2eklZY0hMSl9SdHhaU2JpOUM1RU9ydm05NHdIdE1yMng3RGdRcTNETVp5WDRIaDZGaGJLMy1lVVczV294Q3lFbDllcmhyaVhmamQweXQ0NG9JcGl0ZXJjcmlGc0lZdl9HMVJsSmdSZEhIaU5MVlFxQlVTWmo3YWZnOGlySUFIMzlzOXpTRERSN29COU1XbXpKdEpR?oc=5</guid>
+      <pubDate>Sun, 26 Jul 2026 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[ES] Málaga se llena de estrellas - RFEA</title>
+      <link>https://news.google.com/rss/articles/CBMilgFBVV95cUxQOG1fLWtoeEhDR1Uyb1YySVA0clpsVTlDXzJSZk5qSFJFNEJFZzBSdzBqY1RvUUE4MjY2dXpjT3lmUDVhWHVjZ3VlYnlJT1hpUHdDcTdMenptUDJ0YnBkZHFOZ29zd3ltanhhOEYyUXJ1dkNyU3VDUWZtNHNYQ3hOM05Uby1vMm1pZHdQRkNXcTRKVDN1aVE?oc=5</link>
+      <description>Publié le : Sun, 26 Jul 2026 07:00:00 GMT - Source : Google News (ES)</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMilgFBVV95cUxQOG1fLWtoeEhDR1Uyb1YySVA0clpsVTlDXzJSZk5qSFJFNEJFZzBSdzBqY1RvUUE4MjY2dXpjT3lmUDVhWHVjZ3VlYnlJT1hpUHdDcTdMenptUDJ0YnBkZHFOZ29zd3ltanhhOEYyUXJ1dkNyU3VDUWZtNHNYQ3hOM05Uby1vMm1pZHdQRkNXcTRKVDN1aVE?oc=5</guid>
+      <pubDate>Sun, 26 Jul 2026 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[EN] Americans wagered more on sports gambling than they spent on movies, museums, and music combined - Fortune</title>
@@ -232,6 +204,13 @@
       <pubDate>Wed, 12 Aug 2026 00:33:29 +0000</pubDate>
     </item>
     <item>
+      <title>[ES] Tandil viaja al Festival Nacional U14 en Santa Rosa, La Pampa - El diario de Tandil</title>
+      <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxPM253N0NSZWRJRzRxRmlMVzVfLUcxSzB3SHBoeThKckZLTE1hSHdRREVZUkZ1VF9JZkJKUFA3OGEzOFRIUXRtZF9zQlFnWmY0bXdmb045YUY5bmxKS2VjSzhlUXA1MXljQ3dNN29vNjFITl91M3dYS1I5V0c5czVhbVA2MGcxVGR6VFgzdWV2V01uOGtwVVZUT3NEaEpPLV84bTRYZEd3Snc?oc=5</link>
+      <description>Publié le : Thu, 13 Aug 2026 07:00:00 GMT - Source : Google News (ES)</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiqAFBVV95cUxPM253N0NSZWRJRzRxRmlMVzVfLUcxSzB3SHBoeThKckZLTE1hSHdRREVZUkZ1VF9JZkJKUFA3OGEzOFRIUXRtZF9zQlFnWmY0bXdmb045YUY5bmxKS2VjSzhlUXA1MXljQ3dNN29vNjFITl91M3dYS1I5V0c5czVhbVA2MGcxVGR6VFgzdWV2V01uOGtwVVZUT3NEaEpPLV84bTRYZEd3Snc?oc=5</guid>
+      <pubDate>Thu, 13 Aug 2026 07:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>[FR] Athlétisme : Tous les records de France sur piste, route, marathon, concours et épreuves combinées | Liste complète - olympics.com</title>
       <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxNeE9kaS1iRjZSOXZIZU4yR3NFeVlPTUU4Q2R4LTF6YUFERWZzWm9qOHhBbnp6WTl0S3RtZ2sxOVNfWTRtMFBFM2tGSVg0STNWcWNoYUFCYzhMcktSWnZSU1lsLVA5VzhfNk84M2ZwaU9sYjhpWjhDOGNidTgzNkNhV0wwUElkRU82SzlUQ1gxSkxITXpxanJfUXRidHJNU081Y0lUVnhTSWR6dEZmbkk0V0pTX2o0NjQ?oc=5</link>
       <description>Publié le : Thu, 13 Aug 2026 07:00:00 GMT - Source : Google News (FR)</description>
@@ -260,11 +239,25 @@
       <pubDate>Fri, 14 Aug 2026 22:39:00 +0000</pubDate>
     </item>
     <item>
+      <title>[ES] El 29 de agosto se correrá una nueva edición del Tetratlón Chapelco - NoticiasNQN</title>
+      <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQkNtUzNMd2JTZnRtdFdwU2FnYkxDLS1WejFSdjdZdFhIemhKZFpXUkllVnIyV055dmhrNk5qellGXy1Gbjc2LTF0QVlNa3ZRXzFmVFB3eTFGOENkbzd1bW1CalRNZ01INjBVWEt5bnpwcG5pR2pKVEEwN3VxVGMtZjdfUFJzbTZ5Mk50ZnNTVzA4Y3dRQXJEV1BqUkxhRkhkY1dZUWFuWnBNV2l2aWk4ZUF3UVdZZ1ljR2dJYkVxdXlhdzTSAcgBQVVfeXFMUE1ZeFI1ZmUyWG5yNV9oX3BxeklzeFBsbDVKYjl1RUJld0NfbkVmbENfVVdHYWVsbVg3MnQzOVlPXzYyRFNWS0R0TVg5RWV2eGYxbm9mUjVUX0FKb1lvY3J4YXlzdTRMRktfaXRfVm00dFVRUWVGMnoyNU9RcWZLNV9hNktSWHNhdkJsN0ZBQWsxZFhROU1aTEtmV2toLXZVcmo5QXFhNEFtMjd1emV3WDFCU0Fjc0EyX2Eyd2VPd2pubVY2bENMYm4?oc=5</link>
+      <description>Publié le : Sat, 15 Aug 2026 12:35:39 GMT - Source : Google News (ES)</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQkNtUzNMd2JTZnRtdFdwU2FnYkxDLS1WejFSdjdZdFhIemhKZFpXUkllVnIyV055dmhrNk5qellGXy1Gbjc2LTF0QVlNa3ZRXzFmVFB3eTFGOENkbzd1bW1CalRNZ01INjBVWEt5bnpwcG5pR2pKVEEwN3VxVGMtZjdfUFJzbTZ5Mk50ZnNTVzA4Y3dRQXJEV1BqUkxhRkhkY1dZUWFuWnBNV2l2aWk4ZUF3UVdZZ1ljR2dJYkVxdXlhdzTSAcgBQVVfeXFMUE1ZeFI1ZmUyWG5yNV9oX3BxeklzeFBsbDVKYjl1RUJld0NfbkVmbENfVVdHYWVsbVg3MnQzOVlPXzYyRFNWS0R0TVg5RWV2eGYxbm9mUjVUX0FKb1lvY3J4YXlzdTRMRktfaXRfVm00dFVRUWVGMnoyNU9RcWZLNV9hNktSWHNhdkJsN0ZBQWsxZFhROU1aTEtmV2toLXZVcmo5QXFhNEFtMjd1emV3WDFCU0Fjc0EyX2Eyd2VPd2pubVY2bENMYm4?oc=5</guid>
+      <pubDate>Sat, 15 Aug 2026 12:35:39 +0000</pubDate>
+    </item>
+    <item>
       <title>[EN] Combined World Championships: Top Women's Performances from Summer's International Meets - Swimming World</title>
       <link>https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWkt3ekVjUUNoWjdqY0RCNV94UXdmekRNLUNhSDZwWHJxUklVR3FPcXJydUswNTVSRlVYeDhMWGJaS29fVkZTZ2g4VmwzMTkzTk5BTS16enVoRmNCYS1tdTNjdGpBQnZXeEoxRHM0NUhUNUk4UGhSV2o0RGY3MGhvbkJDOXVqS2RoaGpUd3dYcDJ1M3hOS013ODg3S3ZpZDczeG1CbjRtZVJoWDJ1VnEySnJDX1pMenVEZXh3Yjlrcml2bWFPVDFXcg?oc=5</link>
       <description>Publié le : Wed, 19 Aug 2026 01:48:00 GMT - Source : Google News (EN)</description>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWkt3ekVjUUNoWjdqY0RCNV94UXdmekRNLUNhSDZwWHJxUklVR3FPcXJydUswNTVSRlVYeDhMWGJaS29fVkZTZ2g4VmwzMTkzTk5BTS16enVoRmNCYS1tdTNjdGpBQnZXeEoxRHM0NUhUNUk4UGhSV2o0RGY3MGhvbkJDOXVqS2RoaGpUd3dYcDJ1M3hOS013ODg3S3ZpZDczeG1CbjRtZVJoWDJ1VnEySnJDX1pMenVEZXh3Yjlrcml2bWFPVDFXcg?oc=5</guid>
       <pubDate>Wed, 19 Aug 2026 01:48:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[ES] Se disputará la 4ª fecha del Duatlón de Concordia y la 3ª fecha de los 5K - elheraldo.com.ar</title>
+      <link>https://news.google.com/rss/articles/CBMivAFBVV95cUxPQkdGbFFOSkYyeFQydGZSZVNYUlFmN1ZNZ1FXVDBoZkhPVWhOS0d6aFhWVHhHN3ctMmhiVlB0cDF0RzNVd2NkemphdjhXTmZqUUItVnJhQzJzSUhhOHNFRTJYSHR0OExfQ01LV0hHck5sVjVDNktoUTdYNF84RnI0TnZTQ3FCLV92NjJyZXo1eExIejZXbkp4QTJ4clVUdVAwVzI5dlotODU2R3JVbUQwVXZpUEd4VUZVWUQ1SA?oc=5</link>
+      <description>Publié le : Wed, 19 Aug 2026 12:30:00 GMT - Source : Google News (ES)</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivAFBVV95cUxPQkdGbFFOSkYyeFQydGZSZVNYUlFmN1ZNZ1FXVDBoZkhPVWhOS0d6aFhWVHhHN3ctMmhiVlB0cDF0RzNVd2NkemphdjhXTmZqUUItVnJhQzJzSUhhOHNFRTJYSHR0OExfQ01LV0hHck5sVjVDNktoUTdYNF84RnI0TnZTQ3FCLV92NjJyZXo1eExIejZXbkp4QTJ4clVUdVAwVzI5dlotODU2R3JVbUQwVXZpUEd4VUZVWUQ1SA?oc=5</guid>
+      <pubDate>Wed, 19 Aug 2026 12:30:00 +0000</pubDate>
     </item>
     <item>
       <title>[EN] A busy weekend to come of championship competitions: England Athletics U16 &amp; U18 Combined Events, Senior Para Championships and National Relay Championships - England Athletics</title>
@@ -279,6 +272,13 @@
       <description>Publié le : Thu, 20 Aug 2026 07:07:13 GMT - Source : Google News (ES)</description>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMilAFBVV95cUxNeWdsRElabklUQUxYY19pQUtSRFNOT0RtTnFOLUFGVE8tWGlndkk2Tmw2Z0dDYlRUdloyc0JHZU9QMDVWUVQyRGxPZWhMcHI0ekV6cnYzTVpubWJXYUJ1NUpVY1hnVkdPdnk4aEwwSG9OWHF2ZnVBQWlpZ1ZqMG9CTXNBNS03NWhzaWxJMW83TWJGcTJ4?oc=5</guid>
       <pubDate>Thu, 20 Aug 2026 07:07:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>[EN] Combined World Championships: Hubert Kos, Sam Short Lead Two Events Apiece - Swimming World</title>
+      <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxPMlpHS3ctWWIwcWpEQ1lUZnVma3UtTF9HdnlpN3l1NHNxU3pWVnplOHU5REs3Tnp2dE02SEdLMDNtaGNuU1JONUVEcW5ZWTlic3p1ZjlIbWJhSWRlMnJhQ2ZwN1pTMlhqU0ZyN1dReDVGV1cwRS11eXJYZDlVYkhnMnJteGJGSEdzUi1Eby1WdnBJaTJ4dHl6SzRtQmhTTGlXaUx6RE9jOW5BZ21zMS0zVlZaN2k5STA?oc=5</link>
+      <description>Publié le : Thu, 20 Aug 2026 11:33:00 GMT - Source : Google News (EN)</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitwFBVV95cUxPMlpHS3ctWWIwcWpEQ1lUZnVma3UtTF9HdnlpN3l1NHNxU3pWVnplOHU5REs3Tnp2dE02SEdLMDNtaGNuU1JONUVEcW5ZWTlic3p1ZjlIbWJhSWRlMnJhQ2ZwN1pTMlhqU0ZyN1dReDVGV1cwRS11eXJYZDlVYkhnMnJteGJGSEdzUi1Eby1WdnBJaTJ4dHl6SzRtQmhTTGlXaUx6RE9jOW5BZ21zMS0zVlZaN2k5STA?oc=5</guid>
+      <pubDate>Thu, 20 Aug 2026 11:33:00 +0000</pubDate>
     </item>
     <item>
       <title>[EN] Autumn Hanna earns National Championship medal in pentathlon - SportsCage.com</title>
