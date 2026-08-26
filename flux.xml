@@ -6,14 +6,7 @@
     <description>Flux international automatisé (FR/EN/ES) pour Heptaleo.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 26 Aug 2026 12:50:42 +0000</lastBuildDate>
-    <item>
-      <title>[EN] Nordic Combined cut from Olympic Winter Games - FIS | International Ski and Snowboard Federation</title>
-      <link>https://news.google.com/rss/articles/CBMinwFBVV95cUxNRHUtc2xuRy1Jcm8wMi05UjA3LVV5Wl9kWS1YMWphOFh2RzhELXZWd3BXYno3T1U5UllYUVRYN1VSWmJid1dKNGFpcFBIdk5CRHh6TXZIUE8wdnNadUw0M0g3REJPN25VcU5QVVBHOHoyTjlSSWpyOC1FU1RhQm1ORmRSNzBGME82VXBtclRweG9ydmFBNHREUm0zN0VxWkE?oc=5</link>
-      <description>Publié le : Tue, 07 Jul 2026 07:00:00 GMT - Source : Google News (EN)</description>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMinwFBVV95cUxNRHUtc2xuRy1Jcm8wMi05UjA3LVV5Wl9kWS1YMWphOFh2RzhELXZWd3BXYno3T1U5UllYUVRYN1VSWmJid1dKNGFpcFBIdk5CRHh6TXZIUE8wdnNadUw0M0g3REJPN25VcU5QVVBHOHoyTjlSSWpyOC1FU1RhQm1ORmRSNzBGME82VXBtclRweG9ydmFBNHREUm0zN0VxWkE?oc=5</guid>
-      <pubDate>Tue, 07 Jul 2026 07:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 26 Aug 2026 19:46:21 +0000</lastBuildDate>
     <item>
       <title>[EN] New figure skating event, removal of Nordic Combined highlights 2030 Winter Olympics program - NBC4 WCMH-TV</title>
       <link>https://news.google.com/rss/articles/CBMiwAFBVV95cUxQY2kya0lGOWcwcncwb1p2NzZQQmZWMXM1VTlGbFVQOEFqcGpIUVNWamxrMU5sZUU0Vk15V3hTMllZZFVGaHE0ZWoxcGRFdmdTSXR5V3U3T1JCLXZUckVrVWd6cktiUUdhZmNOMzBBV3hUZEFnaTZ1TEV1cUc4Z0pzcDdDMzdiME50VTVBVUU1aC0xbDFmTEtNOTBQTUx6aHdoU3A2N3BHOUt6YTN5dVNMRUs4Slh1U1JXcFdmTlRvb0nSAcYBQVVfeXFMUGFsbnRwcGEwSjlPM2h5MWZINHpOS0JnZTdsV0I5Zm9EZTlrems3dmlrbWhrXzZjMTFoZlJTLV9tcHVOeGV6QV9WRGhaMWYzempxVTV4cDhGWlFWellmTGdwOVFrOFJaSnhVWUphcmFDdEh5LXgzMHhvM1ZsemRkX0lLd2FBRW5MdWZ6dlM2WGthVWYxbkxTRGt4anEyU09IUW11VDJKU2g0dHBoVnRxeFl5eWpUQ1ZEOURwSDdRa2NVWC1aa2N3?oc=5</link>
@@ -26,6 +19,13 @@
       <link>https://news.google.com/rss/articles/CBMiigFBVV95cUxQamFjaUNBTkg5clhFSldoaEpSWWZ1NHpXSW5yd245d3hFUWVTMUdnTkdLTGZPZWZPcUpBbUE1STRrbmlfWHhWUnZpUXAwd0RDbzNEbGw2VUM1blFZM1g5bmlFUlZ0eDFKZk1DUGo3LTBiYWxtTFlROTZKV1M1UHVuRUxQR1VFX1hhUWc?oc=5</link>
       <description>Publié le : Tue, 07 Jul 2026 07:00:00 GMT - Source : Google News (EN)</description>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiigFBVV95cUxQamFjaUNBTkg5clhFSldoaEpSWWZ1NHpXSW5yd245d3hFUWVTMUdnTkdLTGZPZWZPcUpBbUE1STRrbmlfWHhWUnZpUXAwd0RDbzNEbGw2VUM1blFZM1g5bmlFUlZ0eDFKZk1DUGo3LTBiYWxtTFlROTZKV1M1UHVuRUxQR1VFX1hhUWc?oc=5</guid>
+      <pubDate>Tue, 07 Jul 2026 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[EN] Alpes 2030 to be first gender-equal Olympic Winter Games – freeride (ski and snowboard) and synchro9 (figure skating) athletes to debut - olympics.com</title>
+      <link>https://news.google.com/rss/articles/CBMi9gFBVV95cUxQdTI0VHVJNXNObjlZX0dIM21TTFZGejVmclQ5ZzlRSkNFUzRQY3JKVW9ncHk1dy1oZWQ0REdON1JydlAyMTZUQnZ1UkJIdlQxQkRDUlhqc2IyYkNxSHRIYWh0cnA1X09pYUNGVDIyMlR1M215SWl5ZHBKSURHNFg3V3NYc0g3YWZQNnlzNEQzTzFzZE9fTE9CSGk2N0xLNVY4bkc5NG1QeUZJaGRsNTV2dk1YYU9qeWZOaFpURGpBaU9vZ1VWTk0zSkJKOTAyZG5BWU1vOU5OR0lYeWdibUJ6cllSNGd5amdhMXJjZUZha1k3Yk9DT2c?oc=5</link>
+      <description>Publié le : Tue, 07 Jul 2026 07:00:00 GMT - Source : Google News (EN)</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi9gFBVV95cUxQdTI0VHVJNXNObjlZX0dIM21TTFZGejVmclQ5ZzlRSkNFUzRQY3JKVW9ncHk1dy1oZWQ0REdON1JydlAyMTZUQnZ1UkJIdlQxQkRDUlhqc2IyYkNxSHRIYWh0cnA1X09pYUNGVDIyMlR1M215SWl5ZHBKSURHNFg3V3NYc0g3YWZQNnlzNEQzTzFzZE9fTE9CSGk2N0xLNVY4bkc5NG1QeUZJaGRsNTV2dk1YYU9qeWZOaFpURGpBaU9vZ1VWTk0zSkJKOTAyZG5BWU1vOU5OR0lYeWdibUJ6cllSNGd5amdhMXJjZUZha1k3Yk9DT2c?oc=5</guid>
       <pubDate>Tue, 07 Jul 2026 07:00:00 +0000</pubDate>
     </item>
     <item>
@@ -48,13 +48,6 @@
       <description>Publié le : Tue, 07 Jul 2026 07:00:00 GMT - Source : Google News (FR)</description>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMilwFBVV95cUxQbkVzcmh2QzBLWndrMVVYaGVwZHpubzNNeEhJSHlLbGQzcHUtNDU0UXVyQ3ozallSNWJ0VGVYRENnSHRWQmMyOEZwX295cjNtNG5WSVUwOGh0MUtXWnRxMGdkaHBidGNlczVFbzMwNjBKRVdyNVB4R0hsU0dpOWRjYjhLQktPQm5QbmhQMG5SOHB5dWpLY2hB?oc=5</guid>
       <pubDate>Tue, 07 Jul 2026 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[EN] Alpes 2030 to be first gender-equal Olympic Winter Games – freeride (ski and snowboard) and synchro9 (figure skating) athletes to debut - olympics.com</title>
-      <link>https://news.google.com/rss/articles/CBMi9gFBVV95cUxQdTI0VHVJNXNObjlZX0dIM21TTFZGejVmclQ5ZzlRSkNFUzRQY3JKVW9ncHk1dy1oZWQ0REdON1JydlAyMTZUQnZ1UkJIdlQxQkRDUlhqc2IyYkNxSHRIYWh0cnA1X09pYUNGVDIyMlR1M215SWl5ZHBKSURHNFg3V3NYc0g3YWZQNnlzNEQzTzFzZE9fTE9CSGk2N0xLNVY4bkc5NG1QeUZJaGRsNTV2dk1YYU9qeWZOaFpURGpBaU9vZ1VWTk0zSkJKOTAyZG5BWU1vOU5OR0lYeWdibUJ6cllSNGd5amdhMXJjZUZha1k3Yk9DT2c?oc=5</link>
-      <description>Publié le : Tue, 07 Jul 2026 14:06:05 GMT - Source : Google News (EN)</description>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi9gFBVV95cUxQdTI0VHVJNXNObjlZX0dIM21TTFZGejVmclQ5ZzlRSkNFUzRQY3JKVW9ncHk1dy1oZWQ0REdON1JydlAyMTZUQnZ1UkJIdlQxQkRDUlhqc2IyYkNxSHRIYWh0cnA1X09pYUNGVDIyMlR1M215SWl5ZHBKSURHNFg3V3NYc0g3YWZQNnlzNEQzTzFzZE9fTE9CSGk2N0xLNVY4bkc5NG1QeUZJaGRsNTV2dk1YYU9qeWZOaFpURGpBaU9vZ1VWTk0zSkJKOTAyZG5BWU1vOU5OR0lYeWdibUJ6cllSNGd5amdhMXJjZUZha1k3Yk9DT2c?oc=5</guid>
-      <pubDate>Tue, 07 Jul 2026 14:06:05 +0000</pubDate>
     </item>
     <item>
       <title>[EN] Nordic Combined Skiing Dropped from Olympic Program After Over 100 Years - SnowBrains</title>
@@ -286,6 +279,13 @@
       <description>Publié le : Mon, 24 Aug 2026 17:59:13 GMT - Source : Google News (EN)</description>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitAFBVV95cUxOV3lpTUdCVkYwZG90WTh6UGlwamd2WEdPMXM0QktNcUlqOTRSSVE5dnNGSmhLX1hmTkJ0dWZxV1pLTUs3VWFSN2NSVDNlaHIxdkNaR0Z2ei1TUGVHOTd3YWpXMHV6djNRY1NoVkFBa2lpaWhlT0RkLWFrSVJhb1d0d0RXdEpJZ3AwaU5MRWdxRGdXZWRNZ1VnNlZCUEJ6OEd3aEJnOFBOOUNwRDhWUUdQV3l0dWI?oc=5</guid>
       <pubDate>Mon, 24 Aug 2026 17:59:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>[EN] Seo Chang-wan, Seong Seung-min win gold at pentathlon world championships ahead of Asian Games - Korea JoongAng Daily</title>
+      <link>https://news.google.com/rss/articles/CBMi2gFBVV95cUxOek85bTNjTkQ1ZURNRmlUSGNVcE4yS0hfM0R4WHRPOG43RDAzVkI3cURfcUZ2Mk9nMmo0NGt4YkRpOUhiWjZOaFJlX3FKRGdEbEdWaUlpUGRKb000M2o4djJxb1g5eUVNTzVYUkNReHV3ZERJY0dEMEttb3ZaS0VHUnlQNko0OG5GX29MRDVWY1ZvajVYTWlTTXR3WV9TSWFjazBDV0k2MnJKbkNtOFQwU2RMNFV3em9xZ2RQcGRreDVZa1UxbS1TeE1QSVFtZm1tMTRNbDRvMy1JZw?oc=5</link>
+      <description>Publié le : Wed, 26 Aug 2026 06:42:23 GMT - Source : Google News (EN)</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi2gFBVV95cUxOek85bTNjTkQ1ZURNRmlUSGNVcE4yS0hfM0R4WHRPOG43RDAzVkI3cURfcUZ2Mk9nMmo0NGt4YkRpOUhiWjZOaFJlX3FKRGdEbEdWaUlpUGRKb000M2o4djJxb1g5eUVNTzVYUkNReHV3ZERJY0dEMEttb3ZaS0VHUnlQNko0OG5GX29MRDVWY1ZvajVYTWlTTXR3WV9TSWFjazBDV0k2MnJKbkNtOFQwU2RMNFV3em9xZ2RQcGRreDVZa1UxbS1TeE1QSVFtZm1tMTRNbDRvMy1JZw?oc=5</guid>
+      <pubDate>Wed, 26 Aug 2026 06:42:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
